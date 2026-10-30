@@ -1,0 +1,50 @@
+{
+  "bvid": "BV14ZJR6DEXN",
+  "title": "花生猜猜这是哪个AI做的（720p审阅代理）",
+  "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\测试\\bilibili-editing-study\\.local-media\\BV14ZJR6DEXN-review-720.mp4",
+  "source_sha256": "86ce1c69602ef9999487d98bce2ba2101a1f6bb0bbe399de76a6185a7f681b49",
+  "duration": 153.002667,
+  "original_fps": 30.0,
+  "width": 1280,
+  "height": 720,
+  "has_audio": true,
+  "overview_step": 4.0,
+  "overview_frames": 39,
+  "scene_threshold": 0.24,
+  "scene_candidates": [],
+  "review_windows": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "scene_candidate_count": 0,
+      "scene_candidates": [],
+      "dense_start": 0.0,
+      "dense_fps": 15,
+      "dense_seconds": 2.0,
+      "clip": "evidence/BV14ZJR6DEXN/excerpt-1.mp4",
+      "contact_sheets": [
+        "evidence/BV14ZJR6DEXN/dense-1-1.jpg",
+        "evidence/BV14ZJR6DEXN/dense-1-2.jpg"
+      ]
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "scene_candidate_count": 0,
+      "scene_candidates": [],
+      "dense_start": 5.0,
+      "dense_fps": 15,
+      "dense_seconds": 2.0,
+      "clip": "evidence/BV14ZJR6DEXN/excerpt-2.mp4",
+      "contact_sheets": [
+        "evidence/BV14ZJR6DEXN/dense-2-1.jpg",
+        "evidence/BV14ZJR6DEXN/dense-2-2.jpg"
+      ]
+    }
+  ],
+  "limits": [
+    "Scene detector candidates are not manually verified edit boundaries.",
+    "Labels use selected source-frame timestamps; sampling has finite temporal resolution.",
+    "Audio is included in clips; inclusion does not prove auditory review."
+  ]
+}

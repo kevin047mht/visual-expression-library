@@ -1,0 +1,98 @@
+{
+  "bvid": "BV186pc65E68",
+  "title": "用10亿token 13017帧画出Claude眼中的世界（审阅1080p轨）",
+  "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\测试\\bilibili-editing-study\\.local-media\\BV186pc65E68-review-1080.mp4",
+  "source_sha256": "84ed60b3b328537a8b04ef6dfea505101b6b86ebafeaea01e55f9e6886cadb6c",
+  "duration": 216.967256,
+  "original_fps": 60.0,
+  "width": 1920,
+  "height": 1080,
+  "has_audio": true,
+  "overview_step": 6.0,
+  "overview_frames": 37,
+  "scene_threshold": 0.24,
+  "scene_candidates": [
+    20.116688,
+    21.966687,
+    31.2,
+    48.516688,
+    67.666687,
+    70.433312,
+    71.35,
+    74.35,
+    75.05,
+    78.283313,
+    78.733312,
+    79.2,
+    82.666687,
+    90.05,
+    93.966688,
+    95.816688,
+    111.283313,
+    115.2,
+    117.966688,
+    119.816688,
+    129.9,
+    166.883313,
+    167.816688,
+    170.116688,
+    170.583313,
+    171.5,
+    173.816688,
+    174.283312,
+    175.2,
+    177.733313,
+    177.966688,
+    178.883313,
+    185.816688,
+    189.5,
+    192.733313,
+    193.433312,
+    197.35
+  ],
+  "review_windows": [
+    {
+      "start": 170.0,
+      "end": 174.0,
+      "scene_candidate_count": 4,
+      "scene_candidates": [
+        170.116688,
+        170.583313,
+        171.5,
+        173.816688
+      ],
+      "dense_start": 170.0,
+      "dense_fps": 15,
+      "dense_seconds": 2.0,
+      "clip": "evidence/BV186pc65E68/excerpt-1.mp4",
+      "contact_sheets": [
+        "evidence/BV186pc65E68/dense-1-1.jpg",
+        "evidence/BV186pc65E68/dense-1-2.jpg"
+      ]
+    },
+    {
+      "start": 175.0,
+      "end": 179.0,
+      "scene_candidate_count": 4,
+      "scene_candidates": [
+        175.2,
+        177.733313,
+        177.966688,
+        178.883313
+      ],
+      "dense_start": 176.8999999999999,
+      "dense_fps": 15,
+      "dense_seconds": 2.0,
+      "clip": "evidence/BV186pc65E68/excerpt-2.mp4",
+      "contact_sheets": [
+        "evidence/BV186pc65E68/dense-2-1.jpg",
+        "evidence/BV186pc65E68/dense-2-2.jpg"
+      ]
+    }
+  ],
+  "limits": [
+    "Scene detector candidates are not manually verified edit boundaries.",
+    "Labels use selected source-frame timestamps; sampling has finite temporal resolution.",
+    "Audio is included in clips; inclusion does not prove auditory review."
+  ]
+}

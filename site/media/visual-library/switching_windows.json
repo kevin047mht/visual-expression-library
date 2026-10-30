@@ -1,0 +1,3290 @@
+{
+  "scope": "Observed windows and unstructured legacy assessments. Counts are conservative within the stated sample resolution, not peak/full-video/model rankings. None means unconfirmed, never zero by default.",
+  "rows": [
+    {
+      "group": "AI相关候选",
+      "bvid": "BV12Zhm6oE6m",
+      "title": "已吓哭 opus5.5真神降临 群论之美宣传片",
+      "window_seconds": [
+        4.4,
+        6.4
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 5,
+      "minimum_per_second": 2.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [4.4, 6.4], \"minimum_major_composition_changes\": 5, \"manually_observed_boundaries_approx\": [4.667, 5.0, 5.333, 5.667, 6.0], \"caution\": \"保守5次主题画面切换，下限2.5次/秒。6.333秒边缘还有白闪/下一图形进入，未纳入保守数；白闪引起检测器连续两帧触发不加倍。237–239秒保守2次主题变化（237.333、238.667），238秒同一雪花从粒子态转清晰图形的变化单列不累加。26–30秒无明确切镜，只有雪花转动、箭头/轴和字幕变换。这些是选定窗口而非全片平均；未听审，不宣称卡点。\"}",
+      "evidence": "evidence/BV12Zhm6oE6m/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV13E41117ys",
+      "title": "【鸢一折纸】折纸大师的千层套路",
+      "window_seconds": [
+        3.72,
+        5.72
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [3.72, 5.72], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [3.96, 4.32, 5.32], \"assessment\": \"头像片头→人物→门铃手指→人物反应至少三次；5.32后人物收缩/退后为动作不逐帧加刀。\"}",
+      "evidence": "evidence/BV13E41117ys/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV13E41117ys",
+      "title": "【鸢一折纸】折纸大师的千层套路",
+      "window_seconds": [
+        26,
+        28
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [26, 28], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [26.16], \"assessment\": \"茶杯→双人至少一次。26.24–26.64横条脸窗展开/收起另列局部插窗事件，不把每个景别变化加刀；跌倒为镜内动作。\"}",
+      "evidence": "evidence/BV13E41117ys/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV13E41117ys",
+      "title": "【鸢一折纸】折纸大师的千层套路",
+      "window_seconds": [
+        94,
+        98
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [94, 98], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [96.04, 96.16], \"assessment\": \"双人分屏→户外人物至少一次；94.84右侧局部眼睛窗属于局部图像替换，不算整屏主镜切换。\"}",
+      "evidence": "evidence/BV13E41117ys/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV13P4y1s7ti",
+      "title": "奇蛋物语／蜕变 MAD",
+      "window_seconds": [
+        166.8,
+        168.8
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [166.8, 168.8], \"minimum_major_composition_changes\": 2, \"caution\": \"至少两次主要版式替换（167.584、168.085秒），此窗口保守下限约1次/秒；重复条块滚动与168.418秒配色变化另记为动画。159.9–161.9秒大量闪色与字效围绕同一脸部，不能按闪色计镜头。\"}",
+      "evidence": "evidence/BV13P4y1s7ti/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV147411m7aM",
+      "title": "下次，我会握紧你的手（4部新海诚动画电影混剪AMV）",
+      "window_seconds": [
+        67,
+        69
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [67, 69], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [67.167, 68.402], \"assessment\": \"奔跑腿部→较近上身侧脸→更宽跳跃至少两次；树影扫过、星芒和人物动作不另加。\"}",
+      "evidence": "evidence/BV147411m7aM/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV147411m7aM",
+      "title": "下次，我会握紧你的手（4部新海诚动画电影混剪AMV）",
+      "window_seconds": [
+        174.3,
+        176.3
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [174.3, 176.3], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [174.441, 175.308], \"assessment\": \"线轴→铃铛手部→巫女脸两次；铃铛旋转、眼动、袖子转身不另计。\"}",
+      "evidence": "evidence/BV147411m7aM/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV147411m7aM",
+      "title": "下次，我会握紧你的手（4部新海诚动画电影混剪AMV）",
+      "window_seconds": [
+        130,
+        134
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 6,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [130, 134], \"confirmed_major_composition_changes_minimum\": 6, \"boundaries_approx\": [130.13, 130.33, 130.731, 131.131, 132.233, 132.533], \"assessment\": \"手→男脸→女脸→男脸→双人宽景→另一角度→较近双人至少六次，132.433/132.933暗脉冲和133.233白闪不额外加刀；末段角度变化不强计。包含原动画剪接，不能全归UP新增。\"}",
+      "evidence": "evidence/BV147411m7aM/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV14ZJR6DEXN",
+      "title": "猜猜这是哪个AI做的，Opus 5.5还是Deepseek 1017？",
+      "window_seconds": [
+        82,
+        86
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [82, 86], \"minimum_major_composition_changes\": null, \"caution\": \"Mainly camera movement, local charts and light updates; no hard-cut count. A scene threshold yielding zero is not proof of zero transitions.\"}",
+      "evidence": "evidence/BV14ZJR6DEXN/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV15hW3zNECn",
+      "title": "予你花束，予我遗忘",
+      "window_seconds": [
+        60.5,
+        62.5
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [60.5, 62.5], \"minimum_major_composition_changes\": 3, \"approximate_times\": [60.9, 61.633, 62.433], \"lower_bound_per_second\": 1.5, \"caution\": \"选定窗口下限；约0.067秒采样。另68.5–70.5秒两次明确场景替换，不把人群或雪花更新算切镜。\"}",
+      "evidence": "evidence/BV15hW3zNECn/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV16apozTEkm",
+      "title": "《静止系mad/风华回战2025》正如我们共同谱写的故事那般",
+      "window_seconds": [
+        4.4,
+        6.4
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [4.4, 6.4], \"confirmed_major_composition_changes_minimum\": 0, \"assessment\": \"同一桌面平移，手机离画、照片渐显与合成快照嵌套均为镜内图层；无证实整屏镜头替换。片头归属待核。\"}",
+      "evidence": "evidence/BV16apozTEkm/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV16apozTEkm",
+      "title": "《静止系mad/风华回战2025》正如我们共同谱写的故事那般",
+      "window_seconds": [
+        28,
+        30
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [28, 30], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [28.267, 29.533], \"assessment\": \"漏光接牵手、牵手接低机位双人至少2次构图连接，下限1次/秒；29.8撕条并恢复同构图不新增一刀。\"}",
+      "evidence": "evidence/BV16apozTEkm/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV16apozTEkm",
+      "title": "《静止系mad/风华回战2025》正如我们共同谱写的故事那般",
+      "window_seconds": [
+        44,
+        48
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [44, 48], \"confirmed_major_composition_changes_minimum\": 4, \"boundaries_approx\": [44.9, 45.2, 45.9, 47], \"assessment\": \"叶片→重复字→花朵字卡→儿童→少女画本至少四次，下限1次/秒；负片/大字闪帧和47.7向书本推近不各算切镜。\"}",
+      "evidence": "evidence/BV16apozTEkm/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV16G4y1F7Dd",
+      "title": "从今往后无人再说芦毛跑不快！",
+      "window_seconds": [
+        207,
+        209
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [207, 209], \"minimum_major_composition_changes\": null, \"caution\": \"After one impact-frame transition, mainly one side-following run with foreground pillars. Occlusions, ghosting and electricity are not independent cuts. Another reviewed window has beam/run/face stages, not a verified whole-video cut rate.\"}",
+      "evidence": "evidence/BV16G4y1F7Dd/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV16kTazbE8v",
+      "title": "【奇蛋物语MAD】仿蜕变的稚气",
+      "window_seconds": [
+        149,
+        151
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [149, 151], \"confirmed_major_composition_changes_minimum\": 0, \"local_events\": [\"脸部动作持续\", \"线稿/灰阶/双色/高亮切换\", \"NIGHT/DIVER及字母排布更新\"], \"assessment\": \"所看采样无明确独立主镜头替换；不是12刀。背景表情动画与字/滤镜状态很密，不能据此称无动画变化。\"}",
+      "evidence": "evidence/BV16kTazbE8v/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV16kTazbE8v",
+      "title": "【奇蛋物语MAD】仿蜕变的稚气",
+      "window_seconds": [
+        58.3,
+        60.3
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 2.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [58.3, 60.3], \"confirmed_major_composition_changes_minimum\": 4, \"boundaries_approx\": [58.8, 59.28, 59.68, 60.16], \"assessment\": \"保持人物的图形主模块至少4次替换，下限2次/秒；这是版面/字卡连接，不是四个摄影镜头。\"}",
+      "evidence": "evidence/BV16kTazbE8v/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV16kTazbE8v",
+      "title": "【奇蛋物语MAD】仿蜕变的稚气",
+      "window_seconds": [
+        22,
+        26
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [22, 26], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [22.36, 24.04], \"assessment\": \"白/黑形遮罩→脸部主图→坐姿大字主图至少2次，方块漂动、表情与拉远不加刀。\"}",
+      "evidence": "evidence/BV16kTazbE8v/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV17K4y167nK",
+      "title": "崩 溃 边 缘",
+      "window_seconds": null,
+      "event_type": "未结构化计数",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window_seconds\": [56.3, 58.3], \"observed_minimum_shot_changes\": 3, \"boundaries_bracketed_seconds\": [[57.033, 57.1], [57.567, 57.633], [58.167, 58.233]], \"interpretation\": \"约2秒内至少3次可辨构图切换；大量高场景分数来自连续镜头枪火、闪光、电弧，不能据此称每秒几十次切镜。15fps抽样只能将切点夹在约67ms范围，可能漏掉更短插帧。93.9-95.9秒主要为同一字标多状态合成而不是叙事镜头频繁更换。\", \"beat_sync\": \"未听音，不评定逐拍误差或音画对拍质量\"}",
+      "evidence": "evidence/BV17K4y167nK/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV182hm6NEZy",
+      "title": "Time is mine（A-SOUL版）",
+      "window_seconds": [
+        43.6,
+        45.6
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [43.6, 45.6], \"minimum_major_composition_changes\": 2, \"caution\": \"至少44.292、44.625秒两次主要版式替换，下限约1次/秒；大字进入、拳头移动和放射形扩张单列为动画。52–54秒人物差分与背景字重排很多，不能把每次表情替换都加为镜头。\"}",
+      "evidence": "evidence/BV182hm6NEZy/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV186pc65E68",
+      "title": "【4K60】用10亿token 13017帧 画出Claude眼中的世界 | world.execute(me);",
+      "window_seconds": null,
+      "event_type": "未结构化计数",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"assessment\": \"在170.000–171.933秒共确认两处主构图替换：170.067→170.133、171.467→171.533，两个边界约相隔1.4秒。170.600附近亮闪和字形撕裂属于同一场景内特效，不能另计一刀。176.900–178.833秒确认177.700→177.767一处由人物近景转代码图形；177.967等计数/亮闪不能当切镜。这里只量化所审短窗，不能推出全片最快或平均切镜率。\"}",
+      "evidence": "evidence/BV186pc65E68/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV18drRYEEFK",
+      "title": "好久不见迷迷，还是说该叫你昔涟",
+      "window_seconds": [
+        68.8,
+        70.8
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [68.8, 70.8], \"confirmed_major_composition_changes_minimum\": null, \"assessment\": \"69.933前主要为同一放射拼贴和扫描线，后高速二值化/反色/故障冲击帧，源画面与特效状态混合，无法可靠给出主切镜下限；不把阈值次数当刀数。\"}",
+      "evidence": "evidence/BV18drRYEEFK/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV18drRYEEFK",
+      "title": "好久不见迷迷，还是说该叫你昔涟",
+      "window_seconds": [
+        17.8,
+        19.8
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [17.8, 19.8], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [18.6], \"assessment\": \"角色背部较远景→面部近景至少一次；后头发/脸的相同运动反复与反向不是每次都换镜。\"}",
+      "evidence": "evidence/BV18drRYEEFK/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV18drRYEEFK",
+      "title": "好久不见迷迷，还是说该叫你昔涟",
+      "window_seconds": [
+        14,
+        18
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [14, 18], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [16.5, 17.9], \"assessment\": \"大脸拼贴→人物面部→人物背面至少两次；小窗表情、Q版图和17.8故障帧不逐个算全屏切镜。\"}",
+      "evidence": "evidence/BV18drRYEEFK/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV18KAhzbE7C",
+      "title": "原创AI漫剧《恶仙》第二回：诸天倾塌妖门开，万恶噬生炼狱来",
+      "window_seconds": [
+        257.4,
+        259.4
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [257.4, 259.4], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [258.467], \"assessment\": \"片尾战斗转飞行眼球近景至少一次；快速绕拍、冲击环和抓握重构不逐帧计数，可能隐藏更多切点未确认。\"}",
+      "evidence": "evidence/BV18KAhzbE7C/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV18KAhzbE7C",
+      "title": "原创AI漫剧《恶仙》第二回：诸天倾塌妖门开，万恶噬生炼狱来",
+      "window_seconds": [
+        252.4,
+        254.4
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [252.4, 254.4], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [252.867], \"assessment\": \"片尾眼臂近景到面向目标的广景至少一次；放射环增长和逼近目标不另算。\"}",
+      "evidence": "evidence/BV18KAhzbE7C/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV18KAhzbE7C",
+      "title": "原创AI漫剧《恶仙》第二回：诸天倾塌妖门开，万恶噬生炼狱来",
+      "window_seconds": [
+        184,
+        188
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [184, 188], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [185.083, 186.667], \"assessment\": \"月下屋檐→戏院匾额→手部两次；大书法淡出、钱币飞落不另算。\"}",
+      "evidence": "evidence/BV18KAhzbE7C/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV18KAhzbE7C",
+      "title": "原创AI漫剧《恶仙》第二回：诸天倾塌妖门开，万恶噬生炼狱来",
+      "window_seconds": [
+        98,
+        102
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 0.75,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [98, 102], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [99.933, 100.733, 101.733], \"assessment\": \"侧脸→更正面脸→街道低位→街道高位至少三次；眼部生物长出和黑烟运动为镜内变化。\"}",
+      "evidence": "evidence/BV18KAhzbE7C/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV18YHf63EyC",
+      "title": "如果到处都是她的名字，你还能找到她吗－world.search(you)",
+      "window_seconds": [
+        192,
+        196
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [192, 196], \"minimum_major_composition_changes\": null, \"caution\": \"该段大字更换速度高，但大部分外框稳定，是局部界面重排、逐字与数值更新。209–214秒是连续点阵揭示，不属于快速切镜。场景检测没有候选也不代表整片零剪辑，浅底界面容易低于全画面差异阈值。\"}",
+      "evidence": "evidence/BV18YHf63EyC/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV18yYA61E8f",
+      "title": "opus5.5许愿TV 伽罗瓦理论宣传片",
+      "window_seconds": [
+        29,
+        33
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [29, 33], \"confirmed_major_composition_changes_minimum\": 1, \"transition_interval\": [29, 31.1], \"assessment\": \"纸上旧字经粒子化成片头字卡，计一次渐变式版面转场；粒子闪烁/光环不额外计刀。\"}",
+      "evidence": "evidence/BV18yYA61E8f/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV18yYA61E8f",
+      "title": "opus5.5许愿TV 伽罗瓦理论宣传片",
+      "window_seconds": [
+        195,
+        197
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [195, 197], \"confirmed_major_composition_changes_minimum\": 0, \"assessment\": \"同中心根式删行、数字4→2与圆环扩散为局部状态动画，无已证实的主构图替换。\"}",
+      "evidence": "evidence/BV18yYA61E8f/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV18yYA61E8f",
+      "title": "opus5.5许愿TV 伽罗瓦理论宣传片",
+      "window_seconds": [
+        214.1,
+        216.1
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [214.1, 216.1], \"confirmed_major_composition_changes_minimum\": 1, \"transition_interval\": [215.633, 216.033], \"assessment\": \"文字放射版面经爆白接红棕雾场一次；5个scene候选主要来自光强变化。\"}",
+      "evidence": "evidence/BV18yYA61E8f/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV19aaB62EJv",
+      "title": "GPT×Codex二创PV：Wrap Me In Plastic",
+      "window_seconds": [
+        140,
+        142
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [140, 142], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [140.267, 141.067, 141.933], \"assessment\": \"至少三次主模块替换，下限1.5次/秒；斜带闪白不另计。\"}",
+      "evidence": "evidence/BV19aaB62EJv/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV19aaB62EJv",
+      "title": "GPT×Codex二创PV：Wrap Me In Plastic",
+      "window_seconds": [
+        143.5,
+        147.5
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 0.75,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [143.5, 147.5], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [143.6, 144.5, 145.1], \"assessment\": \"日志→微字标题→黄色卡→数字模块为三次；之后逐个追加数字是模块内更新。\"}",
+      "evidence": "evidence/BV19aaB62EJv/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV19aCsYgECf",
+      "title": "【静止画MAD】致作家【蓝色时期】【MADMAX2024】",
+      "window_seconds": [
+        136.2,
+        138.2
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [136.2, 138.2], \"confirmed_major_composition_changes_minimum\": 0, \"layer_content_changes_minimum\": 2, \"assessment\": \"竖撕纸条主结构持续，条内从城市到脸部再到人物画作至少两次内容迁移，按分层遮罩连续更新记录，不伪装成整屏硬切。\"}",
+      "evidence": "evidence/BV19aCsYgECf/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV19aCsYgECf",
+      "title": "【静止画MAD】致作家【蓝色时期】【MADMAX2024】",
+      "window_seconds": [
+        141,
+        143
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [141, 143], \"confirmed_major_composition_changes_minimum\": 0, \"assessment\": \"同一竖条连续拼贴段；字、人物、城市和图案密集更新，但没有确认整屏主结构断点。0整屏切镜不等于视觉信息少。\"}",
+      "evidence": "evidence/BV19aCsYgECf/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV19aCsYgECf",
+      "title": "【静止画MAD】致作家【蓝色时期】【MADMAX2024】",
+      "window_seconds": [
+        130,
+        134
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [130, 134], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [131.2], \"assessment\": \"单画作→展开折页/条带主结构至少一次；后纸页展开、纹理替换不逐条算镜头。\"}",
+      "evidence": "evidence/BV19aCsYgECf/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV19aCsYgECf",
+      "title": "【静止画MAD】致作家【蓝色时期】【MADMAX2024】",
+      "window_seconds": [
+        50,
+        54
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [50, 54], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [52.467], \"assessment\": \"绿底三重竖字与头像模块，经斜白条接灰条纹漫画一处；黑白换色、添头像和人物入场分别是内部动画。\"}",
+      "evidence": "evidence/BV19aCsYgECf/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV19iLv6bEKh",
+      "title": "原创AI动画《永生世界》第一集",
+      "window_seconds": [
+        29.2,
+        31.2
+      ],
+      "event_type": "硬切",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [29.2, 31.2], \"hard_cut_count_confirmed\": null, \"assessment\": \"人物悬浮、绕行、前景遮挡及面貌/位置变化很密；暂无法可靠区分隐藏接点与生成连续性变化，不能报22刀，也不能断言一镜到底。\"}",
+      "evidence": "evidence/BV19iLv6bEKh/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV19iLv6bEKh",
+      "title": "原创AI动画《永生世界》第一集",
+      "window_seconds": [
+        58.7,
+        60.7
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [58.7, 60.7], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [59.833, 59.9], \"assessment\": \"侧仰中庭切俯视至少1次，下限0.5次/秒；此前连续抬升和飞起的人不另计。\"}",
+      "evidence": "evidence/BV19iLv6bEKh/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV19iLv6bEKh",
+      "title": "原创AI动画《永生世界》第一集",
+      "window_seconds": [
+        302,
+        306
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [302, 306], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [305.4, 305.5], \"assessment\": \"男对白切女反打1次，下限0.25次/秒；字幕变化和手势属于镜头内事件。\"}",
+      "evidence": "evidence/BV19iLv6bEKh/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1A3Ts6tEVr",
+      "title": "伟大前程，自己挣！【AI全民制作人】",
+      "window_seconds": null,
+      "event_type": "未结构化计数",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"assessment\": \"自动阈值在0–4秒报6个变化候选，但0.200–2.133秒看图显示快速摇镜与台灯动作，没有足够证据把6个候选算成6刀。9.000–10.933秒确认两处构图切换，间隔约1.067秒（采样精度约0.067秒）；一处跨空间、一处同空间景别/动作省略。整片4秒概览不能推出最快或平均切镜率。\"}",
+      "evidence": "evidence/BV1A3Ts6tEVr/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1apc6zXEAG",
+      "title": "Seedance2.0 AI自制动画《锈月》第一集",
+      "window_seconds": [
+        116.1,
+        118.1
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [116.1, 118.1], \"minimum_major_composition_changes\": 3, \"manually_observed_boundaries_approx\": [116.433, 117.1, 118.033], \"caution\": \"保守3次清楚的构图/视角切换，下限1.5次/秒，其他检测点多为镜头内挥剑、服装遮挡、高光和运动。160–162秒保守2切，下限1次/秒（160.267、161.867），中间连续前冲与白速度线不计。10.5–14.5额外窗保守2切（12.1、13.3），其余冰锥悬停和人物转头不计。选定窗口不是全片平均；未听审不能声称卡点。\"}",
+      "evidence": "evidence/BV1apc6zXEAG/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1AQcvzbEd1",
+      "title": "Seedance武侠动作尝试，确实不一样。结尾附流程",
+      "window_seconds": [
+        14.7,
+        16.7
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [14.7, 16.7], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [15.633, 16.233], \"assessment\": \"侧后方人物动作转对手碰撞近景，再转较宽双人至少两次大构图连接，下限1次/秒；第一处快速接近/变机位可能包含生成转视角，未全断言离散剪刀。火星不加刀。\"}",
+      "evidence": "evidence/BV1AQcvzbEd1/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1AQcvzbEd1",
+      "title": "Seedance武侠动作尝试，确实不一样。结尾附流程",
+      "window_seconds": [
+        19.6,
+        21.6
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [19.6, 21.6], \"confirmed_major_composition_changes_minimum\": null, \"assessment\": \"近处对手遮挡、人物转身与机位跟随连贯变化，采样不足可靠分离隐藏接点；不写33刀、不声称一镜到底。\"}",
+      "evidence": "evidence/BV1AQcvzbEd1/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1AQcvzbEd1",
+      "title": "Seedance武侠动作尝试，确实不一样。结尾附流程",
+      "window_seconds": [
+        35,
+        42
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.1429,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [35, 42], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [38, 39], \"assessment\": \"参考图版面转输入/提示截图至少一次；39–41提示内容更新另列局部图卡状态。\"}",
+      "evidence": "evidence/BV1AQcvzbEd1/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1bhuc6VEym",
+      "title": "巨构：行深般若【天阙纪元】",
+      "window_seconds": [
+        2,
+        4
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [2, 4], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [2.862], \"assessment\": \"云海红宫→崖台人物一次，云动不计。\"}",
+      "evidence": "evidence/BV1bhuc6VEym/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1bhuc6VEym",
+      "title": "巨构：行深般若【天阙纪元】",
+      "window_seconds": [
+        10,
+        12
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [10, 12], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [10.375], \"assessment\": \"巨红门→暖红崖中宫一次，人物衣摆/雾不计。\"}",
+      "evidence": "evidence/BV1bhuc6VEym/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1bhuc6VEym",
+      "title": "巨构：行深般若【天阙纪元】",
+      "window_seconds": [
+        51,
+        55
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [51, 55], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [51.66, 51.767], \"assessment\": \"长桥宫阙→倒影水面宫阙一次；水波、斜光与人物移动不是新切镜。\"}",
+      "evidence": "evidence/BV1bhuc6VEym/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1BN411N79X",
+      "title": "【静止画MAD】特殊【脑洞学生会！】",
+      "window_seconds": [
+        33.8,
+        35.8
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [33.8, 35.8], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [34.067], \"assessment\": \"标牌→人物衣领一次确认；35.4开始模糊亮面转换但窗口内目标未稳定，不额外断言切镜。\"}",
+      "evidence": "evidence/BV1BN411N79X/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1BN411N79X",
+      "title": "【静止画MAD】特殊【脑洞学生会！】",
+      "window_seconds": [
+        66,
+        68
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [66, 68], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [66.267, 67.267, 67.867], \"assessment\": \"照片叠层→双人卡→三人卡→教室至少三次，红橙漏光和白闪不重复算。\"}",
+      "evidence": "evidence/BV1BN411N79X/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1BN411N79X",
+      "title": "【静止画MAD】特殊【脑洞学生会！】",
+      "window_seconds": [
+        56,
+        60
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [56, 60], \"confirmed_major_composition_changes_minimum\": 0, \"assessment\": \"同一照片墙空间持续，照片、人形、图钉和标签依次增加/撤换；约58.4起换一组照片，仍按构图内模块更新，未确认整屏切镜。\"}",
+      "evidence": "evidence/BV1BN411N79X/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1c2an65EVj",
+      "title": "洛琪希的魔术之心",
+      "window_seconds": [
+        43.5,
+        45.5
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [43.5, 45.5], \"minimum_major_composition_changes\": null, \"caution\": \"快速感主要来自同一手部构图内的道具替换、烟团和兔子放大，不把每次差分都当独立镜头；75.1–77.1秒主要是整图旋转和姿态替换。沿用原PV的分镜，不能作为模型独立设计节奏的证据。\"}",
+      "evidence": "evidence/BV1c2an65EVj/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1c3411K7Mt",
+      "title": "想不想看花海盛开",
+      "window_seconds": [
+        94.5,
+        96.5
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [94.5, 96.5], \"minimum_major_composition_changes\": null, \"caution\": \"主要是同一餐桌构图配黑闪、人物逐项消失；不能把黑场的进出与人物每次显隐都计为独立镜头。37–39秒的冷暖曝光与去色也多属同镜头效果。\"}",
+      "evidence": "evidence/BV1c3411K7Mt/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1cdaf6QEad",
+      "title": "OverThink MV by Opus5.5",
+      "window_seconds": [
+        142.5,
+        144.5
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [142.5, 144.5], \"minimum_major_composition_changes\": null, \"caution\": \"近景与三筒全景有快速重构图，但源帧显示推拉、旋转和主题色更新；不能把数字每跳、每次反色都算剪辑切镜。50.1–52.1秒可明确51.833秒的一次主要场景替换。\"}",
+      "evidence": "evidence/BV1cdaf6QEad/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1CEQmBTEmY",
+      "title": "《恶仙》第四回：此身已堕无间狱 化作仙门嗜血粮",
+      "window_seconds": [
+        197.9,
+        199.9
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [197.9, 199.9], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [198.633, 198.767, 199.567], \"assessment\": \"多眼武器→单眼特写→人物正面→背后广景至少三次；眼睛变亮与红刀光为内部动画。\"}",
+      "evidence": "evidence/BV1CEQmBTEmY/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1CEQmBTEmY",
+      "title": "《恶仙》第四回：此身已堕无间狱 化作仙门嗜血粮",
+      "window_seconds": [
+        32.7,
+        34.7
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [32.7, 34.7], \"confirmed_major_composition_changes_minimum\": 0, \"assessment\": \"镜头连续跟随发丝触手靠近眼球武器，遮挡和模糊不逐次计切镜。\"}",
+      "evidence": "evidence/BV1CEQmBTEmY/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1CEQmBTEmY",
+      "title": "《恶仙》第四回：此身已堕无间狱 化作仙门嗜血粮",
+      "window_seconds": [
+        390,
+        394
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [390, 394], \"confirmed_major_composition_changes_minimum\": 4, \"boundaries_approx\": [390.9, 391.3, 392.2, 393.3], \"assessment\": \"脸→手→全身→眼→泪滴至少四次；黑烟膨胀不额外计刀。\"}",
+      "evidence": "evidence/BV1CEQmBTEmY/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1Cs411z7qN",
+      "title": "【泛式/误解向】我的一色彩羽妹子果然是女主——比企鹅X一色的恋爱日记",
+      "window_seconds": [
+        143.0,
+        145.0
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 10,
+      "minimum_per_second": 5.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [143.0, 145.0], \"confirmed_major_composition_changes_minimum\": 10, \"boundaries_approx\": [143.185, 143.268, 143.435, 143.602, 143.769, 144.019, 144.102, 144.186, 144.353, 144.436, 144.603, 144.77], \"assessment\": \"至少10次主镜头替换，下限5次/秒；列表为约略连接点，起末叠层/模糊边界不保证逐帧精确；同源人物面部动画不另加刀。\"}",
+      "evidence": "evidence/BV1Cs411z7qN/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1Cs411z7qN",
+      "title": "【泛式/误解向】我的一色彩羽妹子果然是女主——比企鹅X一色的恋爱日记",
+      "window_seconds": [
+        71.2,
+        73.2
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [71.2, 73.2], \"confirmed_major_composition_changes_minimum\": null, \"assessment\": \"以同一角色姿态为主，背景状态更新与能量图层变化明确，不能可靠分作独立镜头数；不写0刀或每个闪光一刀。\"}",
+      "evidence": "evidence/BV1Cs411z7qN/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1Cs411z7qN",
+      "title": "【泛式/误解向】我的一色彩羽妹子果然是女主——比企鹅X一色的恋爱日记",
+      "window_seconds": [
+        28,
+        32
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [28, 32], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [29.446, 29.696], \"assessment\": \"主菜单推入角色介绍卡至少一次，名牌滑入、光片和按钮高亮属局部事件。\"}",
+      "evidence": "evidence/BV1Cs411z7qN/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1CSej6kETr",
+      "title": "当你和一百万人一起吃火锅",
+      "window_seconds": [
+        6,
+        8
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [6, 8], \"minimum_major_composition_changes\": 2, \"caution\": \"该2秒窗口可明确两次视角变化，保守下限约1次/秒。33.5–35.5秒只有34秒一次主要构图切换。样本说明叙事连接，不能推断全片平均切镜速度，也不能根据画面宣称实际出现一百万人。\"}",
+      "evidence": "evidence/BV1CSej6kETr/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1d2ng6VEg4",
+      "title": "用DeepSeekFlash-1017花了两亿token画出deepseek眼中的世界！world.execute(me);",
+      "window_seconds": null,
+      "event_type": "未结构化计数",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"assessment\": \"170.000–171.933秒两处主构图替换与原Claude版对应：170.067→170.133、171.467→171.533。170.600附近只改变闪电发光/字形故障，不是新场景。177.000–178.933秒可见177.667→177.733从人物近景转代码构图，178.867→178.933转递归窗口；中间round计数和光圈变化不另计切镜。15fps采样时间精度约67毫秒，不能保证捕获更短单帧插入。\"}",
+      "evidence": "evidence/BV1d2ng6VEg4/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1DaNh6JEch",
+      "title": "共生／恋爱寄生虫 静止系MAD",
+      "window_seconds": [
+        83,
+        85
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [83, 85], \"minimum_major_composition_changes\": 2, \"caution\": \"可明确区分84.167秒的人物替换和84.583秒的小卡片构图，约为此2秒窗口1次/秒的保守下限；正负片交替、撕纸边缘及花瓣不累加为新镜头。86–88秒的两次黑闪也不等于两个独立新镜头。\"}",
+      "evidence": "evidence/BV1DaNh6JEch/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1eb4MegEqf",
+      "title": "败犬温水的七次败北之旅！",
+      "window_seconds": [
+        108,
+        112
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [108, 112], \"minimum_major_composition_changes\": null, \"caution\": \"Portrait additions are layer updates within one composition, not separate shots. Other dense windows mainly inherited anime movement/cuts; no numerical edit rate issued.\"}",
+      "evidence": "evidence/BV1eb4MegEqf/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1eC41147Vx",
+      "title": "死去的记忆在攻击我 【崩溃星穹】",
+      "window_seconds": [
+        55.1,
+        57.1
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 5,
+      "minimum_per_second": 2.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [55.1, 57.1], \"confirmed_major_composition_changes_minimum\": 5, \"boundaries_approx\": [55.167, 55.5, 55.967, 56.167, 56.433], \"assessment\": \"冲击广景→双人→天空动作→背影→面部→机甲至少五次；黑白冲击帧与机甲过曝脉冲不额外计刀。原CG自身剪接与UP新增剪接未独立拆分。\"}",
+      "evidence": "evidence/BV1eC41147Vx/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1eC41147Vx",
+      "title": "死去的记忆在攻击我 【崩溃星穹】",
+      "window_seconds": [
+        91.4,
+        93.4
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [91.4, 93.4], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [91.6, 92.467], \"assessment\": \"暗色冲击/粒子过渡→能量爆发人物→举剑人物至少两次；91.6后能量线与92.467后举剑/拉镜为镜内动作。\"}",
+      "evidence": "evidence/BV1eC41147Vx/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1eC41147Vx",
+      "title": "死去的记忆在攻击我 【崩溃星穹】",
+      "window_seconds": [
+        13,
+        17
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [13, 17], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [14.067, 16.267], \"assessment\": \"多眼矩形叠套→双眼满屏→双色人物脸主结构至少两次；其间大量局部小窗/分屏添加另记视觉信息更新，不全计整屏切镜。线稿横条再铺满也属于遮罩过渡。\"}",
+      "evidence": "evidence/BV1eC41147Vx/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1Exg46iETf",
+      "title": "巨构：山海须弥【AI全民制作人】",
+      "window_seconds": [
+        3.4,
+        5.4
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [3.4, 5.4], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [5.333], \"assessment\": \"夕照塔影→带亮点的巨大建筑一次，雾移动不另加。\"}",
+      "evidence": "evidence/BV1Exg46iETf/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1Exg46iETf",
+      "title": "巨构：山海须弥【AI全民制作人】",
+      "window_seconds": [
+        13.8,
+        15.8
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [13.8, 15.8], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [15.7], \"assessment\": \"小塔/圆孔→近处巨大层塔一次。\"}",
+      "evidence": "evidence/BV1Exg46iETf/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1Exg46iETf",
+      "title": "巨构：山海须弥【AI全民制作人】",
+      "window_seconds": [
+        37,
+        41
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [37, 41], \"confirmed_major_composition_changes_minimum\": 0, \"assessment\": \"山体人面/蓝白光门保持构图，光圈亮灭和雾移动不算切镜。\"}",
+      "evidence": "evidence/BV1Exg46iETf/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1FTMS6cEjW",
+      "title": "巨构：玄同无待【AI全民制作人】",
+      "window_seconds": [
+        2,
+        4
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [2, 4], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [2.8667], \"assessment\": \"圆门水边→瀑布长墙一次硬切，水流和云移动不另加刀。\"}",
+      "evidence": "evidence/BV1FTMS6cEjW/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1FTMS6cEjW",
+      "title": "巨构：玄同无待【AI全民制作人】",
+      "window_seconds": [
+        10,
+        12
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [10, 12], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [10.5], \"assessment\": \"门框云宫→岩洞楼阁一次硬切。\"}",
+      "evidence": "evidence/BV1FTMS6cEjW/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1FTMS6cEjW",
+      "title": "巨构：玄同无待【AI全民制作人】",
+      "window_seconds": [
+        40.5,
+        44.5
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [40.5, 44.5], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [41.4], \"assessment\": \"斜长墙→正圆门一次；门内光雾和小人物缓动不另计。\"}",
+      "evidence": "evidence/BV1FTMS6cEjW/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1fyJhzHEvr",
+      "title": "【静止画MAD/海虎】地心引力",
+      "window_seconds": [
+        27,
+        31
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 7,
+      "minimum_per_second": 1.75,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [27, 31], \"minimum_major_composition_changes\": 7, \"approximate_boundaries\": [27.4, 28.1, 28.7, 29.0, 29.8, 30.4, 30.9], \"minimum_per_second\": 1.75, \"caution\": \"仅4秒选窗下限，包含重复平铺这一整幅插入。29.3手部近景扩展保守不另计；30.8反色不计。138–140秒保守3次换构图（138.533、139.0、139.4），139.6同构图推近不计。126–128的冲击插帧未作精确镜头总数。没有全片平均或音乐卡点结论。\"}",
+      "evidence": "evidence/BV1fyJhzHEvr/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1g841177ym",
+      "title": "「影视飓风·无限进步」影视飓风五百万粉丝混剪",
+      "window_seconds": [
+        21.9,
+        23.9
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [21.9, 23.9], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [23.233, 23.7], \"assessment\": \"手柄斜近景→正面手柄→圆形遮盖后图形片头至少两次主画面连接，白圆扩张本身为一组转场不按每帧加刀。\"}",
+      "evidence": "evidence/BV1g841177ym/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1g841177ym",
+      "title": "「影视飓风·无限进步」影视飓风五百万粉丝混剪",
+      "window_seconds": [
+        220,
+        222
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [220, 222], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [221.333], \"assessment\": \"侧面穿衣人物→正面赤膊表演者至少一次；221.933近景边界待更密抽样，暂不增加。火花强度变化不加刀。\"}",
+      "evidence": "evidence/BV1g841177ym/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1g841177ym",
+      "title": "「影视飓风·无限进步」影视飓风五百万粉丝混剪",
+      "window_seconds": [
+        28,
+        32
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [28, 32], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [29.6, 30.7], \"assessment\": \"轨迹/碎片→立体字主模块→城市；碎片、文字位移/透视与角标淡入属局部运动。\"}",
+      "evidence": "evidence/BV1g841177ym/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1GbHi61E9Q",
+      "title": "概率论之美",
+      "window_seconds": [
+        36,
+        38
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [36, 38], \"minimum_major_composition_changes\": 0, \"caution\": \"本窗口保持分布图构图，变化来自图表累计、骰子结果与渐隐；标题段14.1–16.1秒也主要渐隐。168–172秒是章节标题与猫图标交叉渐变，不据此宣称高速切镜能力。\"}",
+      "evidence": "evidence/BV1GbHi61E9Q/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1h34y1c7U9",
+      "title": "章鱼噼的原罪 静止系MAD",
+      "window_seconds": [
+        146.6,
+        148.6
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [146.6, 148.6], \"minimum_major_composition_changes\": null, \"caution\": \"漫画面板与红字的连续位移不能逐次计为切镜；148.523秒的黑场可明确记录。99.8–101.8秒轮廓抖动、闪光、模糊主要属于同镜头加工，亮闪后的画面替换需结合连续片段确认边界。\"}",
+      "evidence": "evidence/BV1h34y1c7U9/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1hdAfenEGL",
+      "title": "嗦嗦 嗦嗦嗦嗦嗦",
+      "window_seconds": [
+        43.3,
+        45.3
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [43.3, 45.3], \"minimum_major_composition_changes\": 1, \"caution\": \"43.633秒左右由远处火场转为人物侧脸；后续为词语入场、人物与火焰运动。不能把字幕每个词或每束火光算切镜，也不据此给全片平均率。\"}",
+      "evidence": "evidence/BV1hdAfenEGL/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1hphd69EDA",
+      "title": "线性代数之美",
+      "window_seconds": [
+        191,
+        193
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [191, 193], \"minimum_major_composition_changes\": 3, \"caution\": \"该窗口至少三次主要主题替换，下限约1.5次/秒。71.8–73.8秒线框和着色视图频繁交替是渲染状态切换，不宜直接当作多个独立叙事镜头。\"}",
+      "evidence": "evidence/BV1hphd69EDA/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1Hzpm6hEaY",
+      "title": "Claude热唱：《您的账号已被封禁》",
+      "window_seconds": null,
+      "event_type": "未结构化计数",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"assessment\": \"两密集窗口都以卡片、透明度和构图状态变化为主；129–130.933秒没有确认新的主体场景镜头。81–83秒末端有一次闪白辅助主构图替换。不能把FFmpeg列出的29个scene候选当29次剪辑，也不能把图层出现频率当真实切镜速度。4秒概览无法证明帧级切镜频率。\"}",
+      "evidence": "evidence/BV1Hzpm6hEaY/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1iK4y1k7Ld",
+      "title": "【影视飓风混剪】无限进步，就是我们的座右铭——给影视飓风的六周年",
+      "window_seconds": [
+        103.3,
+        105.3
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [103.3, 105.3], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [103.56, 104.04, 104.68], \"assessment\": \"人物→暮色→夜路→人物3次，下限1.5次/秒；街道高速位移不是每帧切镜。\"}",
+      "evidence": "evidence/BV1iK4y1k7Ld/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1iK4y1k7Ld",
+      "title": "【影视飓风混剪】无限进步，就是我们的座右铭——给影视飓风的六周年",
+      "window_seconds": [
+        71.5,
+        73.5
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 2.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [71.5, 73.5], \"confirmed_major_composition_changes_minimum\": 4, \"boundaries_approx\": [71.76, 72.32, 72.8, 73.44], \"assessment\": \"眼部特写→鸟→草原→海面→苔藓树干4次，下限2次/秒；鸟自身运动不另加刀。\"}",
+      "evidence": "evidence/BV1iK4y1k7Ld/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1iK4y1k7Ld",
+      "title": "【影视飓风混剪】无限进步，就是我们的座右铭——给影视飓风的六周年",
+      "window_seconds": [
+        14,
+        18
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 0.75,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [14, 18], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [14.12, 15.32, 17.96], \"assessment\": \"口播→白底图标→黑底品牌动画→产品至少3次；15.44立体字作为连续品牌动画内模块更新单列，不加摄影镜头数。\"}",
+      "evidence": "evidence/BV1iK4y1k7Ld/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1JQaeztEa2",
+      "title": "Love Song／回忆爱玛侬",
+      "window_seconds": [
+        146.5,
+        148.5
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [146.5, 148.5], \"minimum_major_composition_changes\": 3, \"caution\": \"至少146.867、147.8、148.333秒三次主要构图替换，下限约1.5次/秒；146.8秒反色与147.733秒横纹干扰另记为过渡。104.3–106.3秒至少餐桌与下一暖色画面两次主要替换，模糊和白闪不分别算镜头。\"}",
+      "evidence": "evidence/BV1JQaeztEa2/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1JuMB6FERb",
+      "title": "【 新 宿 决 战 】雨爱 AI制作【B萌应援】",
+      "window_seconds": [
+        30.2,
+        32.2
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 2.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [30.2, 32.2], \"confirmed_major_composition_changes_minimum\": 4, \"boundaries_approx\": [30.667, 30.8, 30.933, 31.133], \"assessment\": \"面部大特写→发光手→双人侧面→较高视点至少四处；后翻身火星/碎片不是每帧切刀。\"}",
+      "evidence": "evidence/BV1JuMB6FERb/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1JuMB6FERb",
+      "title": "【 新 宿 决 战 】雨爱 AI制作【B萌应援】",
+      "window_seconds": [
+        65.6,
+        67.6
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 5,
+      "minimum_per_second": 2.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [65.6, 67.6], \"confirmed_major_composition_changes_minimum\": 5, \"boundaries_approx\": [65.8, 66.067, 66.267, 66.667, 66.733], \"assessment\": \"伤脸→双人→脸部接触→双人→全身→过肩至少五处，后动作连续更新不逐帧计刀。\"}",
+      "evidence": "evidence/BV1JuMB6FERb/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1JuMB6FERb",
+      "title": "【 新 宿 决 战 】雨爱 AI制作【B萌应援】",
+      "window_seconds": [
+        93,
+        97
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 6,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [93, 97], \"confirmed_major_composition_changes_minimum\": 6, \"boundaries_approx\": [93.133, 93.2, 93.467, 94.4, 95.133, 96.267], \"assessment\": \"晶体城市→剪影→拳部→波纹金轮→召唤→红色俯冲→城市烟尘至少六次；金环及黑白冲击帧作为过渡，未额外虚增刀数。\"}",
+      "evidence": "evidence/BV1JuMB6FERb/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1jZ4y1o7ah",
+      "title": "【预告之外】少女歌剧/聚光灯下的少女",
+      "window_seconds": [
+        61,
+        63
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [61, 63], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [61.853, 61.937], \"assessment\": \"火焰全身切面部一次，下限0.5次/秒；62秒后镜头沿身体部位移动，不能按每个高差异帧再计刀。\"}",
+      "evidence": "evidence/BV1jZ4y1o7ah/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1jZ4y1o7ah",
+      "title": "【预告之外】少女歌剧/聚光灯下的少女",
+      "window_seconds": [
+        71.8,
+        73.8
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [71.8, 73.8], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [71.989, 72.656, 73.74], \"assessment\": \"脚部→全身冲刺→迎面前冲→剑特写至少3构图连接，下限1.5次/秒；迎面冲刺推近不逐帧算刀。\"}",
+      "evidence": "evidence/BV1jZ4y1o7ah/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1JznZzeEA6",
+      "title": "一个叫惟由的女孩决定去死【风华回战2025//人物向MAD】",
+      "window_seconds": [
+        4.4,
+        6.4
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [4.4, 6.4], \"confirmed_major_composition_changes_minimum\": 0, \"assessment\": \"赛事拼贴同一大空间内平移，照片添加和递归小窗变化，不作为UP主体切镜能力证据。\"}",
+      "evidence": "evidence/BV1JznZzeEA6/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1JznZzeEA6",
+      "title": "一个叫惟由的女孩决定去死【风华回战2025//人物向MAD】",
+      "window_seconds": [
+        87.12,
+        89.12
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [87.12, 89.12], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [87.92], \"assessment\": \"稳定黑白胶片模块→红调骑士一次明确连接；开头模糊的来源和末尾模糊角度不额外断言，二值化冲击帧不算新场景。\"}",
+      "evidence": "evidence/BV1JznZzeEA6/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1JznZzeEA6",
+      "title": "一个叫惟由的女孩决定去死【风华回战2025//人物向MAD】",
+      "window_seconds": [
+        140,
+        144
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [140, 144], \"confirmed_major_composition_changes_minimum\": 0, \"assessment\": \"满屏手写字主构图持续，底层人物画面叠化/更新另外记录，不把每次故障带、添字或亮度变化计作整屏换镜。\"}",
+      "evidence": "evidence/BV1JznZzeEA6/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1K543zoE7S",
+      "title": "Emotional numbness【情绪解离】【静止系mad】【风华回战2025】",
+      "window_seconds": [
+        90.1,
+        92.1
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [90.1, 92.1], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [90.36, 90.92], \"assessment\": \"竖幅人物→黑底图块→气球双人两个主模块连接；图块每次移动、人物入场与92.04同构图反色不另计。\"}",
+      "evidence": "evidence/BV1K543zoE7S/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1K543zoE7S",
+      "title": "Emotional numbness【情绪解离】【静止系mad】【风华回战2025】",
+      "window_seconds": [
+        79.2,
+        81.2
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 2.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [79.2, 81.2], \"confirmed_major_composition_changes_minimum\": 4, \"boundaries_approx\": [79.28, 79.76, 80.4, 80.96], \"assessment\": \"人物局部→持纸手→脸→窗边人物→脚步至少四次；窄窗平移不逐帧加刀。\"}",
+      "evidence": "evidence/BV1K543zoE7S/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1K543zoE7S",
+      "title": "Emotional numbness【情绪解离】【静止系mad】【风华回战2025】",
+      "window_seconds": [
+        114,
+        118
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [114, 118], \"confirmed_major_composition_changes_minimum\": 4, \"boundary_brackets\": [[114.24, 114.36], [114.96, 115.08], [115.44, 115.56], [116.16, 116.28]], \"assessment\": \"衣领→全身→另一衣领→双人→侧脸彩色遮罩至少四次；116.4后头部内彩色流动和细字逐字非新镜头。\"}",
+      "evidence": "evidence/BV1K543zoE7S/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1k8H6ecEnv",
+      "title": "天空夺走了属于我们的时间【四谎十周年纪念】",
+      "window_seconds": [
+        94.3,
+        96.3
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [94.3, 96.3], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [94.72, 95.053, 95.637], \"assessment\": \"保守3次主要构图替换，下限1.5次/秒；数字滚动、同观众负片和浪花曝光不累加。\"}",
+      "evidence": "evidence/BV1k8H6ecEnv/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1k8H6ecEnv",
+      "title": "天空夺走了属于我们的时间【四谎十周年纪念】",
+      "window_seconds": [
+        116.5,
+        120.5
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [116.5, 120.5], \"confirmed_major_composition_changes_minimum\": 4, \"boundaries_approx\": [116.7, 117.534, 118.201, 119.953], \"assessment\": \"琴键、双人、女生、手部四次主要替换，下限1次/秒；女生推近和扫光不另计。\"}",
+      "evidence": "evidence/BV1k8H6ecEnv/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1kicszZEwY",
+      "title": "原创自制连载【AIGC】浮光第五集！",
+      "window_seconds": [
+        323.3,
+        325.3
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [323.3, 325.3], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [323.567, 324.167, 325.167], \"assessment\": \"老人→脚踩装甲→举剑→撞击俯视至少3次，下限1.5次/秒；325.233俯视变化与光闪/遮挡密集，额外隐藏接点不确认。19个scene候选不是19刀。\"}",
+      "evidence": "evidence/BV1kicszZEwY/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1kicszZEwY",
+      "title": "原创自制连载【AIGC】浮光第五集！",
+      "window_seconds": [
+        103.3,
+        105.3
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 2.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [103.3, 105.3], \"confirmed_major_composition_changes_minimum\": 4, \"boundaries_approx\": [103.567, 103.7, 104.433, 105.1], \"assessment\": \"脚→兜帽→男子→兜帽→男子，至少4次、下限2次/秒；电链与蒸汽运动不另加刀。\"}",
+      "evidence": "evidence/BV1kicszZEwY/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1kicszZEwY",
+      "title": "原创自制连载【AIGC】浮光第五集！",
+      "window_seconds": [
+        87,
+        91
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [87, 91], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [88.3, 90.7], \"assessment\": \"符文近景→全身光环→人物近景两次；光环变形/环绕在全身镜中不加刀。\"}",
+      "evidence": "evidence/BV1kicszZEwY/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1KSE965EqR",
+      "title": "【永生世界02】为什么全世界所有人都永生不死【AI全民制作人】",
+      "window_seconds": [
+        423.7,
+        425.7
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [423.7, 425.7], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [424.233], \"assessment\": \"按钮手部→装置宽景一次；后续拉远、光圈扩张和频闪不是新切镜。自动检测在该摘录多次响应不能当切镜数。\"}",
+      "evidence": "evidence/BV1KSE965EqR/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1KSE965EqR",
+      "title": "【永生世界02】为什么全世界所有人都永生不死【AI全民制作人】",
+      "window_seconds": [
+        508.9,
+        510.9
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [508.9, 510.9], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [509.967], \"assessment\": \"老人/机器人持枪→机器人受光束击退较宽构图一次；击退、火花和相机运动不重复计。\"}",
+      "evidence": "evidence/BV1KSE965EqR/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1KSE965EqR",
+      "title": "【永生世界02】为什么全世界所有人都永生不死【AI全民制作人】",
+      "window_seconds": [
+        508,
+        512
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [508, 512], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [509.9, 510], \"assessment\": \"自选较长窗确认同一连接；不是与上一重叠窗独立的第二次事件。\"}",
+      "evidence": "evidence/BV1KSE965EqR/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1KSE965EqR",
+      "title": "【永生世界02】为什么全世界所有人都永生不死【AI全民制作人】",
+      "window_seconds": [
+        33,
+        37
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [33, 37], \"confirmed_major_composition_changes_minimum\": 0, \"assessment\": \"晶体镐头到矿工脸是连续抬镜/重构图，未确认硬切；手臂抬起和镐头运动不加刀。\"}",
+      "evidence": "evidence/BV1KSE965EqR/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1kT421r7vE",
+      "title": "影视飓风那些无法超越的片段",
+      "window_seconds": [
+        149.8,
+        151.8
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 2.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [149.8, 151.8], \"minimum_major_composition_changes\": 4, \"caution\": \"150.133、150.733、151.333、151.733秒至少四次主要画面替换，下限约2次/秒。144.9–146.9秒也至少四次替换；火花运动和手机背景拖影不单独加镜头。选中窗口较密集，不能代替开头访谈长停留段或全片平均。\"}",
+      "evidence": "evidence/BV1kT421r7vE/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1L4411375f",
+      "title": "【三代恶灵骑士/高燃/混剪】前方高能！红蓝地狱烈火燃烧着我们不屈的复仇之魂！",
+      "window_seconds": [
+        4.129,
+        6.048
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0422,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [4.129, 6.048], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [4.213, 5.881], \"assessment\": \"牛仔到马蹄，后回宽构图，白闪不重复加刀。\"}",
+      "evidence": "evidence/BV1L4411375f/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1L4411375f",
+      "title": "【三代恶灵骑士/高燃/混剪】前方高能！红蓝地狱烈火燃烧着我们不屈的复仇之魂！",
+      "window_seconds": [
+        9.009,
+        10.928
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5211,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [9.009, 10.928], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [10.928], \"assessment\": \"上方人影到手/枪主要为人物和相机运动，末尾新人物脸才记镜头连接。\"}",
+      "evidence": "evidence/BV1L4411375f/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1L4411375f",
+      "title": "【三代恶灵骑士/高燃/混剪】前方高能！红蓝地狱烈火燃烧着我们不屈的复仇之魂！",
+      "window_seconds": [
+        94,
+        98
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [94, 98], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [95.679, 97.18], \"assessment\": \"俯视→低角度链环→红墙低角度；链条每帧移动和辉光不是切镜。\"}",
+      "evidence": "evidence/BV1L4411375f/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1Lb411i7qo",
+      "title": "【全程高燃/综漫/燃向】见过黑暗的人 才明白什么是光明",
+      "window_seconds": [
+        38.7,
+        40.7
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [38.7, 40.7], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [38.833, 40.3], \"assessment\": \"广场光圈→同一人物翻身战斗→双剑女孩，至少两次；39秒内转身和火花爆发不另算每帧切镜。\"}",
+      "evidence": "evidence/BV1Lb411i7qo/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1Lb411i7qo",
+      "title": "【全程高燃/综漫/燃向】见过黑暗的人 才明白什么是光明",
+      "window_seconds": [
+        126.6,
+        128.6
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [126.6, 128.6], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [128.533], \"assessment\": \"剑客在同一巨大表面前连续挥剑与运镜，最后接浅底人物一次；蓝红剑光数十次阈值触发不等于切镜。\"}",
+      "evidence": "evidence/BV1Lb411i7qo/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1Lb411i7qo",
+      "title": "【全程高燃/综漫/燃向】见过黑暗的人 才明白什么是光明",
+      "window_seconds": [
+        167,
+        171
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 0.75,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [167, 171], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [167.5, 170.1, 170.5], \"assessment\": \"能量柱→紫焰脸→女角色近景→月前全身至少三次；同脸RGB错位、暗闪及抬头不另算。\"}",
+      "evidence": "evidence/BV1Lb411i7qo/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1Mbgj69EFu",
+      "title": "让善恶有报，但由算法控制，你愿意吗？【AI全民制作人】",
+      "window_seconds": [
+        128.3,
+        130.3
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [128.3, 130.3], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [128.667, 129.833], \"assessment\": \"道路转面部再侧窗至少两次换机位，下限1次/秒；曝光增长不加刀，130.167撞击遮挡不能据稀疏帧断言额外隐藏剪点。\"}",
+      "evidence": "evidence/BV1Mbgj69EFu/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1Mbgj69EFu",
+      "title": "让善恶有报，但由算法控制，你愿意吗？【AI全民制作人】",
+      "window_seconds": [
+        152.2,
+        154.2
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [152.2, 154.2], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [152.292, 154.042], \"assessment\": \"人物转门缝脚部再热水器两次构图替换；电弧亮闪单列。\"}",
+      "evidence": "evidence/BV1Mbgj69EFu/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1Mbgj69EFu",
+      "title": "让善恶有报，但由算法控制，你愿意吗？【AI全民制作人】",
+      "window_seconds": [
+        164,
+        168
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [164, 168], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [164.083, 166.417], \"assessment\": \"无人机→事故全景→手机细节共两刀，下限0.5次/秒；警灯闪烁不算剪点。\"}",
+      "evidence": "evidence/BV1Mbgj69EFu/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1MFpG63E26",
+      "title": "带我出逃吧，我的罗密欧——Astra制作",
+      "window_seconds": [
+        97.5,
+        99.5
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 5,
+      "minimum_per_second": 2.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [97.5, 99.5], \"minimum_major_composition_changes\": 5, \"approximate_times\": [97.9, 98.43, 98.57, 99.1, 99.3], \"lower_bound_per_second\": 2.5, \"caution\": \"Selected high-change window only; strip-mask intermediate steps excluded; not whole-video average or a model capability benchmark.\"}",
+      "evidence": "evidence/BV1MFpG63E26/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1mo4y1t7A7",
+      "title": "让驱魔师免于堕落",
+      "window_seconds": [
+        91,
+        93
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [91, 93], \"minimum_major_composition_changes\": null, \"caution\": \"Framing replacements are visible, but camera continuity versus hard edits needs full continuous playback. Light flashes and geometry-array updates not counted as cuts.\"}",
+      "evidence": "evidence/BV1mo4y1t7A7/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1n34y1r7rx",
+      "title": "咒 术 实 战",
+      "window_seconds": [
+        12,
+        16
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [12, 16], \"confirmed_major_composition_changes_minimum\": 0, \"assessment\": \"同一街景上蓝标题退场、笔画/黑字块与大字闪现为局部字层动画，无已确认底镜头切换。\"}",
+      "evidence": "evidence/BV1n34y1r7rx/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1n34y1r7rx",
+      "title": "咒 术 实 战",
+      "window_seconds": [
+        80.9,
+        82.9
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [80.9, 82.9], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [81.081, 81.748], \"assessment\": \"手势→角色近景→实景人群至少两次主构图更替，下限1次/秒；后续阈值、反色、亮闪不各算新镜头。\"}",
+      "evidence": "evidence/BV1n34y1r7rx/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1n34y1r7rx",
+      "title": "咒 术 实 战",
+      "window_seconds": [
+        100.7,
+        102.7
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [100.7, 102.7], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [100.892, 101.56, 102.227], \"assessment\": \"暗漫画→侧脸实景→较远双人实景→红黑人物至少三次大构图/景别连接，下限1.5次/秒；101.56的远景可能由取景缩放而来，未把三次全部断言为不同原始机位，红黑/白黑闪变不另计。\"}",
+      "evidence": "evidence/BV1n34y1r7rx/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1od4y1Z7Vz",
+      "title": "【静止系MAD】仿青空2023(附工程)",
+      "window_seconds": [
+        13.32,
+        15.24
+      ],
+      "event_type": "未结构化计数",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [13.32, 15.24], \"confirmed_scene_replacement_minimum\": 1, \"description\": \"粒子/文字带收拢后由圆形遮罩引出绿色背景，14.680秒出现圆内新图，14.840秒铺满；14.360秒文字倾斜、圆孔变大和背景对焦不分别算独立镜头。15.240秒浅色过渡端点未确认完整后继镜头，不补计。\"}",
+      "evidence": "evidence/BV1od4y1Z7Vz/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1od4y1Z7Vz",
+      "title": "【静止系MAD】仿青空2023(附工程)",
+      "window_seconds": [
+        84,
+        85.92
+      ],
+      "event_type": "未结构化计数",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [84, 85.92], \"confirmed_transition_to_new_character_composition_minimum\": 1, \"description\": \"84.000→84.080是同插画竖条到全幅的布局揭示；84.160–84.560是曝光脉冲；85.200–85.760连续叠入新人物并替换背景，按一次合成换场处理。不能把scene阈值的84.04、84.08、85.72都当独立硬切。\"}",
+      "evidence": "evidence/BV1od4y1Z7Vz/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1od4y1Z7Vz",
+      "title": "【静止系MAD】仿青空2023(附工程)",
+      "window_seconds": [
+        113,
+        116.96
+      ],
+      "event_type": "未结构化计数",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [113, 116.96], \"confirmed_inset_picture_replacement_minimum\": 1, \"bracket\": [115.16, 115.28], \"description\": \"画内胶片素材替换一次，其余主要为同一胶片空间的运动、缩放、虚焦和字幕揭示；没有据这些采样确认全画面硬切。\"}",
+      "evidence": "evidence/BV1od4y1Z7Vz/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1oP4y1x7dv",
+      "title": "【咒术回战/静止画MAD】我们的罪与罚",
+      "window_seconds": [
+        158.2,
+        160.2
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [158.2, 160.2], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [159.067, 159.667], \"assessment\": \"手部/侧向构图到正面冲击角色，再到速度线通道至少两次；黑白/紫色冲击作为连接处理不重复加刀，160.067末尾亮形事件另记未判新镜。\"}",
+      "evidence": "evidence/BV1oP4y1x7dv/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1oP4y1x7dv",
+      "title": "【咒术回战/静止画MAD】我们的罪与罚",
+      "window_seconds": [
+        201,
+        203
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [201, 203], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [202.267, 202.467], \"assessment\": \"白底双人到暗纹理竖字一次，期间漏光、亮度及旋转不另计。\"}",
+      "evidence": "evidence/BV1oP4y1x7dv/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1oP4y1x7dv",
+      "title": "【咒术回战/静止画MAD】我们的罪与罚",
+      "window_seconds": [
+        130,
+        134
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 0.75,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [130, 134], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [130.2, 131.1, 132.8], \"assessment\": \"红题卡→侧脸对白→液化接废墟人物→低头人物；文字逐字、地面条块和推近不另加刀。\"}",
+      "evidence": "evidence/BV1oP4y1x7dv/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1psN86KEt5",
+      "title": "原创AIGC剧集《有异人》第一集",
+      "window_seconds": [
+        109.6,
+        111.6
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [109.6, 111.6], \"minimum_major_composition_changes\": 3, \"manually_observed_boundaries_approx\": [110.0, 110.267, 110.867], \"caution\": \"2秒窗保守至少3次明确景别/视角切换，下限1.5次/秒。111.2秒起的视角转移含快速运动，未额外计数。345.2–347.2秒仅确认345.267秒附近一次切镜，后续火焰闪动不计切镜。检测候选不是边界真值；这些局部窗不能代表437秒全片平均，未听审不能称对拍。\"}",
+      "evidence": "evidence/BV1psN86KEt5/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1pvGi6uEAY",
+      "title": "百万转场",
+      "window_seconds": [
+        9.3,
+        11.3
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 2.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [9.3, 11.3], \"minimum_major_composition_changes\": 4, \"approximate_times\": [9.533, 10.1, 10.667, 11.233], \"lower_bound_per_second\": 2, \"caution\": \"局部下限，15fps采样约0.067秒；源动画内部切点可能继承。红色覆盖逐渐减弱的各帧不是新镜头。\"}",
+      "evidence": "evidence/BV1pvGi6uEAY/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1px4y1s7sn",
+      "title": "夏",
+      "window_seconds": [
+        12.8,
+        14.8
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 2.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [12.8, 14.8], \"minimum_major_composition_changes\": 4, \"approximate_times\": [12.817, 13.533, 14.0, 14.7], \"lower_bound_per_second\": 2.0, \"caution\": \"Not whole-video average; same-shot action/zoom and mask steps not counted individually; original anime cuts may be inherited.\"}",
+      "evidence": "evidence/BV1px4y1s7sn/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1q441177e9",
+      "title": "电影混剪 | 愿你有一天终将与重要的人相遇",
+      "window_seconds": [
+        151.2,
+        153.2
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [151.2, 153.2], \"confirmed_major_changes_minimum\": 3, \"boundary_brackets\": [[151.4, 151.467], [152.333, 152.4], [153.067, 153.133]], \"lower_bound_per_second\": 1.5, \"description\": \"选定2秒中三次画面整体替换，前三个实拍构图以接吻动作关联，末次转动画群像；人物连续动作不另计镜头。\"}",
+      "evidence": "evidence/BV1q441177e9/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1q441177e9",
+      "title": "电影混剪 | 愿你有一天终将与重要的人相遇",
+      "window_seconds": [
+        17.1,
+        19.1
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [17.1, 19.1], \"confirmed_major_changes_minimum\": 2, \"boundary_brackets\": [[17.1, 17.167], [18.967, 19.033]], \"lower_bound_per_second\": 1.0, \"description\": \"人物近景→花田远景→人群；花田期间主体大小变化和花朵运动不另计切镜。\"}",
+      "evidence": "evidence/BV1q441177e9/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1q441177e9",
+      "title": "电影混剪 | 愿你有一天终将与重要的人相遇",
+      "window_seconds": [
+        257,
+        261
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [257, 261], \"confirmed_major_changes_minimum\": 2, \"boundary_brackets\": [[257, 257.067], [259.067, 259.133]], \"description\": \"男生→女生→男生两次构图替换；末尾窗帘渐渐挡住人物是画内运动，不计为新镜头。\"}",
+      "evidence": "evidence/BV1q441177e9/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1qM9iBwExc",
+      "title": "《大傩》第7回",
+      "window_seconds": [
+        19,
+        21
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [19, 21], \"minimum_major_composition_changes\": 3, \"manually_observed_boundaries_approx\": [19.083, 19.833, 20.333], \"caution\": \"2秒窗保守3次视角/景别切换，下限1.5次/秒。19.083后书飞行、相机移动显露老人不另计。23.8–25.8秒也有3次明确切换约23.917、24.917、25.75。228–232秒额外窗约228.417、230.083、231.583三次，4秒下限0.75次/秒；两片镜片内火焰变形不计切镜。局部窗口不能代替全片平均，未听审不宣称卡点。\"}",
+      "evidence": "evidence/BV1qM9iBwExc/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1qmMR6MEMW",
+      "title": "原创AIGC剧集《有异人》第二集【AI全民制作人】",
+      "window_seconds": [
+        201.1,
+        203.1
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [201.1, 203.1], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [202.1, 202.833], \"assessment\": \"车轮连续运镜→腿部配件→握把手套至少两次，轮转和机位移动不另计。\"}",
+      "evidence": "evidence/BV1qmMR6MEMW/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1qmMR6MEMW",
+      "title": "原创AIGC剧集《有异人》第二集【AI全民制作人】",
+      "window_seconds": [
+        35.2,
+        37.2
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [35.2, 37.2], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [35.267, 36.4], \"assessment\": \"睡脸→床铺全景→侧面床铺至少两次，36.867后抬手与小生物运镜不另加刀。\"}",
+      "evidence": "evidence/BV1qmMR6MEMW/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1qmMR6MEMW",
+      "title": "原创AIGC剧集《有异人》第二集【AI全民制作人】",
+      "window_seconds": [
+        221,
+        225
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 0.75,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [221, 225], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [221.8, 222.2, 223.9], \"assessment\": \"符纸→悬石低位→石墙广场高位→墙后双人；烟扩散和石墙升起不另计。\"}",
+      "evidence": "evidence/BV1qmMR6MEMW/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1Ra8jz8EmW",
+      "title": "章鱼噼的原罪｜MAD｜被生命所厌恶",
+      "window_seconds": [
+        58,
+        62
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [58, 62], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [58.083, 60.25], \"assessment\": \"至少两次底镜头替换，下限0.5次/秒；同脸反色与黑块字不加刀，61秒后画中画增加单列，不合并成全屏切镜。\"}",
+      "evidence": "evidence/BV1Ra8jz8EmW/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1Ra8jz8EmW",
+      "title": "章鱼噼的原罪｜MAD｜被生命所厌恶",
+      "window_seconds": [
+        136.6,
+        138.6
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [136.6, 138.6], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [138.467, 138.533], \"assessment\": \"同人物动作和刮痕延续至尾部黑场图形，保守一次构图更替；scene48不是镜数。\"}",
+      "evidence": "evidence/BV1Ra8jz8EmW/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1Ra8jz8EmW",
+      "title": "章鱼噼的原罪｜MAD｜被生命所厌恶",
+      "window_seconds": [
+        154.8,
+        156.8
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [154.8, 156.8], \"confirmed_major_composition_changes_minimum\": 1, \"transition_interval\": [155.533, 155.8], \"assessment\": \"人物图通过白涂抹接黑底轮廓线网，整个wipe计一次；线条/字层转动及颗粒不各算剪辑。\"}",
+      "evidence": "evidence/BV1Ra8jz8EmW/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1rTKU6WEat",
+      "title": "第38届百花奖AIGC推优 最佳短片《断鞘》",
+      "window_seconds": [
+        401.3,
+        403.3
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [401.3, 403.3], \"confirmed_major_composition_changes_minimum\": null, \"assessment\": \"追随飞矛、叶片、横向甩动与树干落点，构图改变明确，隐藏连接无法从采样可靠断定；不把7个scene候选当7刀，也不声称一镜到底。\"}",
+      "evidence": "evidence/BV1rTKU6WEat/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1rTKU6WEat",
+      "title": "第38届百花奖AIGC推优 最佳短片《断鞘》",
+      "window_seconds": [
+        101.4,
+        103.4
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [101.4, 103.4], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [101.72, 102.36, 103.32], \"assessment\": \"撞门群像→弓箭手→撞门木/人员→侧面木车至少3次，下限1.5次/秒；同一机位摇动和人物倒退不另加刀。\"}",
+      "evidence": "evidence/BV1rTKU6WEat/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1rTKU6WEat",
+      "title": "第38届百花奖AIGC推优 最佳短片《断鞘》",
+      "window_seconds": [
+        888,
+        892
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [888, 892], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [889.8, 891.36], \"assessment\": \"骑兵远景→马腿细节→正面队伍两次，下限0.5次/秒；马腿/雪尘变化不是切镜。\"}",
+      "evidence": "evidence/BV1rTKU6WEat/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1Rtut6cEBR",
+      "title": "巨构：缘起性空【AI全民制作人】",
+      "window_seconds": [
+        4,
+        6
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [4, 6], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [5.384], \"assessment\": \"月亮圆门→俯瞰长墙一次，落水/云动不计。\"}",
+      "evidence": "evidence/BV1Rtut6cEBR/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1Rtut6cEBR",
+      "title": "巨构：缘起性空【AI全民制作人】",
+      "window_seconds": [
+        15,
+        17
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [15, 17], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [15.681, 15.753], \"assessment\": \"正面门楼→斜向崖桥一次，源PTS可见区间而非臆造整帧精度。\"}",
+      "evidence": "evidence/BV1Rtut6cEBR/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1Rtut6cEBR",
+      "title": "巨构：缘起性空【AI全民制作人】",
+      "window_seconds": [
+        51,
+        55
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [51, 55], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [51.559, 51.667], \"assessment\": \"倒影白墙→圆环寺院一次，圆环内云层和小人物变化不另计。\"}",
+      "evidence": "evidence/BV1Rtut6cEBR/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1s5YA6KEiF",
+      "title": "【DS曲绘】东方红的心脏",
+      "window_seconds": [
+        76.6,
+        78.6
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [76.6, 78.6], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [78.458, 78.542], \"assessment\": \"一次右侧图形模块明显替换，左球和外框未换；黄黑格亮灭不算切镜。属于局部模块切换，非实拍机位。\"}",
+      "evidence": "evidence/BV1s5YA6KEiF/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1s5YA6KEiF",
+      "title": "【DS曲绘】东方红的心脏",
+      "window_seconds": [
+        112.7,
+        114.7
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [112.7, 114.7], \"confirmed_major_composition_changes_minimum\": 0, \"assessment\": \"密集证据112.708–114.625仅同一日期版面，0次主构图替换；114.667自动候选落在已审密集尾端之后，不能据此认刀。\"}",
+      "evidence": "evidence/BV1s5YA6KEiF/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1s5YA6KEiF",
+      "title": "【DS曲绘】东方红的心脏",
+      "window_seconds": [
+        196,
+        200
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [196, 200], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [197.083, 197.167], \"assessment\": \"大数字切分栏一次，下限0.25次/秒；随后事件列表增加属于局部图层。\"}",
+      "evidence": "evidence/BV1s5YA6KEiF/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1SbJJ6XEcH",
+      "title": "秋叶原－第一日",
+      "window_seconds": [
+        182,
+        184
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [182, 184], \"minimum_major_composition_changes\": 2, \"caution\": \"射手反打与目标回切两次，保守下限1次/秒；目标的躯干摆动不算换镜。133–135秒只有134.434秒一次可明确的构图切换。所选窗口并非全片平均速度。\"}",
+      "evidence": "evidence/BV1SbJJ6XEcH/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1Siae6tEK9",
+      "title": "使用GPT6-Astra和opus5.5生成的world.execute(me)mv",
+      "window_seconds": [
+        69,
+        73
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [69, 73], \"confirmed_major_composition_changes_minimum\": 0, \"assessment\": \"同桌面上终端入场/关闭与录屏窗口淡入，均为局部窗口切换；递归画面不是多次整屏剪辑。\"}",
+      "evidence": "evidence/BV1Siae6tEK9/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1Siae6tEK9",
+      "title": "使用GPT6-Astra和opus5.5生成的world.execute(me)mv",
+      "window_seconds": [
+        161,
+        163
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [161, 163], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [161.533], \"assessment\": \"大字警告切回轮盘主模块至少一次；多语言换字、红闪、轮盘转动和底色变化单列，不把4个scene候选全算刀。\"}",
+      "evidence": "evidence/BV1Siae6tEK9/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1Siae6tEK9",
+      "title": "使用GPT6-Astra和opus5.5生成的world.execute(me)mv",
+      "window_seconds": [
+        203.7,
+        205.7
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [203.7, 205.7], \"confirmed_major_composition_changes_minimum\": 1, \"transition_interval\": [205.567, 205.633], \"assessment\": \"桌面经黑场到系统标志一次；记事本关闭/菜单与对话框都是桌面内事件。\"}",
+      "evidence": "evidence/BV1Siae6tEK9/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1sMPgzaE19",
+      "title": "萌宠拆家！Seedance武侠动画！《侠影宠梦》【B站AI创作大赛-开放赛道】",
+      "window_seconds": [
+        85,
+        87
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [85, 87], \"confirmed_major_composition_changes_minimum\": null, \"assessment\": \"持续猫犬刀战与墨弧，前后景和机位迅速改变，86.533为放射冲击。抽样不足以可靠区分连续绕拍、隐藏剪接与生成形变，不强填切镜数。\"}",
+      "evidence": "evidence/BV1sMPgzaE19/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1sMPgzaE19",
+      "title": "萌宠拆家！Seedance武侠动画！《侠影宠梦》【B站AI创作大赛-开放赛道】",
+      "window_seconds": [
+        81.4,
+        83.4
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [81.4, 83.4], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [82.733, 83.267], \"assessment\": \"屋顶场景经黑白冲击接米白水墨人物，至少一次主风格/场景连接；黑/白闪动不逐次加刀。\"}",
+      "evidence": "evidence/BV1sMPgzaE19/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1sMPgzaE19",
+      "title": "萌宠拆家！Seedance武侠动画！《侠影宠梦》【B站AI创作大赛-开放赛道】",
+      "window_seconds": [
+        120,
+        124
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [120, 124], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [122.5, 122.6], \"assessment\": \"武侠院子→猫狗与拖鞋一次，人物和宠物小动作不另计。\"}",
+      "evidence": "evidence/BV1sMPgzaE19/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1SV4y1T7ZM",
+      "title": "致，我最后的热泪盈眶[静止画MAD/风华回战2022]",
+      "window_seconds": [
+        55,
+        57
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [55, 57], \"confirmed_major_composition_changes_minimum\": 1, \"transition_interval\": [55, 55.267], \"assessment\": \"眼部窄幅经甩镜接新人物文字合成至少一次；后面黑闪、黑边和词块改变不逐个当新镜头。\"}",
+      "evidence": "evidence/BV1SV4y1T7ZM/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1SV4y1T7ZM",
+      "title": "致，我最后的热泪盈眶[静止画MAD/风华回战2022]",
+      "window_seconds": [
+        90.3,
+        92.3
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [90.3, 92.3], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [90.633, 91.9], \"assessment\": \"身体局部转面部，再压线/刷出全身至少两次主构图替换，下限1次/秒；92.167后开始出场但目标未在此窗完整出现，不多计。\"}",
+      "evidence": "evidence/BV1SV4y1T7ZM/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1SV4y1T7ZM",
+      "title": "致，我最后的热泪盈眶[静止画MAD/风华回战2022]",
+      "window_seconds": [
+        98,
+        102
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [98, 102], \"confirmed_major_composition_changes_minimum\": 4, \"boundaries_approx\": [98.7, 99.8, 100.9, 101.4], \"assessment\": \"背影条带→新人物合成→散字版面→人物白带卡→另一人物卡至少四次，下限1次/秒；黑场细线作为连接过程单列。\"}",
+      "evidence": "evidence/BV1SV4y1T7ZM/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1sw411s7v7",
+      "title": "影视飓风七百万粉丝混剪",
+      "window_seconds": [
+        109,
+        111
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 2.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [109, 111], \"minimum_major_composition_changes\": 4, \"manually_observed_boundaries_approx\": [109.08, 109.56, 110.2, 110.76], \"caution\": \"2秒窗保守4次三联画整组替换，下限2次/秒，每组虽含三个人物只计一次，不作12次。105.3–107.3秒确认三次主要替换（约105.96、106.44、106.84），105.88白闪不是另一独立镜头。30.5–34.5秒中图案→实景只有一次转场，32.08亮斑/32.2白闪/32.32实景不拆为三次；窗口尾34.48另一次硬切火花。局部密集窗不是全片平均，未听审不声称卡点。\"}",
+      "evidence": "evidence/BV1sw411s7v7/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1tC41147At",
+      "title": "呐，你喜欢跑步嘛？【小栗帽/赛马娘/静止系MAD】",
+      "window_seconds": [
+        102.7,
+        104.7
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [102.7, 104.7], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [102.894, 103.061, 103.895], \"assessment\": \"拼贴人物→男性面部→河岸角色→笔刷署名至少三次，103.061后彩色漏光、划痕、闪白不另计。\"}",
+      "evidence": "evidence/BV1tC41147At/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1tC41147At",
+      "title": "呐，你喜欢跑步嘛？【小栗帽/赛马娘/静止系MAD】",
+      "window_seconds": [
+        62,
+        64
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [62, 64], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [62.521, 63.438, 63.939], \"assessment\": \"白底竖字→发丝人物→手部→脸至少三次；62.437/63.272等短黑帧独立标连接，不额外加刀。\"}",
+      "evidence": "evidence/BV1tC41147At/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1tC41147At",
+      "title": "呐，你喜欢跑步嘛？【小栗帽/赛马娘/静止系MAD】",
+      "window_seconds": [
+        89,
+        93
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [89, 93], \"confirmed_major_composition_changes_minimum\": 0, \"assessment\": \"胶片/泡泡空间持续，随机字变目标句及小窗图像局部更新；无明确整屏主构图替换，不把字符变化算几十刀。\"}",
+      "evidence": "evidence/BV1tC41147At/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1Tp4y147fj",
+      "title": "不用画面，做个高燃混剪",
+      "window_seconds": [
+        83.5,
+        87.5
+      ],
+      "event_type": "整张字卡替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"selected_window\": [83.5, 87.5], \"confirmed_full_card_replacement_count\": 1, \"full_card_boundary_bracket\": [84.167, 84.251], \"local_keyword_or_subline_replacements\": [{\"bracket\": [83.584, 83.667], \"kind\": \"主句内强调词替换\"}, {\"bracket\": [86.003, 86.086], \"kind\": \"副行替换\"}, {\"bracket\": [87.004, 87.087], \"kind\": \"副行替换\"}], \"subline_added_bracket\": [85.085, 85.168], \"assessment\": \"4秒专项窗口确认1次整张主字卡替换、3次局部词/副行替换、1次副行新增；这些是不同层级的文字状态事件，不能合称5次真实切镜。65.5–69.5秒词条逐层堆积和92.5–96.5秒周边文字连续滑动体现信息组织，不证明人物动作或高速场景调度能力。自动scene阈值没有候选，是黑底占比大、变化区域小导致的检测局限，不代表没有剪辑。\", \"temporal_resolution_seconds_approx\": 0.083, \"whole_video_average_known\": false, \"beat_alignment\": \"未听审，不能确认低音、拟声词、旋律是否精确踩点；画面内关于音效/踩点的台词只是素材内容，不当作测量结果。\"}",
+      "evidence": "evidence/BV1Tp4y147fj/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1uUfmBAEtc",
+      "title": "原创AI漫剧《恶仙》第一集，中式克苏鲁风格",
+      "window_seconds": [
+        107,
+        111
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [107, 111], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [107.6, 107.7], \"assessment\": \"人物吐息切花苞一次，下限0.25次/秒；花瓣开放、红烟和字层渐显属于同构图动画，不逐项算刀。\"}",
+      "evidence": "evidence/BV1uUfmBAEtc/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1uUfmBAEtc",
+      "title": "原创AI漫剧《恶仙》第一集，中式克苏鲁风格",
+      "window_seconds": [
+        200,
+        202
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [200, 202], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [200.333, 200.4], \"assessment\": \"武器近景经爆闪接对峙全景至少一次；201.8后动作与能量形变不可靠分隐藏剪点。\"}",
+      "evidence": "evidence/BV1uUfmBAEtc/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1uUfmBAEtc",
+      "title": "原创AI漫剧《恶仙》第一集，中式克苏鲁风格",
+      "window_seconds": [
+        207,
+        209
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [207, 209], \"confirmed_major_composition_changes_minimum\": 1, \"transition_interval\": [208.733, 208.867], \"assessment\": \"人物近景经爆闪接武器异眼近景，保守一次；207.867职员字替换不是全屏切镜。\"}",
+      "evidence": "evidence/BV1uUfmBAEtc/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1V5KPerEL3",
+      "title": "祥 另一个幸福的我！",
+      "window_seconds": [
+        6,
+        10
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [6, 10], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [8.258, 8.342], \"assessment\": \"教室切咖啡馆一次；门生成、头发拉伸、人物消失/渐显是局部合成，不各计一刀。\"}",
+      "evidence": "evidence/BV1V5KPerEL3/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1V5KPerEL3",
+      "title": "祥 另一个幸福的我！",
+      "window_seconds": [
+        40.1,
+        42.1
+      ],
+      "event_type": "硬切",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [40.1, 42.1], \"hard_cut_count_confirmed\": null, \"assessment\": \"未确认独立硬切，主要是同吧台画面内横移和动作；自动scene不代表剪点，不能据局部窗证明原作或二创全段无隐藏接点。\"}",
+      "evidence": "evidence/BV1V5KPerEL3/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1V5KPerEL3",
+      "title": "祥 另一个幸福的我！",
+      "window_seconds": [
+        157.2,
+        159.2
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [157.2, 159.2], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [158.275, 158.342], \"assessment\": \"三人近景→另两人构图一次，下限0.5次/秒；服装推近不另计。\"}",
+      "evidence": "evidence/BV1V5KPerEL3/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1V6ZrBJEoM",
+      "title": "【 新 宿 决 战 】第二话 seedance 2.0 制作",
+      "window_seconds": [
+        54,
+        56
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [54, 56], \"confirmed_major_composition_changes_minimum\": 0, \"assessment\": \"连续城市翻转穿行和白色斩击/碎石遮挡，未确认独立主切镜；不能把亮条每次横扫当一刀。\"}",
+      "evidence": "evidence/BV1V6ZrBJEoM/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1V6ZrBJEoM",
+      "title": "【 新 宿 决 战 】第二话 seedance 2.0 制作",
+      "window_seconds": [
+        147.2,
+        149.2
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [147.2, 149.2], \"confirmed_major_composition_changes_minimum\": null, \"assessment\": \"两人对打伴相机环绕、距离变化与遮挡，生成的视点漂移和实际剪接不能可靠分离，保留不计数。\"}",
+      "evidence": "evidence/BV1V6ZrBJEoM/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1V6ZrBJEoM",
+      "title": "【 新 宿 决 战 】第二话 seedance 2.0 制作",
+      "window_seconds": [
+        143,
+        147
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [143, 147], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [144.733, 146.0], \"assessment\": \"兜帽人物经电视故障转笔刷漩涡，再转格斗主景至少两次；漩涡缩退、故障闪色和格斗运镜不逐次计刀。\"}",
+      "evidence": "evidence/BV1V6ZrBJEoM/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1vec5zJEiA",
+      "title": "Seedance2.0官方先导片",
+      "window_seconds": [
+        71.8,
+        73.8
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [71.8, 73.8], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [72.667], \"assessment\": \"巨叶花园远景→城市场景近景一次；后续相机拉远与人物奔跑造成强差异，不能把16个scene候选当16刀。\"}",
+      "evidence": "evidence/BV1vec5zJEiA/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1vec5zJEiA",
+      "title": "Seedance2.0官方先导片",
+      "window_seconds": [
+        59,
+        61
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [59, 61], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [59.067, 59.8, 60.667], \"assessment\": \"写实门口→风格化奔跑→舞蹈近景→竖琴建筑远景至少3次，下限1.5次/秒；人物旋转与头发运动不加刀。\"}",
+      "evidence": "evidence/BV1vec5zJEiA/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1vec5zJEiA",
+      "title": "Seedance2.0官方先导片",
+      "window_seconds": [
+        23,
+        27
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [23, 27], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [23.7], \"assessment\": \"双人近景→较宽拥抱一次；2016→2026为同构图粒子状态更新，主体变暗也不另加刀。\"}",
+      "evidence": "evidence/BV1vec5zJEiA/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1vthX6XEwm",
+      "title": "[opus 5.5] world.execute(me);",
+      "window_seconds": [
+        143.8,
+        145.8
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [143.8, 145.8], \"confirmed_major_composition_changes_minimum\": 1, \"boundaries_approx\": [145.743], \"assessment\": \"前段保持三人+代码构图，反色、缩放、弹窗、像素条只作状态；末尾转单角色大错误/内存窗至少一次，未将12个scene候选当12刀。\"}",
+      "evidence": "evidence/BV1vthX6XEwm/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1vthX6XEwm",
+      "title": "[opus 5.5] world.execute(me);",
+      "window_seconds": [
+        159.3,
+        161.3
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 2.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [159.3, 161.3], \"confirmed_major_composition_changes_minimum\": 4, \"boundaries_approx\": [159.644, 160.311, 160.844, 161.244], \"assessment\": \"递归窗口→错误/碎窗主模块→数字1→2→3，至少4次主模块替换、下限2次/秒；并非四个摄影镜头，递归层级更新另列局部状态。\"}",
+      "evidence": "evidence/BV1vthX6XEwm/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1vthX6XEwm",
+      "title": "[opus 5.5] world.execute(me);",
+      "window_seconds": [
+        78,
+        82
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [78, 82], \"confirmed_major_composition_changes_minimum\": 0, \"local_events\": [\"78.5左侧营养表出现\", \"80.205–80.305水平扫描替换服装\"], \"assessment\": \"主编辑器/角色构图稳定，换装是局部遮罩更新，已见范围无主构图替换。\"}",
+      "evidence": "evidence/BV1vthX6XEwm/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1wB4y1w7Lm",
+      "title": "戰 回 術 咒",
+      "window_seconds": [
+        35,
+        37
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [35, 37], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [35.6, 36.5], \"assessment\": \"源60fps复查120帧：胸部近景→森林人物→庭院战斗两次主构图变化。36.15等黑帧、眼光、人物动作及局部推近不重复加刀；容器60fps不等于原动画60种独立画。\"}",
+      "evidence": "evidence/BV1wB4y1w7Lm/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1wB4y1w7Lm",
+      "title": "戰 回 術 咒",
+      "window_seconds": [
+        56.8,
+        58.8
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [56.8, 58.8], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [57.4, 57.867, 58.4], \"assessment\": \"森林双人→白色生物→受伤局部→更宽生物构图至少三次；放射模糊非新增镜头。\"}",
+      "evidence": "evidence/BV1wB4y1w7Lm/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1wB4y1w7Lm",
+      "title": "戰 回 術 咒",
+      "window_seconds": [
+        62,
+        66
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [62, 66], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [63, 65.2], \"assessment\": \"白发受伤人物→持枪人物→枪管极近构图至少两次；瞄准圈增长、字效与局部缩放不另计。\"}",
+      "evidence": "evidence/BV1wB4y1w7Lm/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1WFEP6eEiM",
+      "title": "巨构：光的裂缝",
+      "window_seconds": [
+        2.5,
+        4
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.6667,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [2.5, 4], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [2.948, 3.031], \"assessment\": \"斜向巨墙切到对称谷口，局部辉光不另计。\"}",
+      "evidence": "evidence/BV1WFEP6eEiM/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1WFEP6eEiM",
+      "title": "巨构：光的裂缝",
+      "window_seconds": [
+        5,
+        7
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [5, 7], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [5.439, 5.522], \"assessment\": \"谷口切近墙，低对比使自动scene阈值漏检。\"}",
+      "evidence": "evidence/BV1WFEP6eEiM/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1WFEP6eEiM",
+      "title": "巨构：光的裂缝",
+      "window_seconds": [
+        7.5,
+        9.5
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [7.5, 9.5], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [8.179, 8.262], \"assessment\": \"近墙换回斜墙布局，不能据循环推成新分镜创作。\"}",
+      "evidence": "evidence/BV1WFEP6eEiM/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1wyuG6PEXH",
+      "title": "巨构：心行处灭【AI全民制作人】",
+      "window_seconds": [
+        2,
+        4
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [2, 4], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [2.571, 2.65], \"assessment\": \"红塔森林→长殿一次。\"}",
+      "evidence": "evidence/BV1wyuG6PEXH/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1wyuG6PEXH",
+      "title": "巨构：心行处灭【AI全民制作人】",
+      "window_seconds": [
+        10,
+        12
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [10, 12], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [10.402, 10.481], \"assessment\": \"暗框巨门→竹影暖墙一次。\"}",
+      "evidence": "evidence/BV1wyuG6PEXH/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1wyuG6PEXH",
+      "title": "巨构：心行处灭【AI全民制作人】",
+      "window_seconds": [
+        42,
+        46
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 0,
+      "minimum_per_second": 0.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [42, 46], \"confirmed_major_composition_changes_minimum\": 0, \"assessment\": \"同一阳台构图，人物小动作、飘带与云移动不另算切镜。\"}",
+      "evidence": "evidence/BV1wyuG6PEXH/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1xL4pzREPZ",
+      "title": "【MAD/败犬女主】“并非恋人，也不是朋友的我们。”（2025风华回战/八奈见中心/陈奕迅《兄妹》）",
+      "window_seconds": [
+        143,
+        145
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [143, 145], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [143.24, 144.68], \"assessment\": \"彩色脸→漫画页→棕色教室至少两次；143.08边缘光、白闪、同页镜头扫过数格不另计。\"}",
+      "evidence": "evidence/BV1xL4pzREPZ/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1xL4pzREPZ",
+      "title": "【MAD/败犬女主】“并非恋人，也不是朋友的我们。”（2025风华回战/八奈见中心/陈奕迅《兄妹》）",
+      "window_seconds": [
+        156,
+        158
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [156, 158], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [156.72, 157.2], \"assessment\": \"哭脸→漫画页一次；灰黑方块为过渡，157.44和157.92添格仍为同页构图内动画。\"}",
+      "evidence": "evidence/BV1xL4pzREPZ/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1xL4pzREPZ",
+      "title": "【MAD/败犬女主】“并非恋人，也不是朋友的我们。”（2025风华回战/八奈见中心/陈奕迅《兄妹》）",
+      "window_seconds": [
+        46,
+        50
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [46, 50], \"confirmed_major_composition_changes_minimum\": 4, \"boundaries_approx\": [46.84, 47.68, 48.52, 49.12], \"assessment\": \"剪影→单照片→双照片→蓝色脸→蓝色大背景小人物至少四次；模糊和49.96开始的斜白遮挡不额外算目标镜头。\"}",
+      "evidence": "evidence/BV1xL4pzREPZ/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1XMbN6VE1w",
+      "title": "病名为AI【PV】GPT-6 Astra制作",
+      "window_seconds": [
+        61,
+        63
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 5,
+      "minimum_per_second": 2.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [61, 63], \"confirmed_major_composition_changes_minimum\": 5, \"boundaries_approx\": [61.267, 61.6, 62.0, 62.333, 62.667], \"assessment\": \"至少5次角色卡替换，下限2.5次/秒；每卡内条带和模糊不额外累计。\"}",
+      "evidence": "evidence/BV1XMbN6VE1w/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1XMbN6VE1w",
+      "title": "病名为AI【PV】GPT-6 Astra制作",
+      "window_seconds": [
+        72.1,
+        74.1
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 6,
+      "minimum_per_second": 3.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [72.1, 74.1], \"confirmed_major_composition_changes_minimum\": 6, \"boundaries_approx\": [72.3, 72.633, 73.033, 73.367, 73.7, 74.033], \"assessment\": \"至少6次角色卡替换，下限3次/秒；重复卡片序列不当作全新模型分镜能力。\"}",
+      "evidence": "evidence/BV1XMbN6VE1w/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1XMbN6VE1w",
+      "title": "病名为AI【PV】GPT-6 Astra制作",
+      "window_seconds": [
+        26,
+        30
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [26, 30], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [27.9, 28.0], \"assessment\": \"稳定左右图文卡转横幅图文卡；波形位移和扫线是过渡过程，保守只算一次版式替换。\"}",
+      "evidence": "evidence/BV1XMbN6VE1w/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1xP4y1s7t7",
+      "title": "『天堂制造』",
+      "window_seconds": [
+        48,
+        50
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [48, 50], \"minimum_major_composition_changes\": null, \"caution\": \"48.1–48.4秒有密集高差异帧，但多为反相、局部裁切与漫画显现，不给出独立镜头数。54.2–56.2秒主要是卡片叠加和位移，而非每一小步换镜。\"}",
+      "evidence": "evidence/BV1xP4y1s7t7/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1yi421D7i5",
+      "title": "【静止画MAD】言語如蘇打般湧現【黃金祭2024】",
+      "window_seconds": [
+        125.1,
+        127.1
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [125.1, 127.1], \"confirmed_major_composition_changes_minimum\": 2, \"change_observations\": [{\"first_clear_new_sample\": 125.834, \"kind\": \"握拳近景换成另一手势\"}, {\"first_clear_new_sample\": 126.234, \"kind\": \"手势特写换双人中景\"}], \"description\": \"黑闪、去色、阈值和波纹只是同画面状态变化，不累计为镜头；127.035秒双人图黑白条纹仍为同构图。两次是在所查2秒窗的下界，无法断言都是UP重剪而非素材原剪点。\"}",
+      "evidence": "evidence/BV1yi421D7i5/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1yi421D7i5",
+      "title": "【静止画MAD】言語如蘇打般湧現【黃金祭2024】",
+      "window_seconds": [
+        192.621,
+        194.621
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [192.621, 194.621], \"confirmed_major_composition_changes_minimum\": 2, \"change_observations\": [{\"first_clear_new_sample\": 192.954, \"kind\": \"气泡文字卡换女孩画面\"}, {\"first_clear_new_sample\": 193.755, \"kind\": \"女孩近景换室外中景\"}], \"description\": \"194.489秒白峰后的下一画面在194.555秒仍被白罩遮住，证据不足以可靠确认第三次，不为凑速率补计。\"}",
+      "evidence": "evidence/BV1yi421D7i5/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1yi421D7i5",
+      "title": "【静止画MAD】言語如蘇打般湧現【黃金祭2024】",
+      "window_seconds": [
+        18.014,
+        21.951
+      ],
+      "event_type": "未结构化计数",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [18.014, 21.951], \"confirmed_transition_to_character_scene_minimum\": 1, \"description\": \"约20.149–20.283秒字卡经闪白变成人物画面；18.615/19.149新增字块与顶行重排属于局部动画，不是真切镜。\"}",
+      "evidence": "evidence/BV1yi421D7i5/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1yi421D7i5",
+      "title": "【静止画MAD】言語如蘇打般湧現【黃金祭2024】",
+      "window_seconds": [
+        206.031,
+        209.968
+      ],
+      "event_type": "未结构化计数",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [206.031, 209.968], \"confirmed_major_layout_changes_minimum\": 2, \"description\": \"女孩单人→双人左右拼接→白底粒子章节卡两次构图替换；白罩上升/下降和CH3文字淡入不另计镜头。\"}",
+      "evidence": "evidence/BV1yi421D7i5/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1YuWMzQELk",
+      "title": "电次君，我做了一个醒不来的梦【风华回战2025/蕾塞篇/静止系MAD】",
+      "window_seconds": [
+        13.6,
+        15.6
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [13.6, 15.6], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [14, 14.56, 15.28], \"assessment\": \"躺姿经胶片/X形接双人→橙色脸→人物背影场景至少三次；胶片闪、白闪和条带每次位移不另加。\"}",
+      "evidence": "evidence/BV1YuWMzQELk/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1YuWMzQELk",
+      "title": "电次君，我做了一个醒不来的梦【风华回战2025/蕾塞篇/静止系MAD】",
+      "window_seconds": [
+        44.6,
+        46.6
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [44.6, 46.6], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [45.4, 46.52], \"assessment\": \"人物侧脸→正脸→全身至少两次；45.32黑帧和脸部阴影/虚焦单列，不另加。\"}",
+      "evidence": "evidence/BV1YuWMzQELk/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1YuWMzQELk",
+      "title": "电次君，我做了一个醒不来的梦【风华回战2025/蕾塞篇/静止系MAD】",
+      "window_seconds": [
+        53,
+        57
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [53, 57], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [54.2, 55.52], \"assessment\": \"红框窗列→女脸→男脸两次；窗列逐个经过、竖字、55.4短黑不另计。\"}",
+      "evidence": "evidence/BV1YuWMzQELk/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1z44y1F7bv",
+      "title": "崩 溃 卫 宫",
+      "window_seconds": [
+        16.7,
+        18.7
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 6,
+      "minimum_per_second": 3.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [16.7, 18.7], \"confirmed_major_composition_changes_minimum\": 6, \"boundaries_approx\": [17.633, 17.833, 18.033, 18.233, 18.5, 18.633], \"assessment\": \"至少6次主模块更新，混有占大面积的人物插入窗更换与全屏源片连接；不是6次独立实拍/原作新镜。原底层持续与光点闪动不额外计数。\"}",
+      "evidence": "evidence/BV1z44y1F7bv/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1z44y1F7bv",
+      "title": "崩 溃 卫 宫",
+      "window_seconds": [
+        28,
+        30
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 6,
+      "minimum_per_second": 3.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [28, 30], \"confirmed_major_composition_changes_minimum\": 6, \"boundaries_approx\": [28.2, 28.333, 28.533, 28.733, 29, 29.333], \"assessment\": \"至少6次拉弓/眼睛/射击/落脚主画面连接；28.667短暂弓局部插入不另加下限，光点和脚落下连续动作不另算。\"}",
+      "evidence": "evidence/BV1z44y1F7bv/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1z44y1F7bv",
+      "title": "崩 溃 卫 宫",
+      "window_seconds": [
+        40,
+        44
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 0.75,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [40, 44], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [40.4, 41.9, 43], \"assessment\": \"至少3次主背景/主体模块连接；小脸局部更新、菱形与矩形窗显隐不再逐个算整屏切镜。\"}",
+      "evidence": "evidence/BV1z44y1F7bv/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1zb4y1z7jW",
+      "title": "因为会时停，所以耗时0秒！",
+      "window_seconds": [
+        105.2,
+        107.2
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 1.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [105.2, 107.2], \"minimum_major_composition_changes\": 3, \"approximate_times\": [105.397, 105.981, 106.982], \"lower_bound_per_second\": 1.5, \"caution\": \"绿色平面→红白人物→受击面孔→双人构图，至少三次；约0.083秒取样。人物出拳和光带扫过不各计一镜。原动画已有剪接，不能全算UP新增。\"}",
+      "evidence": "evidence/BV1zb4y1z7jW/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1ZdfNBxEbY",
+      "title": "高燃打戏+童年回忆杀=全程高能！",
+      "window_seconds": [
+        62,
+        66
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [62, 66], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [62.4, 62.467], \"assessment\": \"狗脸近景→球内狗全景至少一次明显构图切换；其后电弧分支、环带亮度、视角变化不计镜头。\"}",
+      "evidence": "evidence/BV1ZdfNBxEbY/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1ZdfNBxEbY",
+      "title": "高燃打戏+童年回忆杀=全程高能！",
+      "window_seconds": [
+        111.1,
+        113.1
+      ],
+      "event_type": "构图重置",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [111.1, 113.1], \"confirmed_major_composition_resets_minimum\": 1, \"boundary_bracket\": [111.1, 111.167], \"assessment\": \"双人远景→装甲脸部近景至少一次明显构图重置；其后近身交手、遮挡和绕拍难以仅从15样本/秒确定每个隐蔽接点，未把火花/动作跃变全部计为切镜。\"}",
+      "evidence": "evidence/BV1ZdfNBxEbY/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1ZdfNBxEbY",
+      "title": "高燃打戏+童年回忆杀=全程高能！",
+      "window_seconds": [
+        118.5,
+        122.5
+      ],
+      "event_type": "硬切",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [118.5, 122.5], \"hard_cut_count_confirmed\": null, \"assessment\": \"抽样呈现同一云层空间内能量球、盾牌、追击的持续过程；尚未确认独立硬切，不等于证明没有隐藏剪点或全段一镜到底。\"}",
+      "evidence": "evidence/BV1ZdfNBxEbY/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1ZdfNBxEbY",
+      "title": "高燃打戏+童年回忆杀=全程高能！",
+      "window_seconds": [
+        123.2,
+        125.2
+      ],
+      "event_type": "硬切",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [123.2, 125.2], \"hard_cut_count_confirmed\": null, \"assessment\": \"主要是同组角色快速动作、镜头绕行和前景遮挡；不能从每帧差异推成每帧换镜，也不能据局部2秒验证作者对更长打斗的一镜到底描述。\"}",
+      "evidence": "evidence/BV1ZdfNBxEbY/REVIEW.md"
+    },
+    {
+      "group": "人工主导候选",
+      "bvid": "BV1zs411Y78A",
+      "title": "四色东方",
+      "window_seconds": [
+        73,
+        75
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 5,
+      "minimum_per_second": 2.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"window\": [73, 75], \"minimum_major_composition_changes\": 5, \"caution\": \"源成片至少73.115、73.448、73.782、74.116、74.449秒五次主要镜头变化，下限约2.5次/秒；150.1–152.1秒至少四次变化，下限2次/秒。门的开启、挥袖、水花不另外累加。未经逐一原片对照，不能断言每个切点都由混剪作者首次创造。\"}",
+      "evidence": "evidence/BV1zs411Y78A/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1ZTJ76FEAD",
+      "title": "巨构：被遗忘者",
+      "window_seconds": [
+        7,
+        9
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [7, 9], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [7.527, 7.61], \"assessment\": \"红伞状塔→机械弧门一次；光点闪烁不另算。\"}",
+      "evidence": "evidence/BV1ZTJ76FEAD/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1ZTJ76FEAD",
+      "title": "巨构：被遗忘者",
+      "window_seconds": [
+        12,
+        14
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [12, 14], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [12.6, 12.684], \"assessment\": \"俯视环状巨物→双通信塔一次。\"}",
+      "evidence": "evidence/BV1ZTJ76FEAD/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1ZTJ76FEAD",
+      "title": "巨构：被遗忘者",
+      "window_seconds": [
+        28,
+        32
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 1,
+      "minimum_per_second": 0.25,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [28, 32], \"confirmed_major_composition_changes_minimum\": 1, \"boundary_bracket\": [28.444, 28.527], \"assessment\": \"通信碟塔→云海环臂一次，后续云动和发光保持同主构图。\"}",
+      "evidence": "evidence/BV1ZTJ76FEAD/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1ZuZMBhERy",
+      "title": "【 新 宿 决 战 】第一话 seedance 2.0 制作",
+      "window_seconds": [
+        92.2,
+        94.2
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 5,
+      "minimum_per_second": 2.5,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [92.2, 94.2], \"confirmed_major_composition_changes_minimum\": 5, \"boundaries_approx\": [92.667, 92.8, 92.867, 92.933, 93.067], \"assessment\": \"脸特写、发光手、对手反向视角、光束广景、双人近身景至少五处构图连接；后格斗转身、火星与运镜不逐帧计刀。\"}",
+      "evidence": "evidence/BV1ZuZMBhERy/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1ZuZMBhERy",
+      "title": "【 新 宿 决 战 】第一话 seedance 2.0 制作",
+      "window_seconds": [
+        364,
+        366
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [364, 366], \"confirmed_major_composition_changes_minimum\": 2, \"boundaries_approx\": [364.333, 365.8], \"assessment\": \"黑场→方框隧道→人物城市；隧道旋转、增加方框和闪白为内部图形变化。\"}",
+      "evidence": "evidence/BV1ZuZMBhERy/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1ZuZMBhERy",
+      "title": "【 新 宿 决 战 】第一话 seedance 2.0 制作",
+      "window_seconds": [
+        96,
+        100
+      ],
+      "event_type": "主构图替换",
+      "confirmed_minimum": 3,
+      "minimum_per_second": 0.75,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"range\": [96, 100], \"confirmed_major_composition_changes_minimum\": 3, \"boundaries_approx\": [97.4, 98.133, 99.667], \"assessment\": \"对打近景→较广撞击→俯仰穿楼视角→车厢对打至少三处；98.133后长空间旋转与碎石不冒充多次切镜。\"}",
+      "evidence": "evidence/BV1ZuZMBhERy/REVIEW.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1xCai6aE9g",
+      "title": "【4K】如果聊天窗口就是她的整个世界 —— world.execute(me)",
+      "window_seconds": [
+        148,
+        152
+      ],
+      "event_type": "大构图替换",
+      "confirmed_minimum": 4,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"video\": \"BV1xCai6aE9g\", \"window\": [148, 152], \"minimum_large_composition_switches\": 4, \"approximate_brackets\": [[148.5, 148.6], [149.6, 149.7], [150.6, 150.7], [151.5, 151.6]], \"meaning\": \"大标题、终端布局、横向字、人物字带的替换；不是全片镜头数\"}",
+      "evidence": "REPORT.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1Jwhy6BEMJ",
+      "title": "GPT6-Astra眼中的world.execute(me)",
+      "window_seconds": [
+        150,
+        152
+      ],
+      "event_type": "大构图替换",
+      "confirmed_minimum": null,
+      "minimum_per_second": null,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"video\": \"BV1Jwhy6BEMJ\", \"window\": [150, 152], \"minimum_large_composition_switches\": null, \"meaning\": \"构图延续，主要为白/粉字切换、显隐和条纹变形，未据闪烁统计切镜\"}",
+      "evidence": "REPORT.md"
+    },
+    {
+      "group": "AI相关候选",
+      "bvid": "BV1SgaY64EG5",
+      "title": "Claude用代码搓了13015帧4K视频然后吃了你13亿Token",
+      "window_seconds": [
+        105,
+        107
+      ],
+      "event_type": "大构图替换",
+      "confirmed_minimum": 2,
+      "minimum_per_second": 1.0,
+      "scope": "仅选窗，非全片平均；未听审",
+      "notes": "{\"video\": \"BV1SgaY64EG5\", \"window\": [105, 107], \"minimum_large_composition_switches\": 2, \"approximate_brackets\": [[105.4, 105.5], [106.5, 106.6]], \"meaning\": \"粒子双体、紫色径向纹理、同心光圈之间的大构图变化\"}",
+      "evidence": "REPORT.md"
+    }
+  ]
+}

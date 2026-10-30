@@ -1,0 +1,151 @@
+{
+  "bvid": "BV1bhuc6VEym",
+  "page_url": "https://www.bilibili.com/video/BV1bhuc6VEym/",
+  "observed_at": "2026-10-20T15:09:28.429934+00:00",
+  "page": {
+    "title": "巨构：行深般若【天阙纪元】_哔哩哔哩_bilibili",
+    "video": [
+      {
+        "duration": 62,
+        "videoHeight": 2160,
+        "videoWidth": 3840
+      }
+    ]
+  },
+  "source_sha256": "04f10438b8a487a7794f5caadf1ad110caae44ad0cd4861f70073912cbaaf859",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "av1",
+        "codec_long_name": "Alliance for Open Media AV1",
+        "profile": "Main",
+        "codec_type": "video",
+        "codec_tag_string": "av01",
+        "codec_tag": "0x31307661",
+        "mime_codec_string": "av01.0.12M.08.0.110.01.01.01.0",
+        "width": 3840,
+        "height": 2160,
+        "coded_width": 3840,
+        "coded_height": 2160,
+        "has_b_frames": 0,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 12,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "id": "0x1",
+        "r_frame_rate": "335/12",
+        "avg_frame_rate": "27616000/987979",
+        "time_base": "1/16000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 987979,
+        "duration": "61.748688",
+        "bit_rate": "1928753",
+        "nb_frames": "1726",
+        "extradata_size": 108,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/44100",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 2723840,
+        "duration": "61.765079",
+        "bit_rate": "86329",
+        "nb_frames": "2660",
+        "extradata_size": 2,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "61.765079",
+      "size": "15617029",
+      "bit_rate": "2022764",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "encoder": "Lavf63.1.100",
+        "description": "Packed by Bilibili XCoder v2.0.2"
+      }
+    }
+  },
+  "status": "media_acquired_not_visually_reviewed"
+}

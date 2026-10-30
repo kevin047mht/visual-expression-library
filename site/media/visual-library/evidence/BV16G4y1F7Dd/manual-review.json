@@ -1,0 +1,15 @@
+{
+  "bvid": "BV16G4y1F7Dd", "group": "human_led_candidate", "title": "从今往后无人再说芦毛跑不快！",
+  "reviewed": true, "continuous_av_watched": false,
+  "coverage": "65 overview frames every 4s; 136.7–138.7s and 207–209s dense source frames actually inspected. 25fps source, actual dense spacing 0.08s; audio not reviewed.",
+  "review_note": "REVIEW.md",
+  "effects": [
+    {"time": [28, 32], "name": "双色墨流字幕卡", "direct_export": "有素材后容易；程序烟墨近似需调试"},
+    {"time": [48, 48], "name": "锁链前景／竖排字", "direct_export": "基础机制容易，遮挡需设计"},
+    {"time": [132, 132], "name": "玻璃多边形／粒子空间", "direct_export": "基础版可做，真实折射与相机较难"},
+    {"time": [136.7, 138.7], "name": "能量轨迹／白闪／闪电前景", "direct_export": "基础光效容易，角色运动较难"},
+    {"time": [207, 209], "name": "冲击帧／跟拍／前景柱子遮挡／残影", "direct_export": "遮挡与滤镜容易，跑步姿态和分层需逐镜处理"}
+  ],
+  "rapid_switching": {"window": [207, 209], "minimum_major_composition_changes": null, "caution": "After one impact-frame transition, mainly one side-following run with foreground pillars. Occlusions, ghosting and electricity are not independent cuts. Another reviewed window has beam/run/face stages, not a verified whole-video cut rate."},
+  "attribution_caution": "Author acknowledges supplied cutouts and rework; human-led candidate, no proof of zero AI. Manga drawings and editing labor separately attributed."
+}

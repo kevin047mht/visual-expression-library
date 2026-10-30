@@ -1,0 +1,6668 @@
+{
+  "candidate_counts": {
+    "ai": 50,
+    "human": 50,
+    "with_video_entry": 100
+  },
+  "local_media_count": 100,
+  "reviewed_local_videos": 100,
+  "reviewed_bvids": [
+    "BV12Zhm6oE6m",
+    "BV13E41117ys",
+    "BV13P4y1s7ti",
+    "BV147411m7aM",
+    "BV14ZJR6DEXN",
+    "BV15hW3zNECn",
+    "BV16G4y1F7Dd",
+    "BV16apozTEkm",
+    "BV16kTazbE8v",
+    "BV17K4y167nK",
+    "BV182hm6NEZy",
+    "BV186pc65E68",
+    "BV18KAhzbE7C",
+    "BV18YHf63EyC",
+    "BV18drRYEEFK",
+    "BV18yYA61E8f",
+    "BV19aCsYgECf",
+    "BV19aaB62EJv",
+    "BV19iLv6bEKh",
+    "BV1A3Ts6tEVr",
+    "BV1AQcvzbEd1",
+    "BV1BN411N79X",
+    "BV1CEQmBTEmY",
+    "BV1CSej6kETr",
+    "BV1Cs411z7qN",
+    "BV1DaNh6JEch",
+    "BV1Exg46iETf",
+    "BV1FTMS6cEjW",
+    "BV1GbHi61E9Q",
+    "BV1Hzpm6hEaY",
+    "BV1JQaeztEa2",
+    "BV1JuMB6FERb",
+    "BV1Jwhy6BEMJ",
+    "BV1JznZzeEA6",
+    "BV1K543zoE7S",
+    "BV1KSE965EqR",
+    "BV1L4411375f",
+    "BV1Lb411i7qo",
+    "BV1MFpG63E26",
+    "BV1Mbgj69EFu",
+    "BV1Ra8jz8EmW",
+    "BV1Rtut6cEBR",
+    "BV1SV4y1T7ZM",
+    "BV1SbJJ6XEcH",
+    "BV1SgaY64EG5",
+    "BV1Siae6tEK9",
+    "BV1Tp4y147fj",
+    "BV1V5KPerEL3",
+    "BV1V6ZrBJEoM",
+    "BV1WFEP6eEiM",
+    "BV1XMbN6VE1w",
+    "BV1YuWMzQELk",
+    "BV1ZTJ76FEAD",
+    "BV1ZdfNBxEbY",
+    "BV1ZuZMBhERy",
+    "BV1apc6zXEAG",
+    "BV1bhuc6VEym",
+    "BV1c2an65EVj",
+    "BV1c3411K7Mt",
+    "BV1cdaf6QEad",
+    "BV1d2ng6VEg4",
+    "BV1eC41147Vx",
+    "BV1eb4MegEqf",
+    "BV1fyJhzHEvr",
+    "BV1g841177ym",
+    "BV1h34y1c7U9",
+    "BV1hdAfenEGL",
+    "BV1hphd69EDA",
+    "BV1iK4y1k7Ld",
+    "BV1jZ4y1o7ah",
+    "BV1k8H6ecEnv",
+    "BV1kT421r7vE",
+    "BV1kicszZEwY",
+    "BV1mo4y1t7A7",
+    "BV1n34y1r7rx",
+    "BV1oP4y1x7dv",
+    "BV1od4y1Z7Vz",
+    "BV1psN86KEt5",
+    "BV1pvGi6uEAY",
+    "BV1px4y1s7sn",
+    "BV1q441177e9",
+    "BV1qM9iBwExc",
+    "BV1qmMR6MEMW",
+    "BV1rTKU6WEat",
+    "BV1s5YA6KEiF",
+    "BV1sMPgzaE19",
+    "BV1sw411s7v7",
+    "BV1tC41147At",
+    "BV1uUfmBAEtc",
+    "BV1vec5zJEiA",
+    "BV1vthX6XEwm",
+    "BV1wB4y1w7Lm",
+    "BV1wyuG6PEXH",
+    "BV1xCai6aE9g",
+    "BV1xL4pzREPZ",
+    "BV1xP4y1s7t7",
+    "BV1yi421D7i5",
+    "BV1z44y1F7bv",
+    "BV1zb4y1z7jW",
+    "BV1zs411Y78A"
+  ],
+  "incremental_manual_reviews": 97,
+  "continuous_av_watched": 0,
+  "excerpts": 284,
+  "demo_effects": 13,
+  "html_missing_targets": [],
+  "video_probes": [
+    {
+      "path": "effect-demo.mp4",
+      "sha256": "64faa551f6bb9c635bbbbc0b606aa8270b82f4c952606af00d2fd8a7beabbf45",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "20.000000",
+        "size": "1222049"
+      }
+    },
+    {
+      "path": "additional-effects-demo.mp4",
+      "sha256": "b4651dc1fa90213189e7f191db6f481869ea80bd46cfc7f212f620f7b8442d04",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        }
+      ],
+      "format": {
+        "duration": "20.000000",
+        "size": "1302861"
+      }
+    },
+    {
+      "path": "evidence\\BV12Zhm6oE6m\\excerpt-1.mp4",
+      "sha256": "2dd8059e75da1969445f1c2b5b12b05313a1a9ac4ee0b4423a1deb06d8e57b40",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "846614"
+      }
+    },
+    {
+      "path": "evidence\\BV12Zhm6oE6m\\excerpt-2.mp4",
+      "sha256": "403bf1e373dcc4f10844ddfad2c0c3b6159c4a0bc7cc59964f477a21dabf05a0",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1328152"
+      }
+    },
+    {
+      "path": "evidence\\BV12Zhm6oE6m\\snowflake-transform\\excerpt.mp4",
+      "sha256": "8d64c72de891c79382dc3ca7fd1b84c38426cd939d5145446fece7ac74991e1b",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "358614"
+      }
+    },
+    {
+      "path": "evidence\\BV13E41117ys\\excerpt-1.mp4",
+      "sha256": "7a987eeb980dfc7af1883eb0449cc9184d2351e2403c7207a77445d9de0f45e9",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "458030"
+      }
+    },
+    {
+      "path": "evidence\\BV13E41117ys\\excerpt-2.mp4",
+      "sha256": "22ec603865ebfc97fb9909352e73e309a4345a8942ca22b190eb3c98896ccab8",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "682436"
+      }
+    },
+    {
+      "path": "evidence\\BV13E41117ys\\split-ending\\excerpt.mp4",
+      "sha256": "b6e48b2be8fd84ed27c33a132eabdbe5c19dd4b8c410c100a18c7fdb683239d5",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "285065"
+      }
+    },
+    {
+      "path": "evidence\\BV13P4y1s7ti\\excerpt-1.mp4",
+      "sha256": "d9aa7eace99dd623ee3fdc65dabd07cc2164b39ccccbec5e0b9363e84b329da3",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "955282"
+      }
+    },
+    {
+      "path": "evidence\\BV13P4y1s7ti\\excerpt-2.mp4",
+      "sha256": "6f23761e08b1f97425fe7e01444300fe3bedbdb87a320ff8025b52a4d5090839",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "397264"
+      }
+    },
+    {
+      "path": "evidence\\BV147411m7aM\\excerpt-1.mp4",
+      "sha256": "0c1f44c19dcc410778dcf108c49af95ad542c78a150c83f551cc03dc32891cd1",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1121351"
+      }
+    },
+    {
+      "path": "evidence\\BV147411m7aM\\excerpt-2.mp4",
+      "sha256": "5f2ba73c86895ee5f2940b28f51200439785e329a606a3275688b10913061a3d",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "822832"
+      }
+    },
+    {
+      "path": "evidence\\BV147411m7aM\\hands-sky\\excerpt.mp4",
+      "sha256": "9a04b58cad08d8687da92a15fd539ea0c1240235535afa75249aa030a77cb830",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "962892"
+      }
+    },
+    {
+      "path": "evidence\\BV14ZJR6DEXN\\charts\\excerpt.mp4",
+      "sha256": "149e31b4e398facc5acb2ca8c48beeba51920bd332109c3cf55cbdbb3804465c",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "818667"
+      }
+    },
+    {
+      "path": "evidence\\BV14ZJR6DEXN\\excerpt-1.mp4",
+      "sha256": "d92dbe84bf0ecc65d2a2fdfa86da3bc6a1b6acb9c9ce4ae8c5c2207f6d59fb27",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "555655"
+      }
+    },
+    {
+      "path": "evidence\\BV14ZJR6DEXN\\excerpt-2.mp4",
+      "sha256": "79bd5e038c4f67429f0c137289839cf4c7120c38d1d78c28d9893de598a4048b",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "625131"
+      }
+    },
+    {
+      "path": "evidence\\BV14ZJR6DEXN\\prism\\excerpt.mp4",
+      "sha256": "0aec9637280ccf780eac1a20759d4bc7b116c3563a3fffc6a7e370ed11c11877",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1936641"
+      }
+    },
+    {
+      "path": "evidence\\BV15hW3zNECn\\excerpt-1.mp4",
+      "sha256": "199b1fca1a1812c2297d2e7c06d9b1746d5a7a49d113da7675cb1d54cd89dbca",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 480,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1182727"
+      }
+    },
+    {
+      "path": "evidence\\BV15hW3zNECn\\excerpt-2.mp4",
+      "sha256": "9e5437372607686d9b48ee4899275d366831fc8b2651761372fd35c8c4719abb",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 480,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "903684"
+      }
+    },
+    {
+      "path": "evidence\\BV16apozTEkm\\excerpt-1.mp4",
+      "sha256": "1e5efa0481a731a4a2e0e82af93f10535fb8515caf3d083e0e72b367b4851427",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1237929"
+      }
+    },
+    {
+      "path": "evidence\\BV16apozTEkm\\excerpt-2.mp4",
+      "sha256": "45a4818ae1824cb824605e2fa96afab1c4325cb32df71ef4186f88ee1a795d03",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "760961"
+      }
+    },
+    {
+      "path": "evidence\\BV16apozTEkm\\repeated-type\\excerpt.mp4",
+      "sha256": "dd76d0dc906e0fcf5497e26da2d81edd2b8de7ec9c514d4423589b96540769a3",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1036978"
+      }
+    },
+    {
+      "path": "evidence\\BV16G4y1F7Dd\\excerpt-1.mp4",
+      "sha256": "5f7dfdcdf9ddf43bb30c62f147d6b54c9cee78325e7c8c2d775d148237143a28",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "852738"
+      }
+    },
+    {
+      "path": "evidence\\BV16G4y1F7Dd\\excerpt-2.mp4",
+      "sha256": "b40cd640f574428f1efe001e5d3ae9b505202f0461836e227f688183b5c559f6",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1231375"
+      }
+    },
+    {
+      "path": "evidence\\BV16kTazbE8v\\excerpt-1.mp4",
+      "sha256": "35184640af59a3dec288975175b00a626b8ac4372beb24f19b824df02f4f430d",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1293741"
+      }
+    },
+    {
+      "path": "evidence\\BV16kTazbE8v\\excerpt-2.mp4",
+      "sha256": "7d3ac39922cccbb402cd945d2dd76a7baa98ce51eb2dd7a5824866f1a998aabb",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "755403"
+      }
+    },
+    {
+      "path": "evidence\\BV16kTazbE8v\\text-mosaic\\excerpt.mp4",
+      "sha256": "27d721cc157ea45a3e2f98ba3ab895e01d450e0037969925789c7b6716d865e6",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1485592"
+      }
+    },
+    {
+      "path": "evidence\\BV17K4y167nK\\excerpt-1.mp4",
+      "sha256": "0e9c6903262b13110dcfcbffa8b063d1b59cacfecc4bc0bdfba64d20dfa915c7",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1921069"
+      }
+    },
+    {
+      "path": "evidence\\BV17K4y167nK\\excerpt-2.mp4",
+      "sha256": "ec26d73dd36d9c5750356ebc2f560afe19454658098681434681c90d5f210f0e",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2231201"
+      }
+    },
+    {
+      "path": "evidence\\BV182hm6NEZy\\excerpt-1.mp4",
+      "sha256": "91b080761e259fa9f16809527c2a15056c8412d31fb6effeacc55be016b0c0f1",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "846164"
+      }
+    },
+    {
+      "path": "evidence\\BV182hm6NEZy\\excerpt-2.mp4",
+      "sha256": "321f715bbea3169218781a7e3140a8c2e82a712f2956701648004791a7597ffd",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "961893"
+      }
+    },
+    {
+      "path": "evidence\\BV186pc65E68\\excerpt-1.mp4",
+      "sha256": "dd18a077fa09abee3c3c1d92bd01877c5c8ec89289da4c9600994510bf0b0014",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1872050"
+      }
+    },
+    {
+      "path": "evidence\\BV186pc65E68\\excerpt-2.mp4",
+      "sha256": "6a5c917a90322d904e79e313388a939adff911b68f97ac064c8487798a90f72d",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1820619"
+      }
+    },
+    {
+      "path": "evidence\\BV18drRYEEFK\\excerpt-1.mp4",
+      "sha256": "b2dc297477467fb8aa2d727c13238344131d9f92553e12362de4d7ddb6c4f5b7",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2453636"
+      }
+    },
+    {
+      "path": "evidence\\BV18drRYEEFK\\excerpt-2.mp4",
+      "sha256": "859ddbe007b33482b61e79ab92afd255dc60a95e0692a584fc6098ae4db895ec",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1405624"
+      }
+    },
+    {
+      "path": "evidence\\BV18drRYEEFK\\portrait-mosaic\\excerpt.mp4",
+      "sha256": "7678a193bbaa1652e7e2e3167e2a92c6549bf5fd26158a267771b550ebfde576",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "888329"
+      }
+    },
+    {
+      "path": "evidence\\BV18KAhzbE7C\\excerpt-1.mp4",
+      "sha256": "8d57e00d8b903d4f8d55dacf433332dfcae84e491d1a6ed525a77692d64be318",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1469167"
+      }
+    },
+    {
+      "path": "evidence\\BV18KAhzbE7C\\excerpt-2.mp4",
+      "sha256": "ac5846df9c5f5e448f36c936738d46b9390e7d9b9e24ba4252f646834c53f9bc",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1557986"
+      }
+    },
+    {
+      "path": "evidence\\BV18KAhzbE7C\\main-horror\\excerpt.mp4",
+      "sha256": "39499bbc1dad177289b5e6b9de322b45daedbac01e66ce7e25c69c5012f970e1",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1125074"
+      }
+    },
+    {
+      "path": "evidence\\BV18KAhzbE7C\\moon-coins\\excerpt.mp4",
+      "sha256": "d27fb348165595f804ea4d89010568b49c4fc17e3d2005455093262c4ddd8f12",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "909564"
+      }
+    },
+    {
+      "path": "evidence\\BV18YHf63EyC\\excerpt-1.mp4",
+      "sha256": "c54073a6886dadd645bff8d4bc489ca154da9a91515a5120c8d9d830d19fba5a",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "174093"
+      }
+    },
+    {
+      "path": "evidence\\BV18YHf63EyC\\excerpt-2.mp4",
+      "sha256": "df65d222f835d72e1df7f7224e1d888aa963d657b1ba56522b4a1977444556ef",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "159022"
+      }
+    },
+    {
+      "path": "evidence\\BV18YHf63EyC\\large-type\\excerpt.mp4",
+      "sha256": "c392d9d13dc777718cba3feef0d026813ac3fdcf629d252a85198fb643e70655",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "433536"
+      }
+    },
+    {
+      "path": "evidence\\BV18YHf63EyC\\particle-merge\\excerpt.mp4",
+      "sha256": "e93659c5b07d8b699485a8ecb577f501f6bbc1af65f64c0c9c174bc70c33e819",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "5.000000",
+        "size": "250250"
+      }
+    },
+    {
+      "path": "evidence\\BV18yYA61E8f\\excerpt-1.mp4",
+      "sha256": "54613042505167e1851703af94684acce00ed84ae5f8d3f8be92c24e9bf15263",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "718122"
+      }
+    },
+    {
+      "path": "evidence\\BV18yYA61E8f\\excerpt-2.mp4",
+      "sha256": "8611d36c84717da50d87fd3458f7bf30d300e4ffcbc6bc21b6759f3bca5f478f",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "383180"
+      }
+    },
+    {
+      "path": "evidence\\BV18yYA61E8f\\particle-title\\excerpt.mp4",
+      "sha256": "7ae076eb93048118953fcc2df2f214b99a910af1f04747e40d81f96dbe7c4aa7",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "897317"
+      }
+    },
+    {
+      "path": "evidence\\BV19aaB62EJv\\excerpt-1.mp4",
+      "sha256": "8921ecaeb91f35013511a056f8da65d9669c0e4a07a5a9e67ee695b718f153ab",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 538,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "740263"
+      }
+    },
+    {
+      "path": "evidence\\BV19aaB62EJv\\excerpt-2.mp4",
+      "sha256": "d1a6c2485f6311e1e3cd76c7b968c39ab113b2e8106d4eb1c5ea94623d26da09",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 538,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "970551"
+      }
+    },
+    {
+      "path": "evidence\\BV19aaB62EJv\\execution-type\\excerpt.mp4",
+      "sha256": "37118442edbca02ee4dcdaa8fc484471a80c77c1606aaebef792c9ac999f10e5",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 538,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "495102"
+      }
+    },
+    {
+      "path": "evidence\\BV19aCsYgECf\\accordion-panels\\excerpt.mp4",
+      "sha256": "d5642b8e1b178b430dc7caff604ab2c705aacf1aa32a82a7fba103123c832fd9",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1237100"
+      }
+    },
+    {
+      "path": "evidence\\BV19aCsYgECf\\excerpt-1.mp4",
+      "sha256": "4dea4403336d120ced4ab7b33101088ce123be8d6a5974ab0995d44c3e1e21eb",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2840456"
+      }
+    },
+    {
+      "path": "evidence\\BV19aCsYgECf\\excerpt-2.mp4",
+      "sha256": "8883dd4068f61c25f826c19c4d17db7529a03fd154e1dff8ae1df00a6d50d4da",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "3066197"
+      }
+    },
+    {
+      "path": "evidence\\BV19aCsYgECf\\main-layouts\\excerpt.mp4",
+      "sha256": "1cb05be4c4d93ee0bfd5da5041cb7811c9de9211298a9207734871a8909db784",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "994868"
+      }
+    },
+    {
+      "path": "evidence\\BV19iLv6bEKh\\dialogue-shot-reverse\\excerpt.mp4",
+      "sha256": "c9633603d8dfee7380968028daa4172d9070e3700759d92c60e466c6f7bcfb6a",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "378859"
+      }
+    },
+    {
+      "path": "evidence\\BV19iLv6bEKh\\excerpt-1.mp4",
+      "sha256": "dda8ed655d57ff32e6dfa5fc5911548b92cad8767d2bd599c6f1bbeaed124e42",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1215506"
+      }
+    },
+    {
+      "path": "evidence\\BV19iLv6bEKh\\excerpt-2.mp4",
+      "sha256": "b3f10b3fe9d68db08d6ffe7799c46ac3e5e6f568f364d61242e88d57c0c678ef",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1218597"
+      }
+    },
+    {
+      "path": "evidence\\BV1A3Ts6tEVr\\excerpt-1.mp4",
+      "sha256": "51ba60e873cabe4bdefec4d0cec10c586852908661039fdb98a5b4593d873a72",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1171423"
+      }
+    },
+    {
+      "path": "evidence\\BV1A3Ts6tEVr\\excerpt-2.mp4",
+      "sha256": "68eceff94064a2076386bfd68ae5b63dbba69cbc7b969581ffc2bd65a8aa54e0",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "656714"
+      }
+    },
+    {
+      "path": "evidence\\BV1apc6zXEAG\\excerpt-1.mp4",
+      "sha256": "2b9e4f4241794158605afeb74a31875c52f35743879b87d0a6630e7ec7c1e0e2",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1480422"
+      }
+    },
+    {
+      "path": "evidence\\BV1apc6zXEAG\\excerpt-2.mp4",
+      "sha256": "a313b0c3bcce97037adbaa5d7b79d06ae82f4a98f48b8ad0d7f666fe9ea9d1e2",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "826347"
+      }
+    },
+    {
+      "path": "evidence\\BV1apc6zXEAG\\ice-projectiles\\excerpt.mp4",
+      "sha256": "4a14a0a3dca485c2304650ef16820a88bfd50353e6bde66f35f845a488ccbde9",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "440110"
+      }
+    },
+    {
+      "path": "evidence\\BV1AQcvzbEd1\\excerpt-1.mp4",
+      "sha256": "e68f36512df93fe8996cba06578f5a2d7ae4872b191d80eed729916288ee49ad",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1307790"
+      }
+    },
+    {
+      "path": "evidence\\BV1AQcvzbEd1\\excerpt-2.mp4",
+      "sha256": "752fbc511f360e1f98585bcab4230302469566707dbb28570a2ffdb4e00e9c2e",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1431248"
+      }
+    },
+    {
+      "path": "evidence\\BV1AQcvzbEd1\\workflow-slates\\excerpt.mp4",
+      "sha256": "3d6f48229e3e4e83239aa28ad071ae6072c976c0745370a6bd85aedf6f8a5b81",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "7.000000",
+        "size": "215831"
+      }
+    },
+    {
+      "path": "evidence\\BV1bhuc6VEym\\excerpt-1.mp4",
+      "sha256": "50590bf1ffb2dbd94886dd579c7e62d19da6e9325e594b4853a3bd3b0a9808ee",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "335/12"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.011940",
+        "size": "678040"
+      }
+    },
+    {
+      "path": "evidence\\BV1bhuc6VEym\\excerpt-2.mp4",
+      "sha256": "1ccd46b3bc02becaed9038716b2bddd31cb9ed787c31b9bdfc4ecc6b0afa2a9e",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "335/12"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.011940",
+        "size": "511362"
+      }
+    },
+    {
+      "path": "evidence\\BV1bhuc6VEym\\reflection-light\\excerpt.mp4",
+      "sha256": "02ec6e4959a054ec0a69b365132534635e9eeb7f4e394769a712e73600ce66d6",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "335/12"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.011940",
+        "size": "362272"
+      }
+    },
+    {
+      "path": "evidence\\BV1BN411N79X\\excerpt-1.mp4",
+      "sha256": "67febb01f8cb7e64301cfeba3a0cb853769043700eadd77368677479fd6fdff8",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "273083"
+      }
+    },
+    {
+      "path": "evidence\\BV1BN411N79X\\excerpt-2.mp4",
+      "sha256": "3de87205745be731d13b724abc4025d95d154b611d16779954e8bf8a98ec3fee",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1021438"
+      }
+    },
+    {
+      "path": "evidence\\BV1BN411N79X\\photo-wall\\excerpt.mp4",
+      "sha256": "b4426a895861e322440f000673658c69ee58d84458d0dc19f5df7279c43fe04c",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "759370"
+      }
+    },
+    {
+      "path": "evidence\\BV1c2an65EVj\\excerpt-1.mp4",
+      "sha256": "a5c4f6f0c00c2da21b8a7999f6065c6d9d1442f6cce425fc03855133a73c1f3c",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "425335"
+      }
+    },
+    {
+      "path": "evidence\\BV1c2an65EVj\\excerpt-2.mp4",
+      "sha256": "08bff0ba07869005b7dc89650e2bfbada143cb4a3ca57214d4d4b03114e9a219",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "267767"
+      }
+    },
+    {
+      "path": "evidence\\BV1c3411K7Mt\\excerpt-1.mp4",
+      "sha256": "ef0c08f0da80767d912fbd21328607e8b7f3819233a1fb81e3acbc720ce67f2a",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1050957"
+      }
+    },
+    {
+      "path": "evidence\\BV1c3411K7Mt\\excerpt-2.mp4",
+      "sha256": "fe029843deff2d54e20fddc9fb2609c82065dafcee4d087a42e362aee5e12224",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "700281"
+      }
+    },
+    {
+      "path": "evidence\\BV1cdaf6QEad\\excerpt-1.mp4",
+      "sha256": "dcbe085816228401b5874c3494dbe2642a27f352901a320cd146b093248696af",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1094988"
+      }
+    },
+    {
+      "path": "evidence\\BV1cdaf6QEad\\excerpt-2.mp4",
+      "sha256": "5b601f4e7de41b9f67cb162d04e58b53b53a43a8679f0b796544dc77475a15e8",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2544706"
+      }
+    },
+    {
+      "path": "evidence\\BV1CEQmBTEmY\\excerpt-1.mp4",
+      "sha256": "2d010320f446dede95370bc8ad8fccd0a952c3aaf20d4d73962a26d24be7ad6b",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1388020"
+      }
+    },
+    {
+      "path": "evidence\\BV1CEQmBTEmY\\excerpt-2.mp4",
+      "sha256": "85341e8eda5e81b4356424655311ab06cc73c0107f634518a64e251d21235b70",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1585483"
+      }
+    },
+    {
+      "path": "evidence\\BV1CEQmBTEmY\\smoke-dissolve\\excerpt.mp4",
+      "sha256": "60c91a06b488c5a806de584026f69827d011c65d7312f35ba6d0e2a6bfcac51f",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "833279"
+      }
+    },
+    {
+      "path": "evidence\\BV1Cs411z7qN\\character-card\\excerpt.mp4",
+      "sha256": "8b8c5ea8d0b98a13c19c64d7b8324405c24f88853f20881cbdba74bbf5fa2fe9",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1360030"
+      }
+    },
+    {
+      "path": "evidence\\BV1Cs411z7qN\\excerpt-1.mp4",
+      "sha256": "df943910fbe368cf4d74f25fc47f825f20c32eefb6011ab3377ca6e5918a957c",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1033804"
+      }
+    },
+    {
+      "path": "evidence\\BV1Cs411z7qN\\excerpt-2.mp4",
+      "sha256": "ad6f9060486f1ccbb0ab7df2d7bb588da65e4975ca69210154b9b80a31a12243",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1418816"
+      }
+    },
+    {
+      "path": "evidence\\BV1CSej6kETr\\excerpt-1.mp4",
+      "sha256": "2158f84a27926992d5473b20373f8090264645cc014d83c5d23346acd7795c06",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 1280,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2347413"
+      }
+    },
+    {
+      "path": "evidence\\BV1CSej6kETr\\excerpt-2.mp4",
+      "sha256": "2c5875d93b01bc319cbd2d74dce5b817a2abd53282bdf092f7d67ff005aebf29",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 1280,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1658665"
+      }
+    },
+    {
+      "path": "evidence\\BV1d2ng6VEg4\\excerpt-1.mp4",
+      "sha256": "192b14176f8e6a7a1bdcef6d82cbd70c6a3620c5db72bbe6ed080ccca53494ae",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1230857"
+      }
+    },
+    {
+      "path": "evidence\\BV1d2ng6VEg4\\excerpt-2.mp4",
+      "sha256": "3dd145bfadad5c296399c4a2817feab98d88aceda9a5aae8877fbd98a521a9fa",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1264072"
+      }
+    },
+    {
+      "path": "evidence\\BV1DaNh6JEch\\excerpt-1.mp4",
+      "sha256": "3bde523239928b9a62909983a503b0e105206816f07b48b2905b4ad27baf1b38",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "651851"
+      }
+    },
+    {
+      "path": "evidence\\BV1DaNh6JEch\\excerpt-2.mp4",
+      "sha256": "3284ba34a12df93abbc4ef31e6fea1059bebccfe75fd9ab3bf0c9c93cfd05dec",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "505794"
+      }
+    },
+    {
+      "path": "evidence\\BV1eb4MegEqf\\excerpt-1.mp4",
+      "sha256": "47d80c7a3978e47027150c679992eeef9cb516b19542c51b09107000490d3114",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "620346"
+      }
+    },
+    {
+      "path": "evidence\\BV1eb4MegEqf\\excerpt-2.mp4",
+      "sha256": "94d07c74b009e57265d2167dab102b56f902de89f98f9e1e68e68239b60a167a",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "682862"
+      }
+    },
+    {
+      "path": "evidence\\BV1eb4MegEqf\\portrait-layout\\excerpt.mp4",
+      "sha256": "88373fed84cf806a8085ab6c86510e913ba339dfc4828dc17d11b4fb3ad5fbc1",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "382316"
+      }
+    },
+    {
+      "path": "evidence\\BV1eC41147Vx\\excerpt-1.mp4",
+      "sha256": "75fa5084dbbed499932ba57668d6c4dd9c8a6e5b3810e2f25e8237b65a085240",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1696646"
+      }
+    },
+    {
+      "path": "evidence\\BV1eC41147Vx\\excerpt-2.mp4",
+      "sha256": "7aaa2c3f1813730e260a56abbf36c29f5f50ae7a5f19d72ba604b086ad157260",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2112324"
+      }
+    },
+    {
+      "path": "evidence\\BV1eC41147Vx\\eye-panels\\excerpt.mp4",
+      "sha256": "34ed3a8fa4cadc7509370def19782f38680c1ec45035dcda2d0ccee885eafd49",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1384453"
+      }
+    },
+    {
+      "path": "evidence\\BV1Exg46iETf\\excerpt-1.mp4",
+      "sha256": "338c4da9f8496b9375d5e57cd1e38a8a5e40ab7c900fb4c640689f9100bc1279",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 538,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "686635"
+      }
+    },
+    {
+      "path": "evidence\\BV1Exg46iETf\\excerpt-2.mp4",
+      "sha256": "e06d7c9c79f0476d7d3450d8ff48f7577c396322af1018dab1d0e3d059520d2e",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 538,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "742377"
+      }
+    },
+    {
+      "path": "evidence\\BV1Exg46iETf\\portal-cloud\\excerpt.mp4",
+      "sha256": "d3dd4477457fb395559491847b40d731cfbe337f628df672fdcf3102b1d2ac52",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 538,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "599346"
+      }
+    },
+    {
+      "path": "evidence\\BV1FTMS6cEjW\\excerpt-1.mp4",
+      "sha256": "3e82cb307b50767b95d3f50c11daf4d9889004cb94e2e5e474e8d323c6c2f750",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 538,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "654541"
+      }
+    },
+    {
+      "path": "evidence\\BV1FTMS6cEjW\\excerpt-2.mp4",
+      "sha256": "f738c164ce78d59df2f983aa5e40747d3b011acb560765f5ecbc0c8a36c0e128",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 538,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "833914"
+      }
+    },
+    {
+      "path": "evidence\\BV1FTMS6cEjW\\round-gate\\excerpt.mp4",
+      "sha256": "3692c21243c441bb48e0cb9752e473a10d6c83c694eea48c5417e7ba8d69acb8",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 538,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "544103"
+      }
+    },
+    {
+      "path": "evidence\\BV1fyJhzHEvr\\excerpt-1.mp4",
+      "sha256": "1ecf4d548389240f2679a6efd4ca71247b4bf612171be5d68ee89838503c17ab",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2083339"
+      }
+    },
+    {
+      "path": "evidence\\BV1fyJhzHEvr\\excerpt-2.mp4",
+      "sha256": "cfbdb1fa195c1d47a9916fecf62513e7da45385afa064299b763f05026f7e1a7",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "3068566"
+      }
+    },
+    {
+      "path": "evidence\\BV1fyJhzHEvr\\type-band\\excerpt.mp4",
+      "sha256": "5a698a55b00305e715ecbd19b299878d421bfd0af9846c278dbcf36c934a3374",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1871380"
+      }
+    },
+    {
+      "path": "evidence\\BV1g841177ym\\excerpt-1.mp4",
+      "sha256": "f11ac9381a7ca0af32c91aae2024ee5c5783e4e0a027ba67a3b631fa1c66d8f5",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "318988"
+      }
+    },
+    {
+      "path": "evidence\\BV1g841177ym\\excerpt-2.mp4",
+      "sha256": "da4964d15997bb4005dae85e468274934d1e828371f07f8dabbaee74980e32ee",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1235087"
+      }
+    },
+    {
+      "path": "evidence\\BV1g841177ym\\logo-depth\\excerpt.mp4",
+      "sha256": "0b59804444cb104ee82cbf9db7bb8450b0a724f2293583b913d21aa7a76f9748",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "873220"
+      }
+    },
+    {
+      "path": "evidence\\BV1GbHi61E9Q\\excerpt-1.mp4",
+      "sha256": "4954b787b72c648f27c2bed077fa996e05345489b3a362ee563f64e8fbc24005",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "580256"
+      }
+    },
+    {
+      "path": "evidence\\BV1GbHi61E9Q\\excerpt-2.mp4",
+      "sha256": "2ba1f22f5b1ce4c5167a80213c48f5b64712d55a8d188489c59d1572d19e7967",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "306787"
+      }
+    },
+    {
+      "path": "evidence\\BV1GbHi61E9Q\\noise-to-cat\\excerpt.mp4",
+      "sha256": "aa63a5044701fdfcde569e9db851743997b4bfd9be866c74b46d1d05cd89b017",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "503291"
+      }
+    },
+    {
+      "path": "evidence\\BV1h34y1c7U9\\excerpt-1.mp4",
+      "sha256": "9829352bb3cde52ac2e8a11c434be5f80e82adc15e8d2684b729f849aeaf7b6f",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1422105"
+      }
+    },
+    {
+      "path": "evidence\\BV1h34y1c7U9\\excerpt-2.mp4",
+      "sha256": "52af30e6fbdbcc8cc8d56e5cf674f27fa91b563c7f15c876c5f67ee745c9051d",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1003245"
+      }
+    },
+    {
+      "path": "evidence\\BV1hdAfenEGL\\excerpt-1.mp4",
+      "sha256": "d309981e549b1d1aa23ba2610c450d31296b4fd06e067ca84f5a0270d0e03f41",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2674789"
+      }
+    },
+    {
+      "path": "evidence\\BV1hdAfenEGL\\excerpt-2.mp4",
+      "sha256": "ed8ab8ce5a7ca63e89e418f9a8a25af91f8a3dce26cf143b62cb71795f7c731d",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1499453"
+      }
+    },
+    {
+      "path": "evidence\\BV1hphd69EDA\\excerpt-1.mp4",
+      "sha256": "5f0007cb0c77595a402333f12127c461f91a5cce503836c898fd9426698a40b9",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "3717964"
+      }
+    },
+    {
+      "path": "evidence\\BV1hphd69EDA\\excerpt-2.mp4",
+      "sha256": "8e39d89361ceb65cd9563a3922b2d163a5ffe0fd0757b38e3978f6ee964d62e0",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2258046"
+      }
+    },
+    {
+      "path": "evidence\\BV1hphd69EDA\\fourier-type\\excerpt.mp4",
+      "sha256": "4e65d3552565dfa73c1f65fbc6d2fe33f70755356b8ca13f1c73fa8a095ddb4e",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "353178"
+      }
+    },
+    {
+      "path": "evidence\\BV1Hzpm6hEaY\\excerpt-1.mp4",
+      "sha256": "5bb4345b83a480d4faebf44a04a7fc806cb8ef771285e79da94d864c68b5e988",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "593692"
+      }
+    },
+    {
+      "path": "evidence\\BV1Hzpm6hEaY\\excerpt-2.mp4",
+      "sha256": "e65b86a01fb50ceff8cf867b1b7f18797194235c5533c6b43f58e5cb10197c4e",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "589156"
+      }
+    },
+    {
+      "path": "evidence\\BV1iK4y1k7Ld\\camera-icons\\excerpt.mp4",
+      "sha256": "916c66bc80220571aa7e70de1cb6ff669fca92635162dc2318bea28eff2a3bb6",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "617203"
+      }
+    },
+    {
+      "path": "evidence\\BV1iK4y1k7Ld\\excerpt-1.mp4",
+      "sha256": "3d64e1e3fe35a5bbcc1de3a72f4f1e6896b7dc2788ab7bdad05eb1421e30867d",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "709561"
+      }
+    },
+    {
+      "path": "evidence\\BV1iK4y1k7Ld\\excerpt-2.mp4",
+      "sha256": "aa3c91dd458ecbd0bae98b42f2a936c6cb79c8885de1f5599055dc01fdbfb182",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1324601"
+      }
+    },
+    {
+      "path": "evidence\\BV1JQaeztEa2\\excerpt-1.mp4",
+      "sha256": "c4f849bbb1e521a083a21d6e966201c512f785f31783203c9e2d740a04b57ae4",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "15/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "5325346"
+      }
+    },
+    {
+      "path": "evidence\\BV1JQaeztEa2\\excerpt-2.mp4",
+      "sha256": "e18ab242ceb29deca6ac86e53a74a87e50d78fd817c292d4f022077d41efe5f4",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "15/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2867434"
+      }
+    },
+    {
+      "path": "evidence\\BV1JuMB6FERb\\excerpt-1.mp4",
+      "sha256": "7da3e543d1bdd0d4a93866617a4e3d927b14115d92e520f680bc05fccda7e189",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1441531"
+      }
+    },
+    {
+      "path": "evidence\\BV1JuMB6FERb\\excerpt-2.mp4",
+      "sha256": "6dabdc420ef5c58b61e3e0adbd78a222d4621a1bbb2d20e02bb46566a433c4bf",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1511691"
+      }
+    },
+    {
+      "path": "evidence\\BV1JuMB6FERb\\orb-impact\\excerpt.mp4",
+      "sha256": "be1101e740be1d3cabcf4c4e2d9da6774b366fcdfeafd2697ed76319d5f0a792",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1873204"
+      }
+    },
+    {
+      "path": "evidence\\BV1Jwhy6BEMJ\\excerpt-1.mp4",
+      "sha256": "abc51f94d8b036dd3d21e0cc07d98edc7d06cd2375f221b1e20fe466138515e0",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        }
+      ],
+      "format": {
+        "duration": "5.000000",
+        "size": "2093277"
+      }
+    },
+    {
+      "path": "evidence\\BV1Jwhy6BEMJ\\excerpt-2.mp4",
+      "sha256": "ac54ecc3d163f6f7c87b381c4e90e5295c99af7abbd4dd24ca1b08f882a546af",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        }
+      ],
+      "format": {
+        "duration": "5.000000",
+        "size": "2370423"
+      }
+    },
+    {
+      "path": "evidence\\BV1jZ4y1o7ah\\excerpt-1.mp4",
+      "sha256": "a0302a5dfa38cd529365122e16de9b97ab07320474256d442fe58a1d3ec32f72",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1074607"
+      }
+    },
+    {
+      "path": "evidence\\BV1jZ4y1o7ah\\excerpt-2.mp4",
+      "sha256": "deed0c3bf0737ed6046a01a425ddb567a02d837b15963d3d75dd1f11957b8528",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1177383"
+      }
+    },
+    {
+      "path": "evidence\\BV1JznZzeEA6\\excerpt-1.mp4",
+      "sha256": "d4396bfb3944fc151ba875868bf9a96c3149bb873780d5100b2ea72ee7203b7f",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1213615"
+      }
+    },
+    {
+      "path": "evidence\\BV1JznZzeEA6\\excerpt-2.mp4",
+      "sha256": "96921c8f64e252ae507ae85cf161d7748454db681eba0eb4d6da0f30a698ff2d",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1370546"
+      }
+    },
+    {
+      "path": "evidence\\BV1JznZzeEA6\\handwriting-overlap\\excerpt.mp4",
+      "sha256": "69dd5801711f0600ffb9ba432132eab281e43bb9ebea278208555375e31b0f7d",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1558940"
+      }
+    },
+    {
+      "path": "evidence\\BV1K543zoE7S\\color-matte-face\\excerpt.mp4",
+      "sha256": "6b0b93eac0336ee4ed689c2e84ede8760936278e5b482713ff9eba5fa53ddcec",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "929538"
+      }
+    },
+    {
+      "path": "evidence\\BV1K543zoE7S\\excerpt-1.mp4",
+      "sha256": "ce46cf7b6fe447e079f3025c854a220f85b80067ee69d7d2c3a8a53a6db9fa92",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "853053"
+      }
+    },
+    {
+      "path": "evidence\\BV1K543zoE7S\\excerpt-2.mp4",
+      "sha256": "bf12e887447a674cb5d87a94aa68363bba372a30d5c54b4a9843c78a3451e831",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "468085"
+      }
+    },
+    {
+      "path": "evidence\\BV1k8H6ecEnv\\excerpt-1.mp4",
+      "sha256": "0bdf22f249523947d87a4a2a38ebe74af3431931239bee261820ab747f6312e7",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "445987"
+      }
+    },
+    {
+      "path": "evidence\\BV1k8H6ecEnv\\excerpt-2.mp4",
+      "sha256": "bc62afb059446e310df03ba2b2564bf5626bca72a81feea2cf411d52543ec8d8",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1673798"
+      }
+    },
+    {
+      "path": "evidence\\BV1k8H6ecEnv\\piano-rainbow\\excerpt.mp4",
+      "sha256": "3f7ad9f061e6704f7f8d7f1b058c81132a2a3885eff8e3a04d518866ecabfb31",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1456488"
+      }
+    },
+    {
+      "path": "evidence\\BV1kicszZEwY\\blue-rings\\excerpt.mp4",
+      "sha256": "d03052f29b384249f16b61c8657607d107eb50c2a3c9c83d70e902e12d42067c",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1331041"
+      }
+    },
+    {
+      "path": "evidence\\BV1kicszZEwY\\excerpt-1.mp4",
+      "sha256": "1a71113c2bd36aab0177070cd778d8548f56cb0317be2f2436406b7e4f8fbf79",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1127071"
+      }
+    },
+    {
+      "path": "evidence\\BV1kicszZEwY\\excerpt-2.mp4",
+      "sha256": "8d493eb4ea3854cb160951ad12887e979ceaa4e4a267be545c3d892cfb75737a",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1418685"
+      }
+    },
+    {
+      "path": "evidence\\BV1KSE965EqR\\excerpt-1.mp4",
+      "sha256": "b104b5fd59b551335709a532492bca476d8da25681102af298384a8bd88df546",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1566225"
+      }
+    },
+    {
+      "path": "evidence\\BV1KSE965EqR\\excerpt-2.mp4",
+      "sha256": "edd11beb91c520c44babc4d4814a15c609e99a4e9b7274b426304f97aa22dbb0",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1332080"
+      }
+    },
+    {
+      "path": "evidence\\BV1KSE965EqR\\laser-displacement\\excerpt.mp4",
+      "sha256": "f4e6bee51a6616918abdd76868bddac4b84f2fd69f5a94f6547341d489e099f1",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1347991"
+      }
+    },
+    {
+      "path": "evidence\\BV1KSE965EqR\\scene-change\\excerpt.mp4",
+      "sha256": "f62f9ed923f1fd5cd7f034f78a0548dffd3c50de11a08f420c9d4d874cf7dbab",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1104391"
+      }
+    },
+    {
+      "path": "evidence\\BV1kT421r7vE\\excerpt-1.mp4",
+      "sha256": "e617c512886881fd0882e01f3a62f1dcf98d939ad24604e3d3de2c5ad11e0a43",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1598814"
+      }
+    },
+    {
+      "path": "evidence\\BV1kT421r7vE\\excerpt-2.mp4",
+      "sha256": "7c28f0da4a8793bf2bb6161c551109f73b2cad43aee8ebb6ce7dbc2ee86102ad",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1384577"
+      }
+    },
+    {
+      "path": "evidence\\BV1L4411375f\\blue-fire-chain\\excerpt.mp4",
+      "sha256": "53c200ef2cc28c85c72b202fc1f771fc147005f0090624b9a3eb18132f2283d1",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1123323"
+      }
+    },
+    {
+      "path": "evidence\\BV1L4411375f\\excerpt-1.mp4",
+      "sha256": "e8c830fc60c5cb8233da4c7dfac8bb1a963e81bc1d33c71a5d4afd44dabef2b0",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1635135"
+      }
+    },
+    {
+      "path": "evidence\\BV1L4411375f\\excerpt-2.mp4",
+      "sha256": "643c094a23abefd1854f7c6a095c74a7bc07064957be573e18ddc5ffa3ba2c93",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1459154"
+      }
+    },
+    {
+      "path": "evidence\\BV1Lb411i7qo\\excerpt-1.mp4",
+      "sha256": "2ab4fa159cfb34459283eaa678c9ecb4653855b654bad96177624ff018ff8fdd",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2263583"
+      }
+    },
+    {
+      "path": "evidence\\BV1Lb411i7qo\\excerpt-2.mp4",
+      "sha256": "4848403aa44bf0f97dae64dc4cb76a50cc72b18272bc69639d36442900c86677",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1503110"
+      }
+    },
+    {
+      "path": "evidence\\BV1Lb411i7qo\\rgb-burst\\excerpt.mp4",
+      "sha256": "6ba3d5b184b44203eb4414df9d427abff055287676c3c945d647b7fac07cda09",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "855265"
+      }
+    },
+    {
+      "path": "evidence\\BV1Mbgj69EFu\\drone-to-impact\\excerpt.mp4",
+      "sha256": "32f8ac95eecec1faf8114fa1a9f3900cbd5f1c2ae791d620c91c0abd50b35b05",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "773458"
+      }
+    },
+    {
+      "path": "evidence\\BV1Mbgj69EFu\\excerpt-1.mp4",
+      "sha256": "5c140eda3050b1011d8c13c56542250f9ecc93eb8b3b95c7d06406c3de686497",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "541310"
+      }
+    },
+    {
+      "path": "evidence\\BV1Mbgj69EFu\\excerpt-2.mp4",
+      "sha256": "24005fc91a4801368b60b545db7d8b7614e2de95fd44ae2071e15e26023ca8a5",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "536422"
+      }
+    },
+    {
+      "path": "evidence\\BV1MFpG63E26\\excerpt-1.mp4",
+      "sha256": "fb261f94b8c364f47404e17962d0ccb38500f4524bd0d298a3ed8d4acd547547",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2045986"
+      }
+    },
+    {
+      "path": "evidence\\BV1MFpG63E26\\excerpt-2.mp4",
+      "sha256": "b8fba082c25607fc72d79f25bcd64a49cd05cafe8c67b863bca8d5c3a61d0709",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1322399"
+      }
+    },
+    {
+      "path": "evidence\\BV1mo4y1t7A7\\excerpt-1.mp4",
+      "sha256": "b082cbdb541090e24c3cae8df8554816184d41c69863abea0bc6a363f040bae6",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2226424"
+      }
+    },
+    {
+      "path": "evidence\\BV1mo4y1t7A7\\excerpt-2.mp4",
+      "sha256": "729bf568d64140b7f1f19ae1f23dfc74d6f88ff836b8bc39bcfd55197decab22",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1581749"
+      }
+    },
+    {
+      "path": "evidence\\BV1n34y1r7rx\\excerpt-1.mp4",
+      "sha256": "79a55e304aca848b8f19ceb77c0308545bba6b00c41282aac46aa518d7650464",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 480,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1807330"
+      }
+    },
+    {
+      "path": "evidence\\BV1n34y1r7rx\\excerpt-2.mp4",
+      "sha256": "c912bd7ee37a84679de9bef1d3f8181fef95c048533714103637bb2a9ad9e164",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 480,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1400307"
+      }
+    },
+    {
+      "path": "evidence\\BV1n34y1r7rx\\title-blocks\\excerpt.mp4",
+      "sha256": "903324b657f37177ba20cc90fa3d4024710849a9f175eadbb78f874f5011c4cf",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 480,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "2105905"
+      }
+    },
+    {
+      "path": "evidence\\BV1od4y1Z7Vz\\excerpt-1.mp4",
+      "sha256": "5d0ed84436b681f004656083dfa3ec179cb46e13499f9e93c322d0286cee7fe2",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "850822"
+      }
+    },
+    {
+      "path": "evidence\\BV1od4y1Z7Vz\\excerpt-2.mp4",
+      "sha256": "49658498e92d0772adac1e91b3fdcb8095c881434464079b094bedf244cddc62",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1276553"
+      }
+    },
+    {
+      "path": "evidence\\BV1od4y1Z7Vz\\film-depth\\excerpt.mp4",
+      "sha256": "4b9cab4416844e8a23588e4114e689cc962d2284eb4af50bb650659bea51b4c4",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "740781"
+      }
+    },
+    {
+      "path": "evidence\\BV1oP4y1x7dv\\excerpt-1.mp4",
+      "sha256": "6233d3582f0134695bf4f360fe5d0c5e44a4b48fdb4e5dea5f35fb7bebfb7955",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1197572"
+      }
+    },
+    {
+      "path": "evidence\\BV1oP4y1x7dv\\excerpt-2.mp4",
+      "sha256": "c1658bf3239979f73dd8ff1422c54578e4f4576a103770b59bd7e12c242aec4c",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "415428"
+      }
+    },
+    {
+      "path": "evidence\\BV1oP4y1x7dv\\manga-depth\\excerpt.mp4",
+      "sha256": "aa6732629913ed8600a84623d0ebecc83fab3c5ec8a3d14efe093ee9daee1c73",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "516355"
+      }
+    },
+    {
+      "path": "evidence\\BV1psN86KEt5\\excerpt-1.mp4",
+      "sha256": "c1dd8207e5eacae4a3ff527ad12e42aa20501beba1e61f5f3b8350317c33b475",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1363780"
+      }
+    },
+    {
+      "path": "evidence\\BV1psN86KEt5\\excerpt-2.mp4",
+      "sha256": "e039ff00ff04dc7f1395aabf81e18f47314893fc5f228ef8a9af53c03e3a26be",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1341991"
+      }
+    },
+    {
+      "path": "evidence\\BV1pvGi6uEAY\\excerpt-1.mp4",
+      "sha256": "8f6bd6fc348184b51911fff1e1606bb62944a234e7f497c1585211226ed227fc",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 960,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1458474"
+      }
+    },
+    {
+      "path": "evidence\\BV1pvGi6uEAY\\excerpt-2.mp4",
+      "sha256": "469e5a7f7eeb90c6bf3e66d99cf3a94a2a4fc1969468b742a5698af65f974778",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 960,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "916552"
+      }
+    },
+    {
+      "path": "evidence\\BV1pvGi6uEAY\\game-to-anime\\excerpt.mp4",
+      "sha256": "9075e6854c4b14610873cbf1898bd9696ad1c302b157aeb2a700108a748d5fb5",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 960,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "1.400000",
+        "size": "528459"
+      }
+    },
+    {
+      "path": "evidence\\BV1px4y1s7sn\\burst\\excerpt.mp4",
+      "sha256": "ba69f6ab09307a56963ca9f232eb2681b6610669f2ac19383745cc523fc77cf0",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "2.000000",
+        "size": "415350"
+      }
+    },
+    {
+      "path": "evidence\\BV1px4y1s7sn\\excerpt-1.mp4",
+      "sha256": "a605d37c610f4810c79de30245a4d6f61d67032e0af5a27293169c134ba4ddd4",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "763692"
+      }
+    },
+    {
+      "path": "evidence\\BV1px4y1s7sn\\excerpt-2.mp4",
+      "sha256": "1d542f0edc020f93bae6bb700d93989bd36efcdd3f4d823b89e74c86076575f1",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1184490"
+      }
+    },
+    {
+      "path": "evidence\\BV1px4y1s7sn\\geometry\\excerpt.mp4",
+      "sha256": "4b57e79da7a209574c7f505db320df775a6213044a829815acec7f554c190306",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "2.000000",
+        "size": "984996"
+      }
+    },
+    {
+      "path": "evidence\\BV1q441177e9\\excerpt-1.mp4",
+      "sha256": "5cc134fcb74faebf32f36db4a848c6bd4f35f8a3f96b1ebb50667a30e70cf0e8",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "612551"
+      }
+    },
+    {
+      "path": "evidence\\BV1q441177e9\\excerpt-2.mp4",
+      "sha256": "ffbb94ac6918c34e8e9a8dcd0c06a083e3d96a8365ef9e3ce358da8b742af3d9",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "884799"
+      }
+    },
+    {
+      "path": "evidence\\BV1q441177e9\\library-sunlight\\excerpt.mp4",
+      "sha256": "c036f07e390c13109d86a10c168d2daf14c3f064ac325c5e218f31e334f312a9",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "457101"
+      }
+    },
+    {
+      "path": "evidence\\BV1q441177e9\\opening-text\\excerpt.mp4",
+      "sha256": "2c56a0ae165dd52909a1a10ca8161072583a6948428a4218ba6b9f617e726fe2",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "8.000000",
+        "size": "281560"
+      }
+    },
+    {
+      "path": "evidence\\BV1qM9iBwExc\\excerpt-1.mp4",
+      "sha256": "17324984de96667ff7c41e7e3a20229c637d1d19db310c9ea8282d418cf960a0",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 408,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "901212"
+      }
+    },
+    {
+      "path": "evidence\\BV1qM9iBwExc\\excerpt-2.mp4",
+      "sha256": "6c562b2cbbcc4fc369afd776ee942d5f245ce22fb1caf18401800e97b5e40781",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 408,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "705812"
+      }
+    },
+    {
+      "path": "evidence\\BV1qM9iBwExc\\eye-flame\\excerpt.mp4",
+      "sha256": "131d99194cfed5c3c0e9fe6efd9caedb625a6ff80d92da7e6553f79328f0a619",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 408,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "399257"
+      }
+    },
+    {
+      "path": "evidence\\BV1qmMR6MEMW\\excerpt-1.mp4",
+      "sha256": "cd4f42dab42190feb2e3fd9be53ceb039da7b3fe659182a34ef75aeb4fd88998",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "951294"
+      }
+    },
+    {
+      "path": "evidence\\BV1qmMR6MEMW\\excerpt-2.mp4",
+      "sha256": "96959502b590be1e5e4647265c4ca378a648fcbce73914cdfe5adb30729d7ded",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "801163"
+      }
+    },
+    {
+      "path": "evidence\\BV1qmMR6MEMW\\floating-rubble\\excerpt.mp4",
+      "sha256": "ed81f64910b7e4e2c72e245f4156b9ec637d9b003e60af67bac2e210d790f409",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1056436"
+      }
+    },
+    {
+      "path": "evidence\\BV1Ra8jz8EmW\\excerpt-1.mp4",
+      "sha256": "0f5e68e2b1179cb160dcfc609b284138d418e101dafd028aa3086757f364a9eb",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1557947"
+      }
+    },
+    {
+      "path": "evidence\\BV1Ra8jz8EmW\\excerpt-2.mp4",
+      "sha256": "da6ff709c762fa8667f364695b98f5f37cf85b7209527b142be7c9dc14aa8aa4",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2888064"
+      }
+    },
+    {
+      "path": "evidence\\BV1Ra8jz8EmW\\typography-slices\\excerpt.mp4",
+      "sha256": "0da37c4d1a7f521673899176748c64c912640b4992dddaf59ef6b5fd454176e3",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1246834"
+      }
+    },
+    {
+      "path": "evidence\\BV1rTKU6WEat\\cavalry-wide\\excerpt.mp4",
+      "sha256": "38ec53ffcc18b11cb2e4a140f25e3c7befdf44b807a3f91bfc0834d6392aa308",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "989118"
+      }
+    },
+    {
+      "path": "evidence\\BV1rTKU6WEat\\excerpt-1.mp4",
+      "sha256": "8aa1222b2460e3e223d2c22085c17d85bf072a7999b1e14d178c3e9b5bc1baa4",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "742515"
+      }
+    },
+    {
+      "path": "evidence\\BV1rTKU6WEat\\excerpt-2.mp4",
+      "sha256": "e5a2d770e499df83ccce1d1c5d8ab1130578a92658e7086d725e3707480fa643",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1116010"
+      }
+    },
+    {
+      "path": "evidence\\BV1Rtut6cEBR\\excerpt-1.mp4",
+      "sha256": "cade43420ac1175180243ec956ad008b0892ac85a1941654a4f0f0aed7deb1e8",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 538,
+          "r_frame_rate": "83/3"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.012048",
+        "size": "564687"
+      }
+    },
+    {
+      "path": "evidence\\BV1Rtut6cEBR\\excerpt-2.mp4",
+      "sha256": "4b1dda2321bf1d4d154fc0a460531d41de4b7c8c116dbb90afbfe186a15d966f",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 538,
+          "r_frame_rate": "83/3"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.012049",
+        "size": "584259"
+      }
+    },
+    {
+      "path": "evidence\\BV1Rtut6cEBR\\round-frame\\excerpt.mp4",
+      "sha256": "144ceb5560c053e37f5cfe8ba3d5eacb7fcbdb4546b85b69c179629f4e21672d",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 538,
+          "r_frame_rate": "83/3"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.012048",
+        "size": "452714"
+      }
+    },
+    {
+      "path": "evidence\\BV1s5YA6KEiF\\excerpt-1.mp4",
+      "sha256": "028a96e56b58a10f15a2e30c049763480f8f868662f1ead299fb4c0319426389",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "315946"
+      }
+    },
+    {
+      "path": "evidence\\BV1s5YA6KEiF\\excerpt-2.mp4",
+      "sha256": "59494c67823f6077468cc8cc5b95a01689e1e71c6dcd689c5dc085fe345c255d",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "192884"
+      }
+    },
+    {
+      "path": "evidence\\BV1s5YA6KEiF\\timeline-layout\\excerpt.mp4",
+      "sha256": "9cf3d089bc5368c5fbd766ae3a5aaff255896c379a715110c2615d549af3ddc8",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "245140"
+      }
+    },
+    {
+      "path": "evidence\\BV1SbJJ6XEcH\\excerpt-1.mp4",
+      "sha256": "0b338d024faa8449c8ab49195d00772d5810b9202d4c6ad42078150b7dfa260b",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "761646"
+      }
+    },
+    {
+      "path": "evidence\\BV1SbJJ6XEcH\\excerpt-2.mp4",
+      "sha256": "186b636a2b4ce364f23de3ded471cf67430d1ddb6ea806f09d56632def651cd9",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "823272"
+      }
+    },
+    {
+      "path": "evidence\\BV1SgaY64EG5\\excerpt-1.mp4",
+      "sha256": "488be24fa4d91b002bf9d4e959cae12e06e76f2020f9a6b3a68826cdc03b60a0",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "4.966667",
+        "size": "2502779"
+      }
+    },
+    {
+      "path": "evidence\\BV1SgaY64EG5\\excerpt-2.mp4",
+      "sha256": "c617fb714389c2a0a5612f4163d12c7551fdfe0a63e1102be33d7a021133773d",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "5.000000",
+        "size": "4731536"
+      }
+    },
+    {
+      "path": "evidence\\BV1Siae6tEK9\\excerpt-1.mp4",
+      "sha256": "17ce2cb0554791513295ba4ac48cec39e632d3f57382eaf165b25c7460efbdcf",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "487006"
+      }
+    },
+    {
+      "path": "evidence\\BV1Siae6tEK9\\excerpt-2.mp4",
+      "sha256": "24a1bbc4801e3a866bb4dbcf9b787f8788a2b543973e0ad07a221920eec6f217",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1980473"
+      }
+    },
+    {
+      "path": "evidence\\BV1Siae6tEK9\\recursive-desktop\\excerpt.mp4",
+      "sha256": "0003002731bcfffd09253a92470adc0c2ba50364c8aa57ceea697315a57f2bc5",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "462691"
+      }
+    },
+    {
+      "path": "evidence\\BV1sMPgzaE19\\excerpt-1.mp4",
+      "sha256": "07cd0db0953ea4b5d50934f18ab5e342bd89005fc5afb17151c08b432672533d",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1180389"
+      }
+    },
+    {
+      "path": "evidence\\BV1sMPgzaE19\\excerpt-2.mp4",
+      "sha256": "82376c42523888a700ed832f5da64ee318d8cd064f7b434aab661f0c5260cce5",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1033652"
+      }
+    },
+    {
+      "path": "evidence\\BV1sMPgzaE19\\fantasy-reality\\excerpt.mp4",
+      "sha256": "fe68ca89dc1eb656855c1c6e92012f540573c093c951e5eb921c01b89e8a78f3",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "659774"
+      }
+    },
+    {
+      "path": "evidence\\BV1SV4y1T7ZM\\excerpt-1.mp4",
+      "sha256": "7ad80a732ea1bc8ef572a4d4174310c3f6be5232d8f835ddc0e6e5aef23ff876",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "892920"
+      }
+    },
+    {
+      "path": "evidence\\BV1SV4y1T7ZM\\excerpt-2.mp4",
+      "sha256": "f8b8e786f932c59e72fcde01e04faf61812dffb01a089a46d3cb36235af9b2b9",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "886373"
+      }
+    },
+    {
+      "path": "evidence\\BV1SV4y1T7ZM\\type-orbit\\excerpt.mp4",
+      "sha256": "8a0f908446b38089a8e935198ef0ff4d262b59cb0860f6545546b591e89242cd",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "892199"
+      }
+    },
+    {
+      "path": "evidence\\BV1sw411s7v7\\banknote-scene\\excerpt.mp4",
+      "sha256": "718ec63fbfc7c07ef1c03a16bf198b1759ef18f1cbb7528aec62ecf520acd945",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 480,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "953373"
+      }
+    },
+    {
+      "path": "evidence\\BV1sw411s7v7\\excerpt-1.mp4",
+      "sha256": "7f31fb834e2abdca945c45bddf44c13c8ca4ded6fa68221182a566cabd0e2d4d",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 480,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "528454"
+      }
+    },
+    {
+      "path": "evidence\\BV1sw411s7v7\\excerpt-2.mp4",
+      "sha256": "cbfbe285b3e19ee7b548e28d6ea900209f2a50f5dc03a2b08646aef99cc571bf",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 480,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "584803"
+      }
+    },
+    {
+      "path": "evidence\\BV1tC41147At\\excerpt-1.mp4",
+      "sha256": "769369fb2a825b0257cf1f4d9a5039826647a5f621db0f18e31d1ebf6a816da2",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1492194"
+      }
+    },
+    {
+      "path": "evidence\\BV1tC41147At\\excerpt-2.mp4",
+      "sha256": "a8ffa4fd351e7f72aa1e84d3554ff6d7155d90f6b4870c6950ac0f44e067640d",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "483469"
+      }
+    },
+    {
+      "path": "evidence\\BV1tC41147At\\filmstrip-type\\excerpt.mp4",
+      "sha256": "70c32d39a7e8e8da3dff280fbd1cedc42cf9206ac893659301a8790a7a205bcb",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1040633"
+      }
+    },
+    {
+      "path": "evidence\\BV1Tp4y147fj\\excerpt-1.mp4",
+      "sha256": "bcba3ff62dd677a7f55347a6c215ffa782c363c0d9826075fffa97eb96b80558",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "65176"
+      }
+    },
+    {
+      "path": "evidence\\BV1Tp4y147fj\\excerpt-2.mp4",
+      "sha256": "c765d28bbe599d6cfb7a36b6ec54e2b40c1ee6e05bfd3480cd8846bc6a04c752",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "107972"
+      }
+    },
+    {
+      "path": "evidence\\BV1Tp4y147fj\\peripheral-labels\\excerpt.mp4",
+      "sha256": "b79123b16fbe7f882141969961ead1fb249da07ed41f47cd2a6aac932813ea46",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "342882"
+      }
+    },
+    {
+      "path": "evidence\\BV1Tp4y147fj\\word-crowd\\excerpt.mp4",
+      "sha256": "f0976e4de8a645fc8a124ad51574690949ca5707893aadb349a51ff8c0083662",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "259488"
+      }
+    },
+    {
+      "path": "evidence\\BV1Tp4y147fj\\word-rhythm\\excerpt.mp4",
+      "sha256": "cdb62b0f866f0566effb73bf9bf00f81df34afea3dbd46e469b5b1ad03e6322b",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "106123"
+      }
+    },
+    {
+      "path": "evidence\\BV1uUfmBAEtc\\excerpt-1.mp4",
+      "sha256": "74692620a86c784be9dfd329696b25f5a1ca9c6fed2cffd1db978e1452e7232d",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1506046"
+      }
+    },
+    {
+      "path": "evidence\\BV1uUfmBAEtc\\excerpt-2.mp4",
+      "sha256": "6ff2aec79a638e99e5913c86b452d96f653e984a843c294f5799b254c5687c2f",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1916106"
+      }
+    },
+    {
+      "path": "evidence\\BV1uUfmBAEtc\\lotus-reveal\\excerpt.mp4",
+      "sha256": "ec58f896dc55b9f9a88c4068ea27b32bceea3f9c770ec8a5016c03730f67465c",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "834107"
+      }
+    },
+    {
+      "path": "evidence\\BV1V5KPerEL3\\excerpt-1.mp4",
+      "sha256": "fed480a69c9d62259f6433008c7c94d4da1b0712733984426460d973d2a7e729",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "372110"
+      }
+    },
+    {
+      "path": "evidence\\BV1V5KPerEL3\\excerpt-2.mp4",
+      "sha256": "e851a3f462b3b691b75479ab9db68654749a749544a74284bffa9f0a2d980b61",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "854722"
+      }
+    },
+    {
+      "path": "evidence\\BV1V5KPerEL3\\purple-portal\\excerpt.mp4",
+      "sha256": "3607687a9bbc852f4d6797825294be0f3cd4280eb7298f1054ad8b0a9ce1ae16",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1202829"
+      }
+    },
+    {
+      "path": "evidence\\BV1V6ZrBJEoM\\excerpt-1.mp4",
+      "sha256": "420be631aad8d96405410c9cdf05d7f34ae46d9c534767d6a8dd6821fe9b225b",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2108853"
+      }
+    },
+    {
+      "path": "evidence\\BV1V6ZrBJEoM\\excerpt-2.mp4",
+      "sha256": "c8c4bd696ec49424c84bc1d77a5dfea22688036973d31825fdce5e78a3b85905",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1552711"
+      }
+    },
+    {
+      "path": "evidence\\BV1V6ZrBJEoM\\vortex-composite\\excerpt.mp4",
+      "sha256": "cc89a7c632f67d8acf25f02a40c148c1ea47c31b89ea5b0465107e312a0ee775",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1228934"
+      }
+    },
+    {
+      "path": "evidence\\BV1vec5zJEiA\\excerpt-1.mp4",
+      "sha256": "564ff39958f86506ecf70f3fc34a40a90e059a4d896b58acdd016a08b6bf8ecd",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2017221"
+      }
+    },
+    {
+      "path": "evidence\\BV1vec5zJEiA\\excerpt-2.mp4",
+      "sha256": "f8dd2df1e263a336c47c6370c9f1726fb2fc60a97f9f8c82f6f662b55888b3d0",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1664436"
+      }
+    },
+    {
+      "path": "evidence\\BV1vec5zJEiA\\particle-years\\excerpt.mp4",
+      "sha256": "bec9348c85a4086b259bf376c1551cc95f650b43277ecaaa339ade2aa86c8213",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "963489"
+      }
+    },
+    {
+      "path": "evidence\\BV1vthX6XEwm\\editor-costumes\\excerpt.mp4",
+      "sha256": "4466756a559dc5a15b6e35361cc9f62671fa1cab8be92aa742ecca4ac1cf4be3",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "562243"
+      }
+    },
+    {
+      "path": "evidence\\BV1vthX6XEwm\\excerpt-1.mp4",
+      "sha256": "a077771a76c647c9cc1fdf7c885a6d95e446142c5752a6e1606ee6996ad75324",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "7066856"
+      }
+    },
+    {
+      "path": "evidence\\BV1vthX6XEwm\\excerpt-2.mp4",
+      "sha256": "ae827763a40d43569dadf4e5d696ca3e78403dbad19f5f89a3d9fd2b11956051",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2589881"
+      }
+    },
+    {
+      "path": "evidence\\BV1wB4y1w7Lm\\aim-reticle\\excerpt.mp4",
+      "sha256": "6c52bfd7e8a7485a6eb914acdf39e3a115bc81af6ce5d3a418654e4fc90a9589",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2005182"
+      }
+    },
+    {
+      "path": "evidence\\BV1wB4y1w7Lm\\excerpt-1.mp4",
+      "sha256": "2dd610cd942f56e46c13827c71f0ac64d9ea5a22ebce826c2c38ad654498f7e2",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2084084"
+      }
+    },
+    {
+      "path": "evidence\\BV1wB4y1w7Lm\\excerpt-2.mp4",
+      "sha256": "245da9589c1693692e756a08030967c6e809798304b2826d78e5f804d1052eb1",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "2897313"
+      }
+    },
+    {
+      "path": "evidence\\BV1WFEP6eEiM\\excerpt-1.mp4",
+      "sha256": "5de3400a75884f64cd77dc242283fae20ec16890da01ad6c7dfa0d9fd7608f6b",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 1712,
+          "r_frame_rate": "289/12"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.027682",
+        "size": "828407"
+      }
+    },
+    {
+      "path": "evidence\\BV1WFEP6eEiM\\excerpt-2.mp4",
+      "sha256": "ad20090bff93dfefa528c47d8261524c2d9190f7b0c0ae8ffea1badc5b41d60e",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 1712,
+          "r_frame_rate": "289/12"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.027681",
+        "size": "848420"
+      }
+    },
+    {
+      "path": "evidence\\BV1WFEP6eEiM\\first-view-change\\excerpt.mp4",
+      "sha256": "c75ced72d6c84a7b45402b2f1dd16bcc9d5146542c7e7d5d7fd0c230a2a65bd5",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 1712,
+          "r_frame_rate": "289/12"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "1.536332",
+        "size": "536147"
+      }
+    },
+    {
+      "path": "evidence\\BV1WFEP6eEiM\\repeated-view\\excerpt.mp4",
+      "sha256": "b7810c6af44522af85351a447b6088b2e8861c6b807559a2b8fa8e24885ec57e",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 1712,
+          "r_frame_rate": "289/12"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "2.034602",
+        "size": "520994"
+      }
+    },
+    {
+      "path": "evidence\\BV1wyuG6PEXH\\excerpt-1.mp4",
+      "sha256": "846e6c9b8d996c90ad5ce088b0a9bb052ae81030400e9e8929975025d233c715",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 538,
+          "r_frame_rate": "101/4"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "540718"
+      }
+    },
+    {
+      "path": "evidence\\BV1wyuG6PEXH\\excerpt-2.mp4",
+      "sha256": "41f47faecf82c02704075284874abab85e4bf69a3327bc4430c53b0b86261a03",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 538,
+          "r_frame_rate": "101/4"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "740935"
+      }
+    },
+    {
+      "path": "evidence\\BV1wyuG6PEXH\\ribbon-parallax\\excerpt.mp4",
+      "sha256": "93b74e3c68b1dbb1a4a1dcef6e4bb88d72115446a2c170f2346e41cf9b116181",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 538,
+          "r_frame_rate": "101/4"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "734944"
+      }
+    },
+    {
+      "path": "evidence\\BV1xCai6aE9g\\burst\\excerpt.mp4",
+      "sha256": "cbde7cbf01937ef4c53902af9ef5d46d72413c2a8e4530a26d9db8090e45e142",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "664646"
+      }
+    },
+    {
+      "path": "evidence\\BV1xCai6aE9g\\excerpt-1.mp4",
+      "sha256": "cf8120a50f879672f33db9d2e0b778cc493e83c8214f197176860fed889c3231",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        }
+      ],
+      "format": {
+        "duration": "5.000000",
+        "size": "495355"
+      }
+    },
+    {
+      "path": "evidence\\BV1xCai6aE9g\\excerpt-2.mp4",
+      "sha256": "e38e93beaf1fe2be98914488bdcb3236571b3390a059415a7557eaf95458324a",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24/1"
+        }
+      ],
+      "format": {
+        "duration": "5.000000",
+        "size": "908023"
+      }
+    },
+    {
+      "path": "evidence\\BV1xL4pzREPZ\\excerpt-1.mp4",
+      "sha256": "6352f05519ffc58e6c3650a8223c2f2d5b74202fd7a3ac6e7a0bf2e287b40ebd",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1637997"
+      }
+    },
+    {
+      "path": "evidence\\BV1xL4pzREPZ\\excerpt-2.mp4",
+      "sha256": "4a8b500dc045d8792542e313a4b14a43bdd242f4630d85803c6eb20b87e26f04",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "648321"
+      }
+    },
+    {
+      "path": "evidence\\BV1xL4pzREPZ\\polaroid-type\\excerpt.mp4",
+      "sha256": "7d74d0b8050e2f979de9364a3da1e0744c8ba7796d8840f22e79c7082863c3d8",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "798271"
+      }
+    },
+    {
+      "path": "evidence\\BV1XMbN6VE1w\\excerpt-1.mp4",
+      "sha256": "b0ac4472cebb28a0280ebb0cd9420063405d6090dc9cad2da688bbdc86acd50c",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "870352"
+      }
+    },
+    {
+      "path": "evidence\\BV1XMbN6VE1w\\excerpt-2.mp4",
+      "sha256": "2452ae5849131cfdd31a442233fc26977ec652c31820185c911acd3c32042c9f",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "904347"
+      }
+    },
+    {
+      "path": "evidence\\BV1XMbN6VE1w\\wave-distortion\\excerpt.mp4",
+      "sha256": "728d64611d07d92c34564ffddddf7aebbbfe2f5bc4a6989c5d74d11815af5094",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "665199"
+      }
+    },
+    {
+      "path": "evidence\\BV1xP4y1s7t7\\excerpt-1.mp4",
+      "sha256": "763bfc07acf9c296cb84097ae4899fbaf89b673699411e9e17286efb250c4ddf",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1699771"
+      }
+    },
+    {
+      "path": "evidence\\BV1xP4y1s7t7\\excerpt-2.mp4",
+      "sha256": "626b79495a1c0302f2319eb57e8b61340dab863b470af3ff253d5220a947cf83",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1311488"
+      }
+    },
+    {
+      "path": "evidence\\BV1yi421D7i5\\excerpt-1.mp4",
+      "sha256": "0b17ee4744c22cda5b4ed80d9af5a555107daa9e4ce2401b95d80d8c309695ac",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "562834"
+      }
+    },
+    {
+      "path": "evidence\\BV1yi421D7i5\\excerpt-2.mp4",
+      "sha256": "96af8c70e0e0405fb7ad40fc53b40db8ef8772e590038d5f07c3ac3047d6baf8",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "400683"
+      }
+    },
+    {
+      "path": "evidence\\BV1yi421D7i5\\split-screen\\excerpt.mp4",
+      "sha256": "51ae009f3f97eb8b43f0d52d5460163a34c52146c638d03ecaed8da0b6598bad",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "354819"
+      }
+    },
+    {
+      "path": "evidence\\BV1yi421D7i5\\typography-bubbles\\excerpt.mp4",
+      "sha256": "0418466ee913d049f87e22ebe8e4f07078b545a00f51d853512eec98489e64f6",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "498081"
+      }
+    },
+    {
+      "path": "evidence\\BV1YuWMzQELk\\excerpt-1.mp4",
+      "sha256": "d738031de91738aa882099b2fa1350db1fb4a8aee65d2d63a812dc94a0461312",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 542,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1356632"
+      }
+    },
+    {
+      "path": "evidence\\BV1YuWMzQELk\\excerpt-2.mp4",
+      "sha256": "1f8c4e6b997a81b55380258748dc5e67d47ac27f1c55e21ac98f8e8140005399",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 542,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "544369"
+      }
+    },
+    {
+      "path": "evidence\\BV1YuWMzQELk\\red-window-type\\excerpt.mp4",
+      "sha256": "a2885badf82d7af5564a1d37ad4d8d13e6be5fa14ca306a9df8d38a18a8bfa41",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 542,
+          "r_frame_rate": "25/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "623195"
+      }
+    },
+    {
+      "path": "evidence\\BV1z44y1F7bv\\diamond-panels\\excerpt.mp4",
+      "sha256": "c6846c7a43124f402da1d66b744cbc53825ecbbbf947606d4b098c9a939e0a7b",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1440786"
+      }
+    },
+    {
+      "path": "evidence\\BV1z44y1F7bv\\excerpt-1.mp4",
+      "sha256": "4bbbf440fb8f536a405110ae395960a5655306dbca122ebf69d03dd3b28564d5",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "873227"
+      }
+    },
+    {
+      "path": "evidence\\BV1z44y1F7bv\\excerpt-2.mp4",
+      "sha256": "fa6c03df3c1c16ee4513f05310f453aee4b55695c9e792382ef97526172d10d8",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1221655"
+      }
+    },
+    {
+      "path": "evidence\\BV1zb4y1z7jW\\excerpt-1.mp4",
+      "sha256": "60ff945058398f7cf6ad9210b3490f11dcc094fb927c42abc5346560210f118a",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1777873"
+      }
+    },
+    {
+      "path": "evidence\\BV1zb4y1z7jW\\excerpt-2.mp4",
+      "sha256": "6b6c56be6d2579989fec72c2f7a34675929a16f582f2fc72f9c08ffb59c318a8",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1813291"
+      }
+    },
+    {
+      "path": "evidence\\BV1ZdfNBxEbY\\cyan-shield\\excerpt.mp4",
+      "sha256": "9159ed3a0f97e8e0c37f260ce9676dadd36fda92f24f9e5e730c78664d1991ac",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 412,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1134006"
+      }
+    },
+    {
+      "path": "evidence\\BV1ZdfNBxEbY\\electric-sphere\\excerpt.mp4",
+      "sha256": "819e7d6d8e9a90b69532719abde20d44e10383c2005ee943bed6a5032ba835c7",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 412,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1067225"
+      }
+    },
+    {
+      "path": "evidence\\BV1ZdfNBxEbY\\excerpt-1.mp4",
+      "sha256": "204726eac6ad2d001a3ed5724050e8676269d0f89b390451813c9061d25b00da",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 412,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1357389"
+      }
+    },
+    {
+      "path": "evidence\\BV1ZdfNBxEbY\\excerpt-2.mp4",
+      "sha256": "ccbcc2dbb1d338352a85c7f4d23cc1e916d8232dd4f82e76a2303e760186254e",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 412,
+          "r_frame_rate": "60/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1508942"
+      }
+    },
+    {
+      "path": "evidence\\BV1zs411Y78A\\excerpt-1.mp4",
+      "sha256": "5dca49316aebe8d0a29b6a72a7ebb6ba82623a406411f0175a5b12309d2a344a",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "1045457"
+      }
+    },
+    {
+      "path": "evidence\\BV1zs411Y78A\\excerpt-2.mp4",
+      "sha256": "e780c8d680259138e59deaa554a0c8b094269accc94918e11d92ecb1426d709c",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "24000/1001"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.004000",
+        "size": "2175826"
+      }
+    },
+    {
+      "path": "evidence\\BV1ZTJ76FEAD\\excerpt-1.mp4",
+      "sha256": "14c5e4c55d96abbfadac2db70d28d76f37cca933d552e9d99d0ab0ac4cc93f29",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 1712,
+          "r_frame_rate": "289/12"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.027681",
+        "size": "1012599"
+      }
+    },
+    {
+      "path": "evidence\\BV1ZTJ76FEAD\\excerpt-2.mp4",
+      "sha256": "b723fb7a4492b1cc84686ee98914d61df799679d17b2d405685dbd27b0025196",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 1712,
+          "r_frame_rate": "289/12"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.027682",
+        "size": "979856"
+      }
+    },
+    {
+      "path": "evidence\\BV1ZTJ76FEAD\\ring-cloud\\excerpt.mp4",
+      "sha256": "5e48ecbf1a3b58740609222f0d7b0d0cd4a809f040cb13752e3990e1910e26e9",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 1712,
+          "r_frame_rate": "289/12"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.027681",
+        "size": "745988"
+      }
+    },
+    {
+      "path": "evidence\\BV1ZuZMBhERy\\combat-impact\\excerpt.mp4",
+      "sha256": "cf1df04bf716fc40a1d4e0a7857280ba5ae3a0e5a4f3af5509f92ec2f30f4ead",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1367730"
+      }
+    },
+    {
+      "path": "evidence\\BV1ZuZMBhERy\\excerpt-1.mp4",
+      "sha256": "9f67826eb211ab1bd27e9a80b88e17216db1db4fa944f097e2cb98a70f8cac0b",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1424390"
+      }
+    },
+    {
+      "path": "evidence\\BV1ZuZMBhERy\\excerpt-2.mp4",
+      "sha256": "dbeb0e6a9cebb729e444c29ac6856c8a06271b3c69b7a522959ce5840cd0adc3",
+      "decode_verified": true,
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 540,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.000000",
+        "size": "1268021"
+      }
+    }
+  ],
+  "warnings": [
+    "84 primary sampled visual research works; 16 technique/limitation references. No whole-video quality certification.",
+    "Source animation/cuts and same-source adaptations must not be attributed to independent editing/model skill.",
+    "Sample strata are separate first-party snapshots: AI28/22; human27/23.",
+    "Not a 100-video continuous AV viewing study. H30 making classification provisional."
+  ],
+  "visual_quality_first_pass": 100,
+  "audio_sync_requirement": "User permits final delivery with audio sync marked unverified; no auditory claims."
+}

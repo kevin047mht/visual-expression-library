@@ -1,0 +1,75 @@
+{
+  "bvid": "BV1bhuc6VEym",
+  "title": "",
+  "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\测试\\bilibili-editing-study\\.local-media\\BV1bhuc6VEym.mp4",
+  "source_sha256": "04f10438b8a487a7794f5caadf1ad110caae44ad0cd4861f70073912cbaaf859",
+  "duration": 61.765079,
+  "original_fps": 27.916666666666668,
+  "width": 3840,
+  "height": 2160,
+  "has_audio": true,
+  "overview_step": 2.0,
+  "overview_frames": 31,
+  "scene_threshold": 0.24,
+  "scene_candidates": [
+    2.862062,
+    5.330563,
+    10.374937,
+    13.058125,
+    15.7055,
+    20.749875,
+    25.973125,
+    31.089,
+    36.204937,
+    38.816563,
+    41.392375,
+    46.579875,
+    51.731563,
+    56.775875
+  ],
+  "review_windows": [
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "scene_candidate_count": 2,
+      "scene_candidates": [
+        2.862062,
+        5.330563
+      ],
+      "dense_start": 2.0,
+      "dense_fps": 15,
+      "requested_samples_per_second": 15,
+      "actual_mean_samples_per_second": 13.976063144888554,
+      "dense_seconds": 2.0,
+      "clip": "evidence/BV1bhuc6VEym/excerpt-1.mp4",
+      "contact_sheets": [
+        "evidence/BV1bhuc6VEym/dense-1-1.jpg",
+        "evidence/BV1bhuc6VEym/dense-1-2.jpg"
+      ]
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "scene_candidate_count": 2,
+      "scene_candidates": [
+        10.374937,
+        13.058125
+      ],
+      "dense_start": 10.0,
+      "dense_fps": 15,
+      "requested_samples_per_second": 15,
+      "actual_mean_samples_per_second": 13.97605591043522,
+      "dense_seconds": 2.0,
+      "clip": "evidence/BV1bhuc6VEym/excerpt-2.mp4",
+      "contact_sheets": [
+        "evidence/BV1bhuc6VEym/dense-2-1.jpg",
+        "evidence/BV1bhuc6VEym/dense-2-2.jpg"
+      ]
+    }
+  ],
+  "limits": [
+    "Scene detector candidates are not manually verified edit boundaries.",
+    "Labels use selected source-frame timestamps; sampling has finite temporal resolution.",
+    "Audio is included in clips; inclusion does not prove auditory review."
+  ]
+}

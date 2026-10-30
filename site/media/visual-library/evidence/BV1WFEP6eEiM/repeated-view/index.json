@@ -1,0 +1,10 @@
+{
+  "start": 7.5,
+  "duration": 2.0,
+  "sample_fps": 12.0,
+  "frames": 25,
+  "sheets": [
+    "contact-1.jpg",
+    "contact-2.jpg"
+  ]
+}

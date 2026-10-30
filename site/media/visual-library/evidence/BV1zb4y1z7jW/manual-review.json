@@ -1,0 +1,87 @@
+{
+  "bvid": "BV1zb4y1z7jW",
+  "group": "human_led_candidate",
+  "title": "因为会时停，所以耗时0秒！",
+  "reviewed": true,
+  "continuous_av_watched": false,
+  "coverage": "47张全片约4秒概览；84–86秒和105.2–107.2秒密集源帧已实际检查。请求15fps，在23.976fps源上实际约每0.083秒一帧，以图下时间码为准。未听审。",
+  "source_claim": "笔龙XDDD；第一方页面65.9万播放；作者称耗时一个月、第一次混剪、学习折纸作品的仿作，BGM Favorite Color Is Blue。",
+  "effects": [
+    {
+      "time": [
+        8,
+        20
+      ],
+      "name": "RGB边缘色散／重影叠化",
+      "observation": "概览可见人物边缘红青彩边，16秒人物手臂有半透明重影。",
+      "implementation": "分离RGB通道少量位移，复制前后帧降低不透明度。",
+      "direct_export": "基础版容易；未确认原片具体实现"
+    },
+    {
+      "time": [
+        32,
+        40
+      ],
+      "name": "方向模糊／径向旋转变形",
+      "observation": "32秒横向拉丝，40秒中心形成旋涡状扭曲与模糊；只据概览不认定完整转场轨迹。",
+      "implementation": "方向模糊、缩放模糊、极坐标或旋涡位移。",
+      "direct_export": "简单模糊容易；复杂连续形变需着色器调试"
+    },
+    {
+      "time": [
+        48,
+        48
+      ],
+      "name": "倒带符号／扫描线／画面波形弯曲",
+      "observation": "左上有双左箭头，人物画面呈横向扫描线和弯曲轮廓。",
+      "implementation": "符号叠加、逐行水平正弦偏移、隔行亮度网纹。",
+      "direct_export": "容易；倒带符号不证明真实倒放已核验"
+    },
+    {
+      "time": [
+        52,
+        76
+      ],
+      "name": "棱镜色散／发光粒子／通道错位",
+      "observation": "52秒高亮碎片带彩虹边；76秒人物边缘红蓝分离。原动画特效与后加效果归属尚未分离。",
+      "implementation": "高亮提取、模糊加法合成、通道位移；规则粒子可程序生成。",
+      "direct_export": "基本机制容易；原作复杂粒子美术需素材"
+    },
+    {
+      "time": [
+        84,
+        86
+      ],
+      "name": "动作牵引快切／近景冲击",
+      "observation": "拳击中人物由侧向双人构图变正面，随后眼部极近景、反打及受击；多处保留原动画动作。",
+      "implementation": "裁切现有动作素材，匹配方向和冲击点；短模糊或曝光辅助。",
+      "direct_export": "剪接容易；不能直接生成高质量人物战斗动画"
+    },
+    {
+      "time": [
+        105.2,
+        107.2
+      ],
+      "name": "荧光轮廓／多段景别替换／光带扫过",
+      "observation": "绿色平面切红白人物出拳，再切受击面部，最后双人构图，末尾白色横向光带覆盖。",
+      "implementation": "轮廓高亮、短硬切、遮罩光带、通道错位。",
+      "direct_export": "基础合成容易；人物动作需原素材"
+    }
+  ],
+  "rapid_switching": {
+    "window": [
+      105.2,
+      107.2
+    ],
+    "minimum_major_composition_changes": 3,
+    "approximate_times": [
+      105.397,
+      105.981,
+      106.982
+    ],
+    "lower_bound_per_second": 1.5,
+    "caution": "绿色平面→红白人物→受击面孔→双人构图，至少三次；约0.083秒取样。人物出拳和光带扫过不各计一镜。原动画已有剪接，不能全算UP新增。"
+  },
+  "attribution_caution": "人工主导剪辑候选；原动画动作、辉光和剪接可能被继承；未证明完全不用AI。",
+  "review_note": "REVIEW.md"
+}

@@ -1,0 +1,61 @@
+{
+  "coverage": "manual review of current contact sheets, not continuous AV watching",
+  "timecode_limit": "nominal 12fps sample positions; approximately 0.083-second spacing",
+  "events": [
+    {
+      "video": "BV1xCai6aE9g",
+      "window": [
+        148,
+        152
+      ],
+      "minimum_large_composition_switches": 4,
+      "approximate_brackets": [
+        [
+          148.5,
+          148.6
+        ],
+        [
+          149.6,
+          149.7
+        ],
+        [
+          150.6,
+          150.7
+        ],
+        [
+          151.5,
+          151.6
+        ]
+      ],
+      "meaning": "大标题、终端布局、横向字、人物字带的替换；不是全片镜头数"
+    },
+    {
+      "video": "BV1Jwhy6BEMJ",
+      "window": [
+        150,
+        152
+      ],
+      "minimum_large_composition_switches": null,
+      "meaning": "构图延续，主要为白/粉字切换、显隐和条纹变形，未据闪烁统计切镜"
+    },
+    {
+      "video": "BV1SgaY64EG5",
+      "window": [
+        105,
+        107
+      ],
+      "minimum_large_composition_switches": 2,
+      "approximate_brackets": [
+        [
+          105.4,
+          105.5
+        ],
+        [
+          106.5,
+          106.6
+        ]
+      ],
+      "meaning": "粒子双体、紫色径向纹理、同心光圈之间的大构图变化"
+    }
+  ]
+}

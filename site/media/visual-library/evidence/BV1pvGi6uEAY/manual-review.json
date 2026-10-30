@@ -1,0 +1,68 @@
+{
+  "bvid": "BV1pvGi6uEAY",
+  "group": "human_led_candidate",
+  "title": "百万转场",
+  "source_claim": "瑞克剪辑导师CUTEST；第一方页面3万，标注混剪、AMV、原创与剪辑。适合作为趣味短例，精修质量与音乐节拍尚未完整验收。",
+  "coverage": "23.567秒1080×1080/30fps。6张4秒概览、9.3–11.3与1.2–3.2秒15fps连续帧已检查；补0–23.5秒每0.5秒概览及8.6–10秒30fps连续帧。未实际听审。",
+  "effects": [
+    {
+      "time": [
+        1.2,
+        3.2
+      ],
+      "name": "游戏人物近景／相机裁切推进",
+      "observation": "游戏低机位切人物正面，随后相机向机器人靠近，主体逐渐出框。白条与113更像游戏界面/标签，未列为作者字效。",
+      "implementation": "已有片段裁切与缩放容易；游戏人物模型及动作需源素材。",
+      "direct_export": "剪辑容易，不能仅靠滤镜生成游戏场景"
+    },
+    {
+      "time": [
+        8.933,
+        9.533
+      ],
+      "name": "游戏到动画的动作匹配／红闪遮挡",
+      "observation": "游戏人物动作后8.967秒为红色覆盖的动画人物，红色逐渐减弱；9.533秒切飞行动画。",
+      "implementation": "选择服装/动作相近素材，切点叠红色层后渐隐，必要时对齐人物位置。",
+      "direct_export": "已有匹配素材后容易"
+    },
+    {
+      "time": [
+        9.3,
+        11.3
+      ],
+      "name": "短镜头硬切／重复主题快切",
+      "observation": "人物飞行、站立、抱持与脸部近景接连替换，画幅一致，转场依靠硬切。",
+      "implementation": "按时间轴裁切拼接；主体位置和色调尽量匹配。",
+      "direct_export": "容易"
+    },
+    {
+      "time": [
+        19.5,
+        21
+      ],
+      "name": "横向条带画中画",
+      "observation": "飞行画面保留上下区，中间叠独立动画条带，内容连续替换。",
+      "implementation": "矩形裁切后覆盖中央，按片段切换。",
+      "direct_export": "容易"
+    }
+  ],
+  "rapid_switching": {
+    "window": [
+      9.3,
+      11.3
+    ],
+    "minimum_major_composition_changes": 4,
+    "approximate_times": [
+      9.533,
+      10.1,
+      10.667,
+      11.233
+    ],
+    "lower_bound_per_second": 2,
+    "caution": "局部下限，15fps采样约0.067秒；源动画内部切点可能继承。红色覆盖逐渐减弱的各帧不是新镜头。"
+  },
+  "attribution_caution": "人工主导候选，非已证明零AI。原始游戏与动画动作不属于后期滤镜能力；“百万”是标题，不能解读为效果次数或制作费用。",
+  "reviewed": true,
+  "continuous_av_watched": false,
+  "review_note": "REVIEW.md"
+}

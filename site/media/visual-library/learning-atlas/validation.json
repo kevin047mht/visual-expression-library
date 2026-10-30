@@ -1,0 +1,12 @@
+{
+  "case_pages": 100,
+  "all_html_pages": 135,
+  "effect_units": 668,
+  "indexed_images": 1793,
+  "local_missing_targets": [],
+  "broken_anchors": [],
+  "frame_ranges_outside": [],
+  "all_images_decode_and_sha256": true,
+  "reading_paths": 8,
+  "technique_guides": 20
+}

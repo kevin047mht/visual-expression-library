@@ -1,0 +1,62 @@
+[
+  {
+    "title": "〖4K〗如果聊天窗口就是她的整个世界——world.execute(me)",
+    "uploader": "西西弗斯的风车",
+    "url": "https://www.bilibili.com/video/BV1xCai6aE9g/",
+    "screenshot_views": "104.3万",
+    "resolution": "已定位第一方页面与实际媒体；已做局部画面审阅",
+    "bvid": "BV1xCai6aE9g",
+    "previous_resolution": "已在50候选表AI01；本地source.mp4由主线程抽帧"
+  },
+  {
+    "title": "猜猜这是哪个AI做的，Opus 5.5还是Deepseek 1017？",
+    "uploader": "花生官方",
+    "url": "https://www.bilibili.com/video/BV14ZJR6DEXN/",
+    "screenshot_views": "1.2万",
+    "resolution": "已定位第一方页面与实际媒体；已做局部画面审阅",
+    "bvid": "BV14ZJR6DEXN",
+    "previous_resolution": "仅用户截图；搜索未定位，不编造BV",
+    "first_party_observed_at": "2026-10-20T00:36:58.403Z",
+    "first_party_page_title": "猜猜这是哪个AI做的，Opus 5.5还是Deepseek 1017？"
+  },
+  {
+    "title": "〖Claude/PV〗带我出逃吧，我的罗密欧——Astra制作",
+    "uploader": "莉娅碳的骑士（用户截图）",
+    "url": "https://www.bilibili.com/video/BV1MFpG63E26/",
+    "screenshot_views": "12.3万",
+    "resolution": "已定位第一方页面与实际媒体；已做局部画面审阅",
+    "secondary_source": "https://linux.do/t/topic/3034657",
+    "secondary_snapshot_views": 57905,
+    "ai_evidence_secondary": "嵌卡转述作者简介称GPT-6 Astra Xhigh逐镜制作，使用CodexPro，约500美元API，视频MiniMax-H3；图片Image（嵌卡截断）",
+    "bvid": "BV1MFpG63E26",
+    "previous_resolution": "BV由Linux DO嵌卡链接解析；B站直接访问412，未完成第一方核验",
+    "first_party_observed_at": "2026-10-20T00:31:11.277Z",
+    "first_party_page_title": "【Claude/PV】带我出逃吧，我的罗密欧——Astra制作"
+  },
+  {
+    "title": "用DeepSeekFlash-1017花了两亿token画出deepseek眼…",
+    "uploader": "饿了的白熊（用户截图）",
+    "url": "https://www.bilibili.com/video/BV1d2ng6VEg4/",
+    "screenshot_views": "9.2万",
+    "resolution": "已定位第一方页面与实际媒体；已做局部画面审阅",
+    "bvid": "BV1d2ng6VEg4",
+    "previous_resolution": "标题截图截断；搜索未定位，不编造BV",
+    "first_party_observed_at": "2026-10-20T00:38:41.363Z",
+    "first_party_page_title": "用DeepSeekFlash-1017花了两亿token画出deepseek眼中的世界！world.execute(me);",
+    "note": "当前取得P1约216.9秒；总时长7:14含两个分P。P2未审阅。同源代码改编，不能当作从零独立分镜证据。"
+  },
+  {
+    "title": "Claude热唱：《您的账号已被封禁》",
+    "uploader": "风霜秋雨",
+    "url": "https://www.bilibili.com/video/BV1Hzpm6hEaY/",
+    "screenshot_views": "3万",
+    "resolution": "已定位第一方页面与实际媒体；已做局部画面审阅",
+    "secondary_source": "https://linux.do/t/topic/3034657",
+    "secondary_snapshot_views": 12435,
+    "ai_evidence_secondary": "嵌卡转述作者简介：作词/PV Opus5.5，曲SunoV6，图GPT",
+    "bvid": "BV1Hzpm6hEaY",
+    "previous_resolution": "BV由Linux DO嵌卡链接解析；B站直接访问412，未完成第一方核验",
+    "first_party_observed_at": "2026-10-20T00:32:57.422Z",
+    "first_party_page_title": "Claude热唱：《您的账号已被封禁》"
+  }
+]

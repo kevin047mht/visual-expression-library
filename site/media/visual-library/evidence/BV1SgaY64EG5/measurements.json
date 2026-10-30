@@ -1,0 +1,89 @@
+{
+  "bvid": "BV1SgaY64EG5",
+  "title": "Claude用代码搓了13015帧4K视频然后吃了你13亿Token",
+  "uploader": "穆阿蒂布",
+  "duration": 216.933,
+  "url": "https://www.bilibili.com/video/BV1SgaY64EG5/",
+  "offline_view_count": 306958,
+  "metadata_mtime": 1791447468.3524425,
+  "source_sha256": "715d8a7ce74f6e771346a12dd4aab6d07e86fa0fe0f190829a179c61fd2b0dbe",
+  "sample_fps": 12,
+  "luma_difference_mean": 0.03624705312990342,
+  "luma_difference_p90": 0.07609757625272333,
+  "pairs_over_0_20": 48,
+  "pairs_total": 2602,
+  "top_windows": [
+    {
+      "start": 105,
+      "end": 110,
+      "mean_luma_difference": 0.08086215958605665,
+      "samples_over_0_20": 4,
+      "sample_pairs": 60
+    },
+    {
+      "start": 25,
+      "end": 30,
+      "mean_luma_difference": 0.07867813180827886,
+      "samples_over_0_20": 0,
+      "sample_pairs": 60
+    },
+    {
+      "start": 70,
+      "end": 75,
+      "mean_luma_difference": 0.07731317175018154,
+      "samples_over_0_20": 5,
+      "sample_pairs": 60
+    },
+    {
+      "start": 30,
+      "end": 35,
+      "mean_luma_difference": 0.07243662854030503,
+      "samples_over_0_20": 0,
+      "sample_pairs": 60
+    },
+    {
+      "start": 35,
+      "end": 40,
+      "mean_luma_difference": 0.06912869008714596,
+      "samples_over_0_20": 4,
+      "sample_pairs": 60
+    },
+    {
+      "start": 45,
+      "end": 50,
+      "mean_luma_difference": 0.061375971314451716,
+      "samples_over_0_20": 4,
+      "sample_pairs": 60
+    },
+    {
+      "start": 90,
+      "end": 95,
+      "mean_luma_difference": 0.057360262345679015,
+      "samples_over_0_20": 4,
+      "sample_pairs": 60
+    },
+    {
+      "start": 135,
+      "end": 140,
+      "mean_luma_difference": 0.05679099037763254,
+      "samples_over_0_20": 2,
+      "sample_pairs": 60
+    }
+  ],
+  "dense": [
+    {
+      "start": 105,
+      "end": 110,
+      "contact_sheet": "evidence/BV1SgaY64EG5/dense-1.jpg",
+      "clip": "evidence/BV1SgaY64EG5/excerpt-1.mp4"
+    },
+    {
+      "start": 25,
+      "end": 30,
+      "contact_sheet": "evidence/BV1SgaY64EG5/dense-2.jpg",
+      "clip": "evidence/BV1SgaY64EG5/excerpt-2.mp4"
+    }
+  ],
+  "coverage": "Systematic still sampling and two dense excerpts; not continuous audiovisual viewing.",
+  "method_limit": "Luminance differences measure visual activity, not edits; flashes, camera motion and animation can trigger them."
+}

@@ -1,0 +1,12 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+node_modules/

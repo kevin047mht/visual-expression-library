@@ -1,0 +1,2890 @@
+{
+  "updated_date": "2026-10-19",
+  "scope": "50条AI相关候选，画面抽样与完整连续音画观看分开记录；当前进度见current_evidence_counts。",
+  "counts": {
+    "candidates": 50,
+    "high_play_snapshot": 27,
+    "low_play_snapshot": 23,
+    "quality_reviewed": 0,
+    "watched_by_this_agent": 0
+  },
+  "sampling_note": "当前27:23为最新可用快照的混合暂分（实页快照优先，无实页沿用旧索引/截图），不是50条实时核查或精品验收。四条用户指定参考已纳入，替换前记录及理由见sample-replacements.json/.md。",
+  "candidates": [
+    {
+      "id": "AI01",
+      "bvid": "BV1xCai6aE9g",
+      "title": "〖4K〗如果聊天窗口就是她的整个世界 —— world.execute(me)",
+      "uploader": "西西弗斯的风车",
+      "url": "https://www.bilibili.com/video/BV1xCai6aE9g/",
+      "views_evidence": "104.3万（用户截图）；视频页索引54.3万；收藏页索引92.4万/87.3万（不同抓取快照）",
+      "ai_participation_evidence": "含AI生成内容；简介列出dsh界面/角色素材",
+      "evidence_type": "user_screenshot_and_bilibili_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": null,
+      "views_snapshot_approx": 1043000,
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1xCai6aE9g/",
+        "https://www.bilibili.com/list/ml59078177",
+        "https://www.bilibili.com/list/ml4023076794?bvid=BV1xCai6aE9g&oid=117346878490933"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "first_party_snapshot": {
+        "bvid": "BV1xCai6aE9g",
+        "url": "https://www.bilibili.com/video/BV1xCai6aE9g/",
+        "page_title": "【4K】如果聊天窗口就是她的整个世界 —— world.execute(me)",
+        "page_views_display": "105万",
+        "page_views_approx": 1050000,
+        "publication_display": "2026-09-27 21:57:57",
+        "page_snapshot_saved_at_utc": "2026-10-20T10:41:43.392678+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI02",
+      "bvid": "BV186pc65E68",
+      "title": "〖4K60〗用10亿token 13017帧 画出Claude眼中的世界 | world.execute(me);",
+      "uploader": "真寻Mahiro",
+      "url": "https://www.bilibili.com/video/BV186pc65E68/",
+      "views_evidence": "36.7万",
+      "ai_participation_evidence": "作者称Claude写Canvas2D+WebGL画面、分镜、踩点；87镜头、13017帧",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "终端打字机、界面骨架揭示、环形路径排字、数学图形动画",
+        "像素化降采样、半色调网点/点阵化",
+        "故障弹窗轰炸、界面拼贴、代码逐行执行、计数器",
+        "硬切、亮度脉冲、色差边缘、水平切片故障、放射光",
+        "递归窗口、Droste式画中画、无限缩放通道",
+        "函数爱心描边、霓虹轮廓、放射背景、巨型前景文字"
+      ],
+      "views_snapshot_approx": 367000,
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV186pc65E68/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV186pc65E68/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV186pc65E68",
+        "url": "https://www.bilibili.com/video/BV186pc65E68/",
+        "page_title": "【4K60】用10亿token 13017帧 画出Claude眼中的世界 | world.execute(me);",
+        "page_views_display": "46万",
+        "page_views_approx": 460000,
+        "publication_display": "2026-10-06 06:37:50",
+        "page_snapshot_saved_at_utc": "2026-10-20T00:34:25.790534+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 217,
+            "width": 3840,
+            "height": 2160
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "related_same_source": {
+        "bvid": "BV1d2ng6VEg4",
+        "url": "https://www.bilibili.com/video/BV1d2ng6VEg4/",
+        "relationship": "下游使用本片源码/提示词改人物及配色；两片不可当两份独立分镜能力证据。"
+      },
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI03",
+      "bvid": "BV1Jwhy6BEMJ",
+      "title": "GPT6-Astra眼中的world.execute(me)",
+      "uploader": "野生大K",
+      "url": "https://www.bilibili.com/video/BV1Jwhy6BEMJ/",
+      "views_evidence": "17.2万",
+      "ai_participation_evidence": "作者简介：让Astra帮忙做的PV",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": null,
+      "views_snapshot_approx": 172000,
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1Jwhy6BEMJ/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "first_party_snapshot": {
+        "bvid": "BV1Jwhy6BEMJ",
+        "url": "https://www.bilibili.com/video/BV1Jwhy6BEMJ/",
+        "page_title": "GPT6-Astra眼中的world.execute(me)",
+        "page_views_display": "39.2万",
+        "page_views_approx": 392000,
+        "publication_display": "2026-09-25 01:36:45",
+        "page_snapshot_saved_at_utc": "2026-10-20T10:41:43.393682+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI04",
+      "bvid": "BV18YHf63EyC",
+      "title": "〖4K〗如果到处都是她的名字，你还能找到她吗 —— world.search(you)",
+      "uploader": "西西弗斯的风车",
+      "url": "https://www.bilibili.com/video/BV18YHf63EyC/",
+      "views_evidence": "7.3万",
+      "ai_participation_evidence": "简介列出Fable5.1、Opus5.5、GPT6Astra、Deepseek等使用模型",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "聊天窗展开／光标逐字输入／排序气泡图",
+        "代码表格排版／像素图标／局部数字与条形更新",
+        "图片比较网格／扭蛋机示意／重复窗口",
+        "局部界面淡出／输入法候选／大字词项替换",
+        "角色点云逐行重建／容器液位／代码与字幕联动",
+        "粒子人物／关系树／参数管线／像素头像回归"
+      ],
+      "views_snapshot_approx": 73000,
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV18YHf63EyC/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "first_party_snapshot": {
+        "bvid": "BV18YHf63EyC",
+        "url": "https://www.bilibili.com/video/BV18YHf63EyC/",
+        "page_title": "【4K】如果到处都是她的名字，你还能找到她吗 —— world.search(you)",
+        "page_views_display": "20.9万",
+        "page_views_approx": 209000,
+        "publication_display": "2026-10-06 02:00:00",
+        "page_snapshot_saved_at_utc": "2026-10-20T06:47:09.994275+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 305,
+            "width": 3840,
+            "height": 2160
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "visual_review_note": "evidence/BV18YHf63EyC/REVIEW.md",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI05",
+      "bvid": "BV19aaB62EJv",
+      "title": "〖GPT×Codex二创PV〗如果聊天窗口就是她的整个世界 —— Wrap Me In Plastic",
+      "uploader": "未显示",
+      "url": "https://www.bilibili.com/video/BV19aaB62EJv/",
+      "views_evidence": "803",
+      "ai_participation_evidence": "作者称GPT/Codex辅助改编渲染与角色图集，开源代码",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "深色终端界面／模块分区／加载格与折线图",
+        "点云轮廓／正弦曲线／因果矩阵／多窗口肖像",
+        "像素生成图／热图／波形与角色姿势槽位",
+        "黄色告警／红色错误主题／像素火焰／文字铺满遮挡",
+        "微字拼成大字／角色警戒带／整屏标题切换",
+        "标题到终端卡／黄色重点／点阵数字逐列追加",
+        "白色恢复主题／卡片透视脱离／粒子消散／极简尾声"
+      ],
+      "views_snapshot_approx": 803,
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV19aaB62EJv/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV19aaB62EJv/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV19aaB62EJv",
+        "url": "https://www.bilibili.com/video/BV19aaB62EJv/",
+        "page_title": "〖GPT×Codex二创PV〗如果聊天窗口就是她的整个世界 —— Wrap Me In Plastic",
+        "page_views_display": "1039",
+        "page_views_approx": 1039,
+        "publication_display": "2026-10-01 03:42:33",
+        "page_snapshot_saved_at_utc": "2026-10-20T08:40:55.049441+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 194,
+            "width": 1920,
+            "height": 1076
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "final_visual_research_role": "局部机制／局限参考",
+      "sampled_primary_quality_accepted": false,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI06",
+      "bvid": "BV1s5YA6KEiF",
+      "title": "〖DS曲绘〗甩下踌躇吧，因为朝阳是你也是我——东方红的心脏",
+      "uploader": "苌萌萌",
+      "url": "https://www.bilibili.com/video/BV1s5YA6KEiF/",
+      "views_evidence": "1.2万",
+      "ai_participation_evidence": "作者称Deepseek-V4.1-Flash曲绘、GPT-Image-2.5封面",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "琥珀终端界面／细线面板／低亮度 HUD",
+        "阶梯波形／椭圆轨道／线框球旋转",
+        "随机亮块／棋盘置换／中心红圆与辐射线",
+        "曲线图／进度条／雷达与频谱样式",
+        "大日期数字／像素小图标／逐项时间线／终端打字",
+        "像素条带／统计数字／阶梯填充／轨道图标阵列",
+        "地图轮廓／单色报纸版式／状态面板收束"
+      ],
+      "views_snapshot_approx": 12000,
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1s5YA6KEiF/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1s5YA6KEiF/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1s5YA6KEiF",
+        "url": "https://www.bilibili.com/video/BV1s5YA6KEiF/",
+        "page_title": "【DS曲绘】“甩下踌躇吧，因为朝阳是你也是我”—— 东方红的心脏",
+        "page_views_display": "1.7万",
+        "page_views_approx": 17000,
+        "publication_display": "2026-09-30 16:22:26",
+        "page_snapshot_saved_at_utc": "2026-10-20T09:32:22.480158+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 331,
+            "width": 1280,
+            "height": 720
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "final_visual_research_role": "局部机制／局限参考",
+      "sampled_primary_quality_accepted": false,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI07",
+      "bvid": "BV1c2an65EVj",
+      "title": "〖开源“手书”〗洛琪希的魔术之心/トリックハート",
+      "uploader": "StuG_III",
+      "url": "https://www.bilibili.com/video/BV1c2an65EVj/",
+      "views_evidence": "3969",
+      "ai_participation_evidence": "作者称Codex GPT6Astra制作，图像模型人物差分，Python合成",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "手绘纸框／人物差分／竖排条签",
+        "漂浮硬币／鸟形剪影／横向画框／眼内符号",
+        "道具替换／白烟遮挡／兔子放大过镜",
+        "双人物道具交互／细线牵引／斜置小窗",
+        "整图翻转旋转／小狗姿态替换",
+        "杂耍球轨迹／手绘纸框／舞台帘幕遮挡",
+        "沙发场景／大字环绕／鸟形前景／小窗交替"
+      ],
+      "views_snapshot_approx": 3969,
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1c2an65EVj/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "first_party_snapshot": {
+        "bvid": "BV1c2an65EVj",
+        "url": "https://www.bilibili.com/video/BV1c2an65EVj/",
+        "page_title": "【开源\"手书\"】洛琪希的魔术之心/トリックハート｜GPT6Astra眩晕瘫坐 / MIMI feat. 重音テトSV",
+        "page_views_display": "9067",
+        "page_views_approx": 9067,
+        "publication_display": "2026-09-28 22:10:37",
+        "page_snapshot_saved_at_utc": "2026-10-20T07:23:06.505322+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 156.928,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "visual_review_note": "evidence/BV1c2an65EVj/REVIEW.md",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI08",
+      "bvid": "BV1cdaf6QEad",
+      "title": "〖4K60〗饭卡《OverThink》MV by Opus5.5",
+      "uploader": "蓝川凛SAMA",
+      "url": "https://www.bilibili.com/video/BV1cdaf6QEad/",
+      "views_evidence": "59",
+      "ai_participation_evidence": "标题称上亿tokens生成MV，作者简介谈Opus制作和后续角色版",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "递归圆角框／时间波形／线框酒杯／星场排字",
+        "胶片条字阵／圆形放大镜／线描植物标本／档案卡",
+        "逐字红色高亮／曝光脉冲／卡片切圆柱字筒",
+        "数字滚筒／线框球／须知信息板／翻页式文字",
+        "粒子字溶解／空间门框／石刻字／等高线与表盘",
+        "三联滚筒／推拉重构图／红白黑主题闪换",
+        "点阵人物／滚筒回收／快门光圈圆环"
+      ],
+      "views_snapshot_approx": 59,
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1cdaf6QEad/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "first_party_snapshot": {
+        "bvid": "BV1cdaf6QEad",
+        "url": "https://www.bilibili.com/video/BV1cdaf6QEad/",
+        "page_title": "[4K60 饭卡《OverThink》MV by Opus5.5｜时光代理人]使用上亿tokens生成的MV使我眩晕瘫坐在椅子上仿佛看见二向箔打击",
+        "page_views_display": "79",
+        "page_views_approx": 79,
+        "publication_display": "2026-09-30 07:48:27",
+        "page_snapshot_saved_at_utc": "2026-10-20T06:47:29.881218+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 180.8825,
+            "width": 1280,
+            "height": 720
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "visual_review_note": "evidence/BV1cdaf6QEad/REVIEW.md",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI09",
+      "bvid": "BV182hm6NEZy",
+      "title": "〖GPT-6Astra“手”书〗Time is mine (A-SOUL.ver)",
+      "uploader": "理性而勇敢的人生",
+      "url": "https://www.bilibili.com/video/BV182hm6NEZy/",
+      "views_evidence": "2万",
+      "ai_participation_evidence": "标题声明Astra制作，作者称有bug且额度不足",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "巨型英文重复字／手电锥形遮罩／人物亮暗切换",
+        "倾斜梯形画框／环境切换／表情差分",
+        "大字冲屏／拳头前景／白色放射形转场",
+        "背景大字错落滑动／人物推拉／浅色几何蒙版",
+        "暗场人物／局部圆形亮区／横躺画面裁切",
+        "人物错位残影／重复大字／主题色回归"
+      ],
+      "views_snapshot_approx": 20000,
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV182hm6NEZy/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "first_party_snapshot": {
+        "bvid": "BV182hm6NEZy",
+        "url": "https://www.bilibili.com/video/BV182hm6NEZy/",
+        "page_title": "[GPT-6Astra“手”书] 眩晕瘫坐? Time is mine (A-SOUL.ver)",
+        "page_views_display": "2.2万",
+        "page_views_approx": 22000,
+        "publication_display": "2026-09-25 10:17:39",
+        "page_snapshot_saved_at_utc": "2026-10-20T07:23:32.142874+00:00",
+        "ai_label_visible": false,
+        "ai_label_kind": null,
+        "browser_media": [
+          {
+            "duration": 183.487999,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "visual_review_note": "evidence/BV182hm6NEZy/REVIEW.md",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI10",
+      "bvid": "BV1A3Ts6tEVr",
+      "title": "伟大前程，自己挣！〖AI全民制作人〗",
+      "uploader": "页面未显示UP",
+      "url": "https://www.bilibili.com/video/BV1A3Ts6tEVr/",
+      "views_evidence": "394.9万",
+      "ai_participation_evidence": "含AI生成内容；UP简介标明内容AI生成",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "双层叙事字幕、括号式旁白、底部对白字幕",
+        "第一人称快速摇镜、荷兰角、动作牵引镜头、局部亮闪",
+        "叙事硬切、同场景动作省略剪辑、景别切换",
+        "暗场分段、黑场叙事卡、照片履历卡、发光结尾字幕"
+      ],
+      "views_snapshot_approx": 3949000,
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1A3Ts6tEVr/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1A3Ts6tEVr/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1A3Ts6tEVr",
+        "url": "https://www.bilibili.com/video/BV1A3Ts6tEVr/",
+        "page_title": "伟大前程，自己挣！【AI全民制作人】",
+        "page_views_display": "403.4万",
+        "page_views_approx": 4034000,
+        "publication_display": "2026-07-03 02:10:34",
+        "page_snapshot_saved_at_utc": "2026-10-20T00:41:51.736769+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 80,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI11",
+      "bvid": "BV1psN86KEt5",
+      "title": "原创AIGC剧集《有异人》〖AI全民制作人〗",
+      "uploader": "失败的漫2026",
+      "url": "https://www.bilibili.com/video/BV1psN86KEt5/",
+      "views_evidence": "468.4万",
+      "ai_participation_evidence": "含AI生成内容，作者标示AIGC原创剧集",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "写实异星角色／浅景深正反打／固定对白字幕",
+        "科幻城市建立镜头／新旧建筑尺度对比",
+        "景别递进硬切／低机位踢击／倾斜动作镜头",
+        "夜景湿地反射／悬浮器红蓝灯／光束照明",
+        "乘龙式城市飞行／追随与逆光近景",
+        "火苗落地引燃／湿地火焰扩散与倒影",
+        "符纸特写插入／追逐视角切换／方向性运动模糊"
+      ],
+      "views_snapshot_approx": 4684000,
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1psN86KEt5/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "first_party_snapshot": {
+        "bvid": "BV1psN86KEt5",
+        "url": "https://www.bilibili.com/video/BV1psN86KEt5/",
+        "page_title": "原创AIGC剧集《有异人》【AI全民制作人】",
+        "page_views_display": "470.2万",
+        "page_views_approx": 4702000,
+        "publication_display": "2026-07-14 20:00:00",
+        "page_snapshot_saved_at_utc": "2026-10-20T08:00:34.715836+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 438,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "visual_review_note": "evidence/BV1psN86KEt5/REVIEW.md",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI12",
+      "bvid": "BV14ZJR6DEXN",
+      "title": "猜猜这是哪个AI做的，Opus 5.5还是Deepseek 1017？",
+      "uploader": "花生官方",
+      "url": "https://www.bilibili.com/video/BV14ZJR6DEXN/",
+      "views_evidence": "1.3万（实际页面快照，2026-10-20T00:36:58.406360+00:00）",
+      "ai_participation_evidence": "页面AI标记及UP自述会做剪辑/特效支持AI参与；标题提问没有揭晓具体模型，不据标题定为Opus或DeepSeek。",
+      "evidence_type": "first_party_page_snapshot_and_source_visual_sampling",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-20",
+      "effects_observed": [
+        "打字机／输入光标",
+        "径向线束／线框图形空间变换",
+        "棱镜分光／光束辉光",
+        "关键词发光／线框装置／文字轨道",
+        "环形多屏／空间运镜／HUD字幕"
+      ],
+      "views_snapshot_approx": 13000,
+      "stratum_from_snapshot": "低于10万候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "已核第一方页面并抽样检查实际画面；未全片连续音画观看、未完成精品验收；页面播放量为保存时快照，制作方法是作者声明。",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV14ZJR6DEXN/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "user_reference_reviewed_before_candidate_inclusion",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV14ZJR6DEXN/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV14ZJR6DEXN",
+        "url": "https://www.bilibili.com/video/BV14ZJR6DEXN/",
+        "page_title": "猜猜这是哪个AI做的，Opus 5.5还是Deepseek 1017？",
+        "page_views_display": "1.3万",
+        "page_views_approx": 13000,
+        "publication_display": "2026-10-19 04:59:36",
+        "page_snapshot_saved_at_utc": "2026-10-20T00:36:58.406360+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 154,
+            "width": 3840,
+            "height": 2160
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "user_screenshot_reference": true,
+      "candidate_replacement": {
+        "superseded_bvid": "BV15nud6zEAj",
+        "reason": "原候选简介仅有AI标记，可能为精选转载，原作者归属未核；退候补以优先用户明确参考。",
+        "audit_file": "sample-replacements.json"
+      },
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI13",
+      "bvid": "BV1qM9iBwExc",
+      "title": "原创AI短片《大傩》｜第7回 梦落铡声，诡异来袭",
+      "uploader": "页面未显示UP",
+      "url": "https://www.bilibili.com/video/BV1qM9iBwExc/",
+      "views_evidence": "5.4万",
+      "ai_participation_evidence": "作者声明使用人工智能合成技术",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "旧纸道具特写／浅景深／逆光悬浮书",
+        "接书动作分镜／金色能量丝带／景别硬切",
+        "喜剧正反打／人物反应近景／手部道具插入",
+        "悬浮眼睛符号／递进特写／拉远建立空间",
+        "毛笔片名字卡／红白提示排版／绿边幻象人物",
+        "室内烛光／冷暖分区／镜面与符印道具插入",
+        "掌中绿焰／墨镜倒影内动画／对白反打",
+        "面具绿火／液面特写／戏曲角色反应镜头"
+      ],
+      "views_snapshot_approx": 54000,
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1qM9iBwExc/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "first_party_snapshot": {
+        "bvid": "BV1qM9iBwExc",
+        "url": "https://www.bilibili.com/video/BV1qM9iBwExc/",
+        "page_title": "原创AI短片《大傩》｜第7回 梦落铡声，诡异来袭",
+        "page_views_display": "5.5万",
+        "page_views_approx": 55000,
+        "publication_display": "2026-04-30 10:24:31",
+        "page_snapshot_saved_at_utc": "2026-10-20T08:12:56.243312+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 268.04163,
+            "width": 1280,
+            "height": 544
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "visual_review_note": "evidence/BV1qM9iBwExc/REVIEW.md",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI14",
+      "bvid": "BV1ZdfNBxEbY",
+      "title": "高燃打戏+童年回忆杀=全程高能！",
+      "uploader": "减肥路上的航少",
+      "url": "https://www.bilibili.com/video/BV1ZdfNBxEbY/",
+      "views_evidence": "7.5万",
+      "ai_participation_evidence": "作者声明使用人工智能合成技术；标签Seedance2.0",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "道具发光／腰带能量核心／局部火花",
+        "球形电场／分叉闪电／环绕能量带",
+        "场景置换／金色变身轮廓／装甲显现",
+        "拳击接触火花／碰撞亮闪／近景运动模糊",
+        "飞行尾焰／紫色能量弹／青色符文盾／爆裂冲击",
+        "环绕跟拍外观／角色前景遮挡／快速换位",
+        "白字黑边对白字幕／镜头段落硬切"
+      ],
+      "views_snapshot_approx": 75000,
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1ZdfNBxEbY/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1ZdfNBxEbY/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1ZdfNBxEbY",
+        "url": "https://www.bilibili.com/video/BV1ZdfNBxEbY/",
+        "page_title": "高燃打戏+童年回忆杀=全程高能！【B站AI创作大赛-开放赛道】",
+        "page_views_display": "7.6万",
+        "page_views_approx": 76000,
+        "publication_display": "2026-02-22 18:05:28",
+        "page_snapshot_saved_at_utc": "2026-10-20T08:21:22.082090+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 192,
+            "width": 1920,
+            "height": 822
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI15",
+      "bvid": "BV1SbJJ6XEcH",
+      "title": "〖AI末世短片〗秋叶原 - 第一日",
+      "uploader": "yuukananri",
+      "url": "https://www.bilibili.com/video/BV1SbJJ6XEcH/",
+      "views_evidence": "1.1万",
+      "ai_participation_evidence": "作者称第一人称片段平均10选1、AI生成积分消耗大",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "幻想森林／第一人称手部／蓝色魔法雾",
+        "废墟城市建立镜头／梦境与现实切换",
+        "第一人称车厢对话／战术地图界面",
+        "连续跟随运镜／硬切到瞭望塔",
+        "动作反打／射手近景／目标全景",
+        "手机画中画／暖色回忆／冷暖叙事对照",
+        "剖面建筑信息图／设备屏幕透视",
+        "车窗前景遮挡／街景动作／液态红字片名"
+      ],
+      "views_snapshot_approx": 11000,
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1SbJJ6XEcH/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "first_party_snapshot": {
+        "bvid": "BV1SbJJ6XEcH",
+        "url": "https://www.bilibili.com/video/BV1SbJJ6XEcH/",
+        "page_title": "【AI末世短片】秋叶原 - 第一日",
+        "page_views_display": "1.1万",
+        "page_views_approx": 11000,
+        "publication_display": "2026-06-13 01:00:00",
+        "page_snapshot_saved_at_utc": "2026-10-20T06:31:02.182438+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 610,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "visual_review_note": "evidence/BV1SbJJ6XEcH/REVIEW.md",
+      "final_visual_research_role": "局部机制／局限参考",
+      "sampled_primary_quality_accepted": false,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI16",
+      "bvid": "BV1d2ng6VEg4",
+      "title": "用DeepSeekFlash-1017花了两亿token画出deepseek眼中的世界！world.execute(me);",
+      "uploader": "饿了的白熊",
+      "url": "https://www.bilibili.com/video/BV1d2ng6VEg4/",
+      "views_evidence": "9.3万（实际页面快照，2026-10-20T00:38:41.366179+00:00）",
+      "ai_participation_evidence": "第一方简介声明使用真寻Mahiro源码及提示词，WebGL2+Canvas2D逐帧生成，角色和调色板改编；标题DeepSeekFlash-1017为作者声明，未独立审计。",
+      "evidence_type": "first_party_page_snapshot_and_source_visual_sampling",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-20",
+      "effects_observed": [
+        "终端打字机、界面骨架揭示、环形路径排字、数学图形动画",
+        "像素化降采样、半色调网点/点阵化",
+        "故障弹窗轰炸、界面拼贴、代码逐行执行、计数器",
+        "硬切、亮度脉冲、色差边缘、水平切片故障、放射光",
+        "递归窗口、Droste式画中画、无限缩放通道",
+        "函数爱心描边、霓虹轮廓、放射背景、巨型前景文字",
+        "三墨丝网印、限色海报、套印偏移"
+      ],
+      "views_snapshot_approx": 93000,
+      "stratum_from_snapshot": "低于10万候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "已核第一方页面并抽样检查实际画面；未全片连续音画观看、未完成精品验收；页面播放量为保存时快照，制作方法是作者声明。",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1d2ng6VEg4/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "user_reference_reviewed_before_candidate_inclusion",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1d2ng6VEg4/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1d2ng6VEg4",
+        "url": "https://www.bilibili.com/video/BV1d2ng6VEg4/",
+        "page_title": "用DeepSeekFlash-1017花了两亿token画出deepseek眼中的世界！world.execute(me);",
+        "page_views_display": "9.3万",
+        "page_views_approx": 93000,
+        "publication_display": "2026-10-17 20:59:15",
+        "page_snapshot_saved_at_utc": "2026-10-20T00:38:41.366179+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 217,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "user_screenshot_reference": true,
+      "candidate_replacement": {
+        "superseded_bvid": "BV1FZhX6AEbz",
+        "reason": "原候选仅有Astra标题声明、未审阅，且同歌候选较多；退候补以纳入用户明确参考及可核同源改编。",
+        "audit_file": "sample-replacements.json"
+      },
+      "related_same_source": {
+        "bvid": "BV186pc65E68",
+        "url": "https://www.bilibili.com/video/BV186pc65E68/",
+        "relationship": "复用源码/提示词、角色和配色改编；不作为独立分镜能力证据",
+        "coverage_limit": "仅P1约216.9秒抽样审阅；P2字幕版未审阅，7:14为两P总时长。"
+      },
+      "final_visual_research_role": "局部机制／局限参考",
+      "sampled_primary_quality_accepted": false,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI17",
+      "bvid": "BV1Siae6tEK9",
+      "title": "使用GPT6-Astra和opus5.5生成的world.execute(me)mv",
+      "uploader": "イチガンテイシン",
+      "url": "https://www.bilibili.com/video/BV1Siae6tEK9/",
+      "views_evidence": "2577",
+      "ai_participation_evidence": "作者称Astra制作后用Opus修改两次",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "拟真桌面／通知气泡／窗口层叠／终端标题",
+        "绘图软件式数学图形／切线与圆周／多图表界面",
+        "文件图标选择／文件夹状态变化／弹窗隐喻",
+        "终端窗口弹出收缩／录屏界面递归",
+        "图片查看器／进度条／暗色波形面板／角色表情",
+        "错误刷屏／黄警戒带／多语言大字／转轮与裂纹",
+        "复古系统换肤／眼睛贴图／窗口压缩／关机与片尾"
+      ],
+      "views_snapshot_approx": 2577,
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1Siae6tEK9/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1Siae6tEK9/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1Siae6tEK9",
+        "url": "https://www.bilibili.com/video/BV1Siae6tEK9/",
+        "page_title": "使用GPT6-Astra和opus5.5生成的world.execute(me)mv",
+        "page_views_display": "2663",
+        "page_views_approx": 2663,
+        "publication_display": "2026-09-27 09:37:40",
+        "page_snapshot_saved_at_utc": "2026-10-20T09:48:35.508273+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 213,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "initial_uploader_before_first_party_check": "页面未显示UP",
+      "uploader_evidence": {
+        "kind": "first_party_page_body",
+        "url": "https://www.bilibili.com/video/BV1Siae6tEK9/",
+        "checked_on": "2026-10-20"
+      },
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI18",
+      "bvid": "BV12Zhm6oE6m",
+      "title": "已吓哭 opus5.5真神降临 群论之美宣传片",
+      "uploader": "sadssxa",
+      "url": "https://www.bilibili.com/video/BV12Zhm6oE6m/",
+      "views_evidence": "17.7万",
+      "ai_participation_evidence": "含AI生成内容；标题声称Opus5.5制作，流程未展示",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "白闪串接的数学主题快切／发光衬线大字",
+        "金色标题放射光／雪花旋转和反射轴／环形元素与彩格表",
+        "圆周模运算图／时钟变奏／彩虹弦线包络",
+        "魔方旋转／彩色碎片粒子／镜面倒影与数字重点",
+        "金色平面镶嵌／发光晶格／圆盘内曲边网格",
+        "烛光旧纸／公式纸面插入／石面刻字火点",
+        "多色纤维曲线／椭圆曲线点加示意／有限域星图",
+        "二维码擦损示意／勾号确认／条目渐入／粒子环阵",
+        "群分类彩格表／主卡放大／总结蒙太奇／金色放射片尾"
+      ],
+      "views_snapshot_approx": 177000,
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV12Zhm6oE6m/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV12Zhm6oE6m/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV12Zhm6oE6m",
+        "url": "https://www.bilibili.com/video/BV12Zhm6oE6m/",
+        "page_title": "已吓哭 opus5.5真神降临 群论之美宣传片",
+        "page_views_display": "44.6万",
+        "page_views_approx": 446000,
+        "publication_display": "2026-09-25 08:37:38",
+        "page_snapshot_saved_at_utc": "2026-10-20T08:04:26.371043+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 263,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI19",
+      "bvid": "BV1XMbN6VE1w",
+      "title": "病名为𝓐𝓘〖PV〗GPT-6 Astra制作",
+      "uploader": "一片火海__",
+      "url": "https://www.bilibili.com/video/BV1XMbN6VE1w/",
+      "views_evidence": "7094（与候选库42228冲突）",
+      "ai_participation_evidence": "作者称Astra操作AE、GPT image2绘素材、DeepSeek译词",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "黑白诊断档案版式／衬线标题与粗体AI／细线边框",
+        "左右交替图文卡／编号／台词重复纹理",
+        "全画面波形位移／抖动字形／横向扫线",
+        "多人服务器合成／线束／人物剪影与旗帜／分区排字",
+        "角色品牌卡快切／水平条带擦入／标识环形与双行排列",
+        "政治讽喻插画／裂缝与波形图／大字重点",
+        "品牌卡复现／圆环标识群／结尾人物静帧"
+      ],
+      "views_snapshot_approx": 7094,
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1XMbN6VE1w/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1XMbN6VE1w/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1XMbN6VE1w",
+        "url": "https://www.bilibili.com/video/BV1XMbN6VE1w/",
+        "page_title": "病名为𝓐𝓘【PV】GPT-6 Astra制作",
+        "page_views_display": "6.8万",
+        "page_views_approx": 68000,
+        "publication_display": "2026-09-07 06:09:56",
+        "page_snapshot_saved_at_utc": "2026-10-20T08:41:39.452269+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 232,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI20",
+      "bvid": "BV1hphd69EDA",
+      "title": "Opus5.5一轮对话直出：线性代数之美",
+      "uploader": "页面未显示UP",
+      "url": "https://www.bilibili.com/video/BV1hphd69EDA/",
+      "views_evidence": "3万",
+      "ai_participation_evidence": "简介给出CC+Opus5.5及开源地址，称无skills",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "向量射线／矩阵网格变形／面积平行四边形／字幕辉光",
+        "向量场流线／彩色旋涡／线框圆环体",
+        "线框视图与着色视图闪切／霓虹网格地形",
+        "高维投影线框／分形蕨叶／图像低秩重建",
+        "波形叠加／旋转圆链／光点描字",
+        "网络节点／连线激活／神经网络示意／词语空间",
+        "白闪色散蒙太奇／结尾标题与透视网格"
+      ],
+      "views_snapshot_approx": 30000,
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1hphd69EDA/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "first_party_snapshot": {
+        "bvid": "BV1hphd69EDA",
+        "url": "https://www.bilibili.com/video/BV1hphd69EDA/",
+        "page_title": "⚡️看完想学线代了⚡️Opus5.5一轮直出，线性代数之美，眩晕瘫坐",
+        "page_views_display": "7.4万",
+        "page_views_approx": 74000,
+        "publication_display": "2026-09-26 09:44:13",
+        "page_snapshot_saved_at_utc": "2026-10-20T06:54:22.400004+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 215,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "visual_review_note": "evidence/BV1hphd69EDA/REVIEW.md",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI21",
+      "bvid": "BV18yYA61E8f",
+      "title": "opus5.5许愿TV 伽罗瓦理论宣传片",
+      "uploader": "リムルちゃん",
+      "url": "https://www.bilibili.com/video/BV18yYA61E8f/",
+      "views_evidence": "295",
+      "ai_participation_evidence": "作者称向opus5.5许愿取得风格，挂机生成",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "烛光羊皮纸／羽毛笔书写／双语小字幕",
+        "金色粒子聚字／扩散光环／横向镜头光晕",
+        "青蓝雾场／函数曲线描画／发光节点和表格",
+        "暖冷段落切换／同心圆层级／点线格与公式版式",
+        "根式层级变换／数字替换／扩散圆环",
+        "放射光芒／爆白转场／粒子球与线框多面体",
+        "结论字卡／螺旋线／书信回环／金字片尾"
+      ],
+      "views_snapshot_approx": 295,
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV18yYA61E8f/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV18yYA61E8f/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV18yYA61E8f",
+        "url": "https://www.bilibili.com/video/BV18yYA61E8f/",
+        "page_title": "opus5.5许愿TV 伽罗瓦理论宣传片",
+        "page_views_display": "767",
+        "page_views_approx": 767,
+        "publication_display": "2026-09-30 22:52:34",
+        "page_snapshot_saved_at_utc": "2026-10-20T09:34:45.726474+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 335,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI22",
+      "bvid": "BV1GbHi61E9Q",
+      "title": "看完想学概率论了：Opus5.5一轮直出，概率论之美",
+      "uploader": "tech-zer.asia",
+      "url": "https://www.bilibili.com/video/BV1GbHi61E9Q/",
+      "views_evidence": "2647",
+      "ai_participation_evidence": "标题声明Opus5.5直出，含AI生成标记",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "发光骰子阵列／标题压暗背景／渐隐转场",
+        "投掷计数／柱状分布生长／曲线描出",
+        "钉板落球／曲线图对照／雨点估圆／随机针线",
+        "粒子随机运动／分枝聚合／格点火势／阈值滑杆",
+        "圆周生日点／概率曲线／实验图示与干涉条纹",
+        "颗粒图标／标题交叉渐变／噪声示意／参数刻度",
+        "RGB碎裂字卡／粒子云汇聚／粒子标题"
+      ],
+      "views_snapshot_approx": 2647,
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1GbHi61E9Q/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "first_party_snapshot": {
+        "bvid": "BV1GbHi61E9Q",
+        "url": "https://www.bilibili.com/video/BV1GbHi61E9Q/",
+        "page_title": "⚡️看完想学概率论了⚡️Opus5.5一轮直出，概率论之美",
+        "page_views_display": "6790",
+        "page_views_approx": 6790,
+        "publication_display": "2026-10-03 09:41:28",
+        "page_snapshot_saved_at_utc": "2026-10-20T06:53:56.944716+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 227,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "visual_review_note": "evidence/BV1GbHi61E9Q/REVIEW.md",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI23",
+      "bvid": "BV1MFpG63E26",
+      "title": "【Claude/PV】带我出逃吧，我的罗密欧——Astra制作",
+      "uploader": "莉娅碳的骑士",
+      "url": "https://www.bilibili.com/video/BV1MFpG63E26/",
+      "views_evidence": "12.4万（实际页面快照，2026-10-20T00:31:11.279191+00:00）",
+      "ai_participation_evidence": "第一方简介称GPT-6 Astra Xhigh逐镜制作，CodexPro，MiniMax-H3视频、Image-2.5图像；流程和约500美元成本为作者自述，未独立审计。",
+      "evidence_type": "first_party_page_snapshot_and_source_visual_sampling",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-20",
+      "effects_observed": [
+        "斜切条带遮罩／局部特写揭示",
+        "歌词大字排版／字号对比",
+        "纸张质感／复古印刷拼贴",
+        "巴洛克装饰框／人物文字交叠",
+        "胶片齿孔／条带遮挡快切／模糊"
+      ],
+      "views_snapshot_approx": 124000,
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "已核第一方页面并抽样检查实际画面；未全片连续音画观看、未完成精品验收；页面播放量为保存时快照，制作方法是作者声明。",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1MFpG63E26/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "user_reference_reviewed_before_candidate_inclusion",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1MFpG63E26/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1MFpG63E26",
+        "url": "https://www.bilibili.com/video/BV1MFpG63E26/",
+        "page_title": "【Claude/PV】带我出逃吧，我的罗密欧——Astra制作",
+        "page_views_display": "12.4万",
+        "page_views_approx": 124000,
+        "publication_display": "2026-10-10 08:32:00",
+        "page_snapshot_saved_at_utc": "2026-10-20T00:31:11.279191+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 280,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "user_screenshot_reference": true,
+      "candidate_replacement": {
+        "superseded_bvid": "BV1ChM36FERD",
+        "reason": "原候选属于第三方介绍/展示，《百匠》原作者及是否全片未核；优先有第一方制作分工的用户指定作品。",
+        "audit_file": "sample-replacements.json"
+      },
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI24",
+      "bvid": "BV1CSej6kETr",
+      "title": "当你和一百万人一起吃火锅〖AI全民制作人〗",
+      "uploader": "阿丸焖居",
+      "url": "https://www.bilibili.com/video/BV1CSej6kETr/",
+      "views_evidence": "320.3万",
+      "views_snapshot_approx": 3203000,
+      "ai_participation_evidence": "含AI生成标记；作者声明虚构世界观",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "巨构食物场景／超广角俯视／人物近景反打",
+        "正反视角硬切／轻微运镜／对话字幕条",
+        "人物转身视角切换／固定字幕条",
+        "俯视人群／巨大容器与液体／尺度反差",
+        "画中画产品展示／彩色要点字／局部示意图",
+        "食物特写／涟漪与高光／动作连续性",
+        "烟花晚霞／逆光人物／系列尾段场景"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1CSej6kETr/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "first_party_snapshot": {
+        "bvid": "BV1CSej6kETr",
+        "url": "https://www.bilibili.com/video/BV1CSej6kETr/",
+        "page_title": "当你和一百万人一起吃火锅【AI全民制作人】",
+        "page_views_display": "456.7万",
+        "page_views_approx": 4567000,
+        "publication_display": "2026-09-15 03:00:00",
+        "page_snapshot_saved_at_utc": "2026-10-20T06:24:55.237217+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 299,
+            "width": 720,
+            "height": 960
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "visual_review_note": "evidence/BV1CSej6kETr/REVIEW.md",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI25",
+      "bvid": "BV1apc6zXEAG",
+      "title": "〖Seedance2.0〗AI自制动画《锈月》第一集",
+      "uploader": "真的不是心素",
+      "url": "https://www.bilibili.com/video/BV1apc6zXEAG/",
+      "views_evidence": "14.5万",
+      "views_snapshot_approx": 145000,
+      "ai_participation_evidence": "作者声明AI合成；简介说明Seedance产出片段拼接、部分片段太碎未用",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "街道建立镜头／低机位景别／动画质感场景",
+        "冰锥悬停／轮廓白辉光／背面到正面反打",
+        "攀墙与街头对话／正反打／车轮道具插入",
+        "分段黑场／OP署名排版／树下逆光与室内烛光",
+        "近景遮挡的剑斗分镜／衣摆运动／低角度反打",
+        "情绪特写／泪眼与夜景月光／同构图对白",
+        "夜景回忆插入／高速前冲视角／白色速度线",
+        "眼睛极近景／落脚尘土／静态背影长停留"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1apc6zXEAG/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "first_party_snapshot": {
+        "bvid": "BV1apc6zXEAG",
+        "url": "https://www.bilibili.com/video/BV1apc6zXEAG/",
+        "page_title": "【Seedance2.0】AI自制动画《锈月》第一集",
+        "page_views_display": "14.6万",
+        "page_views_approx": 146000,
+        "publication_display": "2026-03-11 23:53:25",
+        "page_snapshot_saved_at_utc": "2026-10-20T08:16:49.024281+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 201,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "visual_review_note": "evidence/BV1apc6zXEAG/REVIEW.md",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI26",
+      "bvid": "BV19iLv6bEKh",
+      "title": "〖原创AI动画〗当全世界所有人都永生不死〖永生世界〗",
+      "uploader": "胡搞瞎搞MessAround",
+      "url": "https://www.bilibili.com/video/BV19iLv6bEKh/",
+      "views_evidence": "1010.2万",
+      "views_snapshot_approx": 10102000,
+      "ai_participation_evidence": "作者称全部视频与音频内容均由AI生成",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "倾斜建立镜头／坠落动作分镜／红底白色柔光标题",
+        "圆筒纵深／多人悬浮／蓝色雾化与快速跟随",
+        "红白环形中庭／升降管道／俯视几何转场",
+        "照片插入／正反打／科幻飞行舱与尾焰",
+        "工业绿光／毒雾液体／疤痕道具与剧情蒙太奇",
+        "对白正反打／固定白字幕／稳定背景",
+        "螺旋楼梯俯视／冷蓝巷道／道具极近景／尾卡"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV19iLv6bEKh/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV19iLv6bEKh/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV19iLv6bEKh",
+        "url": "https://www.bilibili.com/video/BV19iLv6bEKh/",
+        "page_title": "【原创AI动画】当全世界所有人都永生不死【永生世界】",
+        "page_views_display": "1051.5万",
+        "page_views_approx": 10515000,
+        "publication_display": "2026-05-22 02:00:00",
+        "page_snapshot_saved_at_utc": "2026-10-20T08:37:55.937569+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 415,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI27",
+      "bvid": "BV1WFEP6eEiM",
+      "title": "巨构：光的裂缝",
+      "uploader": "巨构AI",
+      "url": "https://www.bilibili.com/video/BV1WFEP6eEiM/",
+      "views_evidence": "79.1万/80.1万（两快照）",
+      "views_snapshot_approx": 801000,
+      "ai_participation_evidence": "含AI生成标记；UP标示AI创作者",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "巨墙斜向透视／尺度对比／裂缝白光",
+        "对称裂谷构图／青蓝雾化／远端光源",
+        "近墙仰视／纵向层叠／雾中光柱",
+        "三种景别的重复序列／直接构图替换",
+        "底部小字标识／稳定竖屏留白"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1WFEP6eEiM/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1WFEP6eEiM/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1WFEP6eEiM",
+        "url": "https://www.bilibili.com/video/BV1WFEP6eEiM/",
+        "page_title": "巨构：光的裂缝",
+        "page_views_display": "81.4万",
+        "page_views_approx": 814000,
+        "publication_display": "2026-06-04 07:05:34",
+        "page_snapshot_saved_at_utc": "2026-10-20T08:36:07.843859+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 18.76687,
+            "width": 2154,
+            "height": 3840
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "局部机制／局限参考",
+      "sampled_primary_quality_accepted": false,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI28",
+      "bvid": "BV1FTMS6cEjW",
+      "title": "巨构：玄同无待〖AI全民制作人〗",
+      "uploader": "巨构AI",
+      "url": "https://www.bilibili.com/video/BV1FTMS6cEjW/",
+      "views_evidence": "228.3万",
+      "views_snapshot_approx": 2283000,
+      "ai_participation_evidence": "含AI生成标记；标签声明AI生成",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "巨型圆门／尺度参照／雾与水流",
+        "门框借景／洞口构图／悬浮宫阙",
+        "水面倒影／月亮／云墙／俯瞰",
+        "门缝光／雾层平移／圆形框景",
+        "树影／桥轴线／片尾标志"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1FTMS6cEjW/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1FTMS6cEjW/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1FTMS6cEjW",
+        "url": "https://www.bilibili.com/video/BV1FTMS6cEjW/",
+        "page_title": "巨构：玄同无待【AI全民制作人】",
+        "page_views_display": "229.4万",
+        "page_views_approx": 2294000,
+        "publication_display": "2026-08-05 20:13:40",
+        "page_snapshot_saved_at_utc": "2026-10-20T10:22:37.815598+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI29",
+      "bvid": "BV1Mbgj69EFu",
+      "title": "让善恶有报，但由算法控制，你愿意吗？〖AI全民制作人〗",
+      "uploader": "老白的分镜",
+      "url": "https://www.bilibili.com/video/BV1Mbgj69EFu/",
+      "views_evidence": "226.2万",
+      "views_snapshot_approx": 2262000,
+      "ai_participation_evidence": "含AI生成标记；作者称剧情分镜源自训练营演示",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "景别交替／门框前景遮挡／底部对白字",
+        "黑白回忆插入／彩色恢复",
+        "车内正反打／反应特写／车灯增亮与碰撞连接",
+        "黑场作段落分隔",
+        "物件插入／门缝局部构图／电光高亮",
+        "建立镜头→事故全景→手机细节的因果蒙太奇",
+        "走廊/病房正反打／冷色场景统一／黑底署名"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1Mbgj69EFu/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1Mbgj69EFu/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1Mbgj69EFu",
+        "url": "https://www.bilibili.com/video/BV1Mbgj69EFu/",
+        "page_title": "让善恶有报，但由算法控制，你愿意吗？【AI全民制作人】",
+        "page_views_display": "265.7万",
+        "page_views_approx": 2657000,
+        "publication_display": "2026-08-13 03:00:00",
+        "page_snapshot_saved_at_utc": "2026-10-20T09:18:51.602853+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 397,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI30",
+      "bvid": "BV1Exg46iETf",
+      "title": "巨构：山海须弥〖AI全民制作人〗",
+      "uploader": "巨构AI",
+      "url": "https://www.bilibili.com/video/BV1Exg46iETf/",
+      "views_evidence": "28.9万",
+      "views_snapshot_approx": 289000,
+      "ai_participation_evidence": "含AI生成标记；UP标示AI创作者",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "巨构剪影／暖天际／细小人物",
+        "圆孔借景／层塔／山海云雾",
+        "云海孤阙／门缝暖光",
+        "山体人面／同心光门",
+        "瀑布山海／雾中高塔／缓慢拉远"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1Exg46iETf/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1Exg46iETf/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1Exg46iETf",
+        "url": "https://www.bilibili.com/video/BV1Exg46iETf/",
+        "page_title": "巨构：山海须弥【AI全民制作人】",
+        "page_views_display": "30.3万",
+        "page_views_approx": 303000,
+        "publication_display": "2026-07-23 05:48:35",
+        "page_snapshot_saved_at_utc": "2026-10-20T14:51:50.366665+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 60.975599,
+            "width": null,
+            "height": null
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI31",
+      "bvid": "BV1Rtut6cEBR",
+      "title": "巨构：缘起性空〖AI全民制作人〗",
+      "uploader": "巨构AI",
+      "url": "https://www.bilibili.com/video/BV1Rtut6cEBR/",
+      "views_evidence": "106.9万",
+      "views_snapshot_approx": 1069000,
+      "ai_participation_evidence": "含AI生成标记；标签声明AI生成",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "圆门／月亮／巨墙瀑布",
+        "浮空门楼／侧向桥梁／树影投射",
+        "斜构图／洞口落水／巨门仰拍",
+        "中心天光／瀑布轴线／镜面倒影",
+        "圆环框景／云海寺院／红柱片尾"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1Rtut6cEBR/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1Rtut6cEBR/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1Rtut6cEBR",
+        "url": "https://www.bilibili.com/video/BV1Rtut6cEBR/",
+        "page_title": "巨构：缘起性空【AI全民制作人】",
+        "page_views_display": "110.1万",
+        "page_views_approx": 1101000,
+        "publication_display": "2026-08-07 03:43:36",
+        "page_snapshot_saved_at_utc": "2026-10-20T15:01:56.675433+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 61.748,
+            "width": null,
+            "height": null
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "局部机制／局限参考",
+      "sampled_primary_quality_accepted": false,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI32",
+      "bvid": "BV1bhuc6VEym",
+      "title": "巨构：行深般若〖天阙纪元〗",
+      "uploader": "巨构AI",
+      "url": "https://www.bilibili.com/video/BV1bhuc6VEym/",
+      "views_evidence": "168.7万",
+      "views_snapshot_approx": 1687000,
+      "ai_participation_evidence": "含AI生成标记；标签声明AI生成",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "前景松枝／云上红宫／崖台人物",
+        "巨门云浪／崖中宫／室内天光",
+        "长廊柱列／消失点／雾中人物",
+        "崖宫瀑布／云中楼阁／斜阶与天桥",
+        "镜面倒影／斜光／圆门月轮"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1bhuc6VEym/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1bhuc6VEym/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1bhuc6VEym",
+        "url": "https://www.bilibili.com/video/BV1bhuc6VEym/",
+        "page_title": "巨构：行深般若【天阙纪元】",
+        "page_views_display": "172.5万",
+        "page_views_approx": 1725000,
+        "publication_display": "2026-08-04 03:09:13",
+        "page_snapshot_saved_at_utc": "2026-10-20T15:09:28.429934+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 62,
+            "width": null,
+            "height": null
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI33",
+      "bvid": "BV1wyuG6PEXH",
+      "title": "巨构：心行处灭〖AI全民制作人〗",
+      "uploader": "巨构AI",
+      "url": "https://www.bilibili.com/video/BV1wyuG6PEXH/",
+      "views_evidence": "43.2万",
+      "views_snapshot_approx": 432000,
+      "ai_participation_evidence": "含AI生成标记；标签声明AI生成",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "云上红塔／长殿／尺度人物",
+        "暗框亮门／竹影暖墙／圆孔取景",
+        "悬空长廊／云海／红色圆门",
+        "柱列消失点／云瀑与岩树",
+        "阳台人物／长白飘带／建筑视差",
+        "金环框景／极简白墙／标志淡入"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1wyuG6PEXH/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1wyuG6PEXH/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1wyuG6PEXH",
+        "url": "https://www.bilibili.com/video/BV1wyuG6PEXH/",
+        "page_title": "巨构：心行处灭【AI全民制作人】",
+        "page_views_display": "45.4万",
+        "page_views_approx": 454000,
+        "publication_display": "2026-08-08 18:30:00",
+        "page_snapshot_saved_at_utc": "2026-10-20T15:17:58.725679+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 62,
+            "width": null,
+            "height": null
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "局部机制／局限参考",
+      "sampled_primary_quality_accepted": false,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI34",
+      "bvid": "BV1Hzpm6hEaY",
+      "title": "Claude热唱：《您的账号已被封禁》",
+      "uploader": "风霜秋雨",
+      "url": "https://www.bilibili.com/video/BV1Hzpm6hEaY/",
+      "views_evidence": "3万（实际页面快照，2026-10-20T00:32:57.424025+00:00）",
+      "ai_participation_evidence": "第一方简介列词/PV为Opus5.5、曲为SunoV6、图为GPT；不能据此推定无人工选择、修订和合成。",
+      "evidence_type": "first_party_page_snapshot_and_source_visual_sampling",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-20",
+      "effects_observed": [
+        "海报式标题揭示、描边字幕、标签式排版",
+        "截图卡片拼贴、证据墙、印章砸落",
+        "转场",
+        "局部替换",
+        "字效与数据动画"
+      ],
+      "views_snapshot_approx": 30000,
+      "stratum_from_snapshot": "低于10万候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "已核第一方页面并抽样检查实际画面；未全片连续音画观看、未完成精品验收；页面播放量为保存时快照，制作方法是作者声明。",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1Hzpm6hEaY/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "user_reference_reviewed_before_candidate_inclusion",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1Hzpm6hEaY/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1Hzpm6hEaY",
+        "url": "https://www.bilibili.com/video/BV1Hzpm6hEaY/",
+        "page_title": "Claude热唱：《您的账号已被封禁》",
+        "page_views_display": "3万",
+        "page_views_approx": 30000,
+        "publication_display": "2026-10-14 08:04:16",
+        "page_snapshot_saved_at_utc": "2026-10-20T00:32:57.424025+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 167,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "user_screenshot_reference": true,
+      "candidate_replacement": {
+        "superseded_bvid": "BV1ftrLBCEEo",
+        "reason": "原候选简介说明使用网络素材，属于AI素材混剪，生成与后期归属未核；优先第一方明确分工的用户指定作品。",
+        "audit_file": "sample-replacements.json"
+      },
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI35",
+      "bvid": "BV1ZTJ76FEAD",
+      "title": "巨构：被遗忘者",
+      "uploader": "巨构AI",
+      "url": "https://www.bilibili.com/video/BV1ZTJ76FEAD/",
+      "views_evidence": "37.6万",
+      "views_snapshot_approx": 376000,
+      "ai_participation_evidence": "含AI生成标记；UP标示AI创作者",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "低明度冷蓝／红色巨构／深度雾",
+        "红色机械弧门／白色体积光／环状巨物",
+        "双通信塔／红裙状塔基／烟雾",
+        "斜向巨舰／云中触须／碟形天线",
+        "云海红色环臂／中心光柱"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1ZTJ76FEAD/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1ZTJ76FEAD/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1ZTJ76FEAD",
+        "url": "https://www.bilibili.com/video/BV1ZTJ76FEAD/",
+        "page_title": "巨构：被遗忘者",
+        "page_views_display": "39万",
+        "page_views_approx": 390000,
+        "publication_display": "2026-06-12 17:32:05",
+        "page_snapshot_saved_at_utc": "2026-10-20T22:54:47.659845+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 34.24943,
+            "width": 2154,
+            "height": 3840
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI36",
+      "bvid": "BV1uUfmBAEtc",
+      "title": "原创AI漫剧《恶仙》第一集，中式克苏鲁风格",
+      "uploader": "众乐乐漫剧场",
+      "url": "https://www.bilibili.com/video/BV1uUfmBAEtc/",
+      "views_evidence": "76.8万",
+      "views_snapshot_approx": 768000,
+      "ai_participation_evidence": "标题与简介声明原创AI漫剧；平台提示疑似AI合成",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "黑底提示／红黑环境／书法标题",
+        "对白字幕／主客观镜头和正反打",
+        "透明发光人群／水面反射",
+        "呼气能量丝带／花苞打开／人物显露／红烟与竖书法",
+        "花内微缩燃烧建筑／火焰烟柱",
+        "低机位细节／反应镜头／延迟展示",
+        "片尾动作蒙太奇／书法职员字／能量爆闪与推近"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1uUfmBAEtc/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1uUfmBAEtc/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1uUfmBAEtc",
+        "url": "https://www.bilibili.com/video/BV1uUfmBAEtc/",
+        "page_title": "原创AI漫剧《恶仙》第一集，中式克苏鲁风格，更多正片内容即将解锁，敬请期待！",
+        "page_views_display": "78.5万",
+        "page_views_approx": 785000,
+        "publication_display": "2026-02-24 03:25:17",
+        "page_snapshot_saved_at_utc": "2026-10-20T09:18:12.604220+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "platform_suspected",
+        "browser_media": [
+          {
+            "duration": 213,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI37",
+      "bvid": "BV18KAhzbE7C",
+      "title": "原创AI漫剧《恶仙》第二回：诸天倾塌妖门开，万恶噬生炼狱来",
+      "uploader": "众乐乐漫剧场",
+      "url": "https://www.bilibili.com/video/BV18KAhzbE7C/",
+      "views_evidence": "36.7万",
+      "views_snapshot_approx": 367000,
+      "ai_participation_evidence": "简介声明原创AI漫剧；平台提示疑似AI合成",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "黑底说明／眼部极近景／冷暗室内反打",
+        "城市俯拍／红云巨门／巨大阴影",
+        "红雾吞没／飞行怪物／燃烧建筑",
+        "眼部黑烟生物／追随运镜／书法名牌",
+        "眼部细节／倒地／火场双人／扭曲",
+        "红色巨眼／月下戏院／飞钱币／大书法",
+        "人物名牌／红幕／近景反打",
+        "灰底红色局部保留／团队书法片尾／冲击环"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV18KAhzbE7C/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV18KAhzbE7C/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV18KAhzbE7C",
+        "url": "https://www.bilibili.com/video/BV18KAhzbE7C/",
+        "page_title": "原创AI漫剧《恶仙》 第二回：诸天倾塌妖门开，万恶噬生炼狱来",
+        "page_views_display": "37万",
+        "page_views_approx": 370000,
+        "publication_display": "2026-02-27 23:04:56",
+        "page_snapshot_saved_at_utc": "2026-10-20T23:07:17.131771+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "platform_suspected",
+        "browser_media": [
+          {
+            "duration": 267,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI38",
+      "bvid": "BV1CEQmBTEmY",
+      "title": "《恶仙》第四回：此身已堕无间狱 化作仙门嗜血粮",
+      "uploader": "众乐乐漫剧场",
+      "url": "https://www.bilibili.com/video/BV1CEQmBTEmY/",
+      "views_evidence": "50.9万/51.0万",
+      "views_snapshot_approx": 510000,
+      "ai_participation_evidence": "作者声明AI合成；简介声明原创AI漫剧",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "黑底说明／赤色书法片名／燃烧寺院",
+        "发丝触手／缠绕／多眼血肉武器",
+        "红色地面电环／刀光／残烬",
+        "漂浮人头／多手怪物／眼球点亮",
+        "战斗远近景／掐喉细节／血肉变形",
+        "火光散景对话／黑烟聚散／泪滴特写",
+        "废墟与仰卧人物／抬手灰屑／笑脸近景",
+        "灰红片尾／白色书法署名／未完待续"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1CEQmBTEmY/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1CEQmBTEmY/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1CEQmBTEmY",
+        "url": "https://www.bilibili.com/video/BV1CEQmBTEmY/",
+        "page_title": "《恶仙》第四回：此身已堕无间狱 化作仙门嗜血粮",
+        "page_views_display": "51.8万",
+        "page_views_approx": 518000,
+        "publication_display": "2026-03-25 00:59:10",
+        "page_snapshot_saved_at_utc": "2026-10-20T23:32:09.602729+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 499.6,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI39",
+      "bvid": "BV1KSE965EqR",
+      "title": "〖永生世界02〗为什么全世界所有人都永生不死〖AI全民制作人〗",
+      "uploader": "胡搞瞎搞MessAround",
+      "url": "https://www.bilibili.com/video/BV1KSE965EqR/",
+      "views_evidence": "35.2万",
+      "views_snapshot_approx": 352000,
+      "ai_participation_evidence": "含AI生成标记，作者原创AI动画系列",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "霓虹城市／红白标题／下方字幕",
+        "矿晶反光／连续抬镜／暗部层次",
+        "实验容器／发光DNA／浅景深",
+        "花海梦境／暖冷对照／景别反打",
+        "道具细节／群像／对白反打",
+        "交叉剪辑／焊接火花／金色能量装置",
+        "雨丝／机器人／红色光束与击退",
+        "对白近景／侧脸收尾／片尾字"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1KSE965EqR/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1KSE965EqR/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1KSE965EqR",
+        "url": "https://www.bilibili.com/video/BV1KSE965EqR/",
+        "page_title": "【永生世界02】为什么全世界所有人都永生不死【AI全民制作人】",
+        "page_views_display": "35.2万",
+        "page_views_approx": 352000,
+        "publication_display": "2026-06-10 02:10:00",
+        "page_snapshot_saved_at_utc": "2026-10-20T14:36:14.451946+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 561,
+            "width": null,
+            "height": null
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI40",
+      "bvid": "BV1qmMR6MEMW",
+      "title": "原创AIGC剧集《有异人》第二集〖AI全民制作人〗",
+      "uploader": "失败的漫2026（据同系列主页信息）",
+      "url": "https://www.bilibili.com/video/BV1qmMR6MEMW/",
+      "views_evidence": "16.8万",
+      "views_snapshot_approx": 168000,
+      "ai_participation_evidence": "标题原创AIGC剧集，含AI生成标记",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "潮湿未来城市／景深／冷暖色",
+        "悬浮小生物／镜面／纸张飞行",
+        "白色笔刷标题／斜向构图",
+        "纸马／游戏屏幕／KO字卡",
+        "碎片／摩托细节链／动作反应",
+        "燃烧符纸／烟雾遮挡／悬石成墙",
+        "港口建立镜头／对话反打／HUD",
+        "像素风片尾／滚动名单"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1qmMR6MEMW/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1qmMR6MEMW/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1qmMR6MEMW",
+        "url": "https://www.bilibili.com/video/BV1qmMR6MEMW/",
+        "page_title": "原创AIGC剧集《有异人》第二集【AI全民制作人】",
+        "page_views_display": "17.5万",
+        "page_views_approx": 175000,
+        "publication_display": "2026-08-03 21:00:00",
+        "page_snapshot_saved_at_utc": "2026-10-20T14:21:15.689745+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI41",
+      "bvid": "BV1ZuZMBhERy",
+      "title": "〖新宿决战〗第一话 seedance 2.0 制作",
+      "uploader": "-桥海鱼-",
+      "url": "https://www.bilibili.com/video/BV1ZuZMBhERy/",
+      "views_evidence": "95.4万",
+      "views_snapshot_approx": 954000,
+      "ai_participation_evidence": "作者声明AI合成；简介说明Seedance2.0制作",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "漂浮碎石／紫色光球／城市爆炸／漫画拟声字",
+        "极近景对话／手势插镜／蓝色边光",
+        "紫色贯穿光束／高速拳脚／橙色撞击火星",
+        "短黑场／监看室群像／长对话近景",
+        "喷水动作／橙绿纯色比喻插镜",
+        "人物轮换／红蓝分区／烟气／闪电边缘",
+        "漫画拟声／黑白方框隧道／推近／黑球光爆"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1ZuZMBhERy/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1ZuZMBhERy/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1ZuZMBhERy",
+        "url": "https://www.bilibili.com/video/BV1ZuZMBhERy/",
+        "page_title": "【 新 宿 决 战 】第一话 seedance 2.0 制作",
+        "page_views_display": "97万",
+        "page_views_approx": 970000,
+        "publication_display": "2026-02-16 00:02:41",
+        "page_snapshot_saved_at_utc": "2026-10-20T23:30:15.231200+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 378,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI42",
+      "bvid": "BV1V6ZrBJEoM",
+      "title": "〖新宿决战〗第二话 seedance 2.0 制作",
+      "uploader": "-桥海鱼-",
+      "url": "https://www.bilibili.com/video/BV1V6ZrBJEoM/",
+      "views_evidence": "110.3万",
+      "views_snapshot_approx": 1103000,
+      "ai_participation_evidence": "作者声明AI合成；简介说明Seedance2.0制作",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "接上集／球形黑域／白色径向爆光／漫画字",
+        "红色刀痕／面部伤口／旋转城市斩击",
+        "监看室解释／漂浮红块／怪物寺庙",
+        "红黑冲击构图／紫色斜分屏／漫画屏幕",
+        "长对话／红蓝天幕／遮挡前景",
+        "电视弯曲／水平故障／红蓝笔刷漩涡",
+        "人物反应／短黑场／白色气流／近身对打",
+        "英文小字／拳脚对打／红光贯城／片尾"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1V6ZrBJEoM/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1V6ZrBJEoM/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1V6ZrBJEoM",
+        "url": "https://www.bilibili.com/video/BV1V6ZrBJEoM/",
+        "page_title": "【 新 宿 决 战 】第二话 seedance 2.0 制作",
+        "page_views_display": "111.2万",
+        "page_views_approx": 1112000,
+        "publication_display": "2026-02-19 18:33:18",
+        "page_snapshot_saved_at_utc": "2026-10-20T23:35:44.294473+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 288,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI43",
+      "bvid": "BV1JuMB6FERb",
+      "title": "〖新宿决战〗雨爱 AI制作〖B萌应援〗",
+      "uploader": "-桥海鱼-",
+      "url": "https://www.bilibili.com/video/BV1JuMB6FERb/",
+      "views_evidence": "74.1万",
+      "views_snapshot_approx": 741000,
+      "ai_participation_evidence": "含AI生成标记；作者称AI制作的兴趣二创",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "霓虹废墟／紫色巨球／漫画城市／手势",
+        "高速拳脚／贯楼光束／烟团碎石",
+        "手部发光／极近脸／撞击火花／车厢战斗",
+        "黑白空间方框／怪物庙宇／红色刀痕／蓝眼",
+        "伤口消退／近身短切／红球光束",
+        "黑白陨坑／紫黑晶体／金轮出水",
+        "召唤碎石／红色俯冲／冲击帧／城市烟尘"
+      ],
+      "stratum_from_snapshot": "10万及以上候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1JuMB6FERb/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1JuMB6FERb/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1JuMB6FERb",
+        "url": "https://www.bilibili.com/video/BV1JuMB6FERb/",
+        "page_title": "【 新 宿 决 战 】雨爱 AI制作【B萌应援】",
+        "page_views_display": "79.7万",
+        "page_views_approx": 797000,
+        "publication_display": "2026-08-04 20:00:00",
+        "page_snapshot_saved_at_utc": "2026-10-20T23:46:17.795461+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 109.969908,
+            "width": 3840,
+            "height": 2160
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "局部机制／局限参考",
+      "sampled_primary_quality_accepted": false,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI44",
+      "bvid": "BV1vthX6XEwm",
+      "title": "[opus 5.5] world.execute(me);",
+      "uploader": "南辰燏炚",
+      "url": "https://www.bilibili.com/video/BV1vthX6XEwm/",
+      "views_evidence": "1.4万",
+      "views_snapshot_approx": 14000,
+      "ai_participation_evidence": "作者称Claude定概念写Canvas/WebGL代码逐帧渲染，Gemini辅助听歌审片",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "系统启动／复古窗口／棋盘透明底／位深提升",
+        "点云聚形／坐标网格／数学曲线／波形扭曲／羽翼",
+        "状态条堆叠／代码底纹／角色保持",
+        "仿编辑器／材质切换／扫描线换装",
+        "设置窗／昼夜状态／同心环／完成提示／降色",
+        "光标叙事／窗口拖尾／三人复制／故障与反色",
+        "递归窗口／栈溢出／碎窗散射／多语言数字牌",
+        "执行字条／多光标／爱心曲线／关窗拆解／确认片尾"
+      ],
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1vthX6XEwm/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1vthX6XEwm/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1vthX6XEwm",
+        "url": "https://www.bilibili.com/video/BV1vthX6XEwm/",
+        "page_title": "[opus 5.5] world.execute(me);",
+        "page_views_display": "2万",
+        "page_views_approx": 20000,
+        "publication_display": "2026-09-25 23:30:26",
+        "page_snapshot_saved_at_utc": "2026-10-20T10:28:25.473546+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI45",
+      "bvid": "BV1rTKU6WEat",
+      "title": "第38届百花奖AIGC推优 最佳短片《断鞘》",
+      "uploader": "孙布尔AIGC / 太奇思维（联合投稿）",
+      "url": "https://www.bilibili.com/video/BV1rTKU6WEat/",
+      "views_evidence": "3.7万",
+      "views_snapshot_approx": 37000,
+      "ai_participation_evidence": "简介列出MidjourneyV8.1、GPTImage2、Seedance2.0；原创AI历史战争短片",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "冷蓝雪战／前景武器／宽近景交替／火焰",
+        "竖排书法人物介绍／冷暖室内对照",
+        "山地建立镜头／骑行群像／物件反应插入",
+        "秋林训练／飞行矛尖／叶片／甩镜接落点",
+        "夜雪冷蓝／营帐暖火／武器极近景／群像动作",
+        "手与武器细节／旧纸信件／人物反应",
+        "骑兵大远景→马腿近景→队伍正面／雪尘",
+        "暖色人物／夕照剪影／书法片名／制作署名"
+      ],
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1rTKU6WEat/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "first_party_snapshot": {
+        "bvid": "BV1rTKU6WEat",
+        "url": "https://www.bilibili.com/video/BV1rTKU6WEat/",
+        "page_title": "第38届百花奖AIGC推优 最佳短片《断鞘》",
+        "page_views_display": "3.9万",
+        "page_views_approx": 39000,
+        "publication_display": "2026-07-20 01:14:56",
+        "page_snapshot_saved_at_utc": "2026-10-20T10:47:58.021193+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 1021,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "visual_review_note": "evidence/BV1rTKU6WEat/REVIEW.md",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI46",
+      "bvid": "BV1kicszZEwY",
+      "title": "原创自制连载〖AIGC〗浮光第五集！",
+      "uploader": "草帽小蔡",
+      "url": "https://www.bilibili.com/video/BV1kicszZEwY/",
+      "views_evidence": "3.0万",
+      "views_snapshot_approx": 30000,
+      "ai_participation_evidence": "作者称本集全部视频由Seedance2.0制作，包含人工制作与筛选",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "前情动作／白底竖排片名／对白字幕",
+        "追逐低机位／武器能量束／面部反应插入",
+        "悬浮符文／蓝色能量链／环绕光带",
+        "双方交替／电链碰撞／近景反应",
+        "反应与战斗／道具细节／队列离场／城市建立",
+        "暖冷场景对照／头盔反射／对话正反打",
+        "人物→脚踩装甲特写→举剑→撞击俯视",
+        "能量球／远景行星／霓虹招牌／尾部日常"
+      ],
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1kicszZEwY/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1kicszZEwY/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1kicszZEwY",
+        "url": "https://www.bilibili.com/video/BV1kicszZEwY/",
+        "page_title": "原创自制连载【AIGC】浮光第五集！【B站AI创作大赛-开放赛道】",
+        "page_views_display": "3万",
+        "page_views_approx": 30000,
+        "publication_display": "2026-02-10 22:23:45",
+        "page_snapshot_saved_at_utc": "2026-10-20T10:37:19.286463+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "final_visual_research_role": "局部机制／局限参考",
+      "sampled_primary_quality_accepted": false,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI47",
+      "bvid": "BV1vec5zJEiA",
+      "title": "Seedance2.0官方先导片",
+      "uploader": "2xLabs",
+      "url": "https://www.bilibili.com/video/BV1vec5zJEiA/",
+      "views_evidence": "3870",
+      "views_snapshot_approx": 3870,
+      "ai_participation_evidence": "简介列出AIGC/剪辑/美术2xLabs与即梦Seedance2.0品牌合作",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "暗场渐暗／黑底双语小字／人物近景",
+        "星空悬浮／粒子年份变形／人物剪影",
+        "舞厅群像／冷暖转场／双人反应／舞台光",
+        "走廊追逐／画风切换／风格化舞蹈",
+        "悬浮群岛／宇宙环线／巨叶花园／透视城市",
+        "定格玩偶质感／舞台灯色／手部插入",
+        "写实反应／黑底文字／品牌联名尾卡"
+      ],
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1vec5zJEiA/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1vec5zJEiA/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1vec5zJEiA",
+        "url": "https://www.bilibili.com/video/BV1vec5zJEiA/",
+        "page_title": "Seedance2.0官方先导片",
+        "page_views_display": "3913",
+        "page_views_approx": 3913,
+        "publication_display": "2026-02-12 21:39:53",
+        "page_snapshot_saved_at_utc": "2026-10-20T10:57:07.589708+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI48",
+      "bvid": "BV1sMPgzaE19",
+      "title": "萌宠拆家！Seedance武侠动画！《侠影宠梦》",
+      "uploader": "电池没电ing（据同系列信息）",
+      "url": "https://www.bilibili.com/video/BV1sMPgzaE19/",
+      "views_evidence": "1.7万",
+      "views_snapshot_approx": 17000,
+      "ai_participation_evidence": "简介列明Seedance2.0/BananoPro/Tapnow画面，MINMAX音乐，剪映剪辑",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "纸纹／墨迹标题",
+        "拟人毛发／茶馆反打／景深",
+        "月夜剪影／跳跃／刀光与冲击尘",
+        "水墨风格化／黑白冲击／墨弧",
+        "气浪／云尘涡旋／碎片",
+        "细节到表情／幻想接现实／冲击线",
+        "水墨片尾／宠物彩蛋／拉远"
+      ],
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1sMPgzaE19/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1sMPgzaE19/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1sMPgzaE19",
+        "url": "https://www.bilibili.com/video/BV1sMPgzaE19/",
+        "page_title": "萌宠拆家！Seedance武侠动画！《侠影宠梦》【B站AI创作大赛-开放赛道】",
+        "page_views_display": "1.7万",
+        "page_views_approx": 17000,
+        "publication_display": "2026-03-01 05:50:15",
+        "page_snapshot_saved_at_utc": "2026-10-20T14:41:42.129258+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "declared_content",
+        "browser_media": [
+          {
+            "duration": 182,
+            "width": null,
+            "height": null
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI49",
+      "bvid": "BV1AQcvzbEd1",
+      "title": "Seedance武侠动作尝试，确实不一样。结尾附流程",
+      "uploader": "电池没电ing",
+      "url": "https://www.bilibili.com/video/BV1AQcvzbEd1/",
+      "views_evidence": "5.6万",
+      "views_snapshot_approx": 56000,
+      "ai_participation_evidence": "标题Seedance动作尝试，平台提示疑似AI合成",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": [
+        "雪景气氛／人物亮相／景别推近",
+        "武器飞行特写／白色弧形枪影／腾空动作",
+        "环绕机位／近景武器碰撞／火星",
+        "双人缠斗／遮挡过肩／头发与衣摆跟随",
+        "反应近景／武器落地／开头构图回环／雪地红色点缀",
+        "参考图并排／黑底流程说明／分时段提示文本"
+      ],
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1AQcvzbEd1/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "visual_review_note": "evidence/BV1AQcvzbEd1/REVIEW.md",
+      "first_party_snapshot": {
+        "bvid": "BV1AQcvzbEd1",
+        "url": "https://www.bilibili.com/video/BV1AQcvzbEd1/",
+        "page_title": "Seedance武侠动作尝试，确实不一样。结尾附流程",
+        "page_views_display": "5.7万",
+        "page_views_approx": 57000,
+        "publication_display": "2026-02-12 00:45:19",
+        "page_snapshot_saved_at_utc": "2026-10-20T10:09:01.402048+00:00",
+        "ai_label_visible": true,
+        "ai_label_kind": "platform_suspected",
+        "browser_media": [
+          {
+            "duration": 42.133,
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "<10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    },
+    {
+      "id": "AI50",
+      "bvid": "BV1SgaY64EG5",
+      "title": "Claude用代码搓了13015帧4K视频然后吃了你13亿Token",
+      "uploader": "穆阿蒂布",
+      "url": "https://www.bilibili.com/video/BV1SgaY64EG5/",
+      "views_evidence": "8.6万（第一方搜索索引，主线程核实）；本地旧metadata30.7万冲突",
+      "views_snapshot_approx": 86000,
+      "ai_participation_evidence": "简介称Three.js/WebGL2+GLSL，未使用图像视频生成模型（主线程核实）",
+      "evidence_type": "bilibili_search_index",
+      "actual_playback_watched": false,
+      "status": "visual_samples_reviewed_not_full_av",
+      "verified_at": "2026-10-19",
+      "effects_observed": null,
+      "stratum_from_snapshot": "10万以下候选",
+      "quality_review_completed": false,
+      "metadata_limitations": "直接页面访问412；以第一方页面搜索索引作候选元数据，播放量不是实时值；未逐条播放，不据标题判断特效",
+      "source_urls": [
+        "https://www.bilibili.com/video/BV1SgaY64EG5/"
+      ],
+      "play_count_is_realtime": false,
+      "initial_metadata_status": "candidate_metadata_only",
+      "visual_samples_reviewed": true,
+      "continuous_av_watched": false,
+      "local_media_acquired": true,
+      "first_party_snapshot": {
+        "bvid": "BV1SgaY64EG5",
+        "url": "https://www.bilibili.com/video/BV1SgaY64EG5/",
+        "page_title": "Claude用代码搓了13015帧4K视频然后吃了你13亿Token",
+        "page_views_display": "38万",
+        "page_views_approx": 380000,
+        "publication_display": "2026-09-27 05:54:20",
+        "page_snapshot_saved_at_utc": "2026-10-20T10:43:35.105286+00:00",
+        "ai_label_visible": false,
+        "ai_label_kind": null,
+        "browser_media": [],
+        "caution": "Public page snapshot, not a live counter; displayed publication time may use browser timezone. Does not prove full viewing or production method. A platform suspicion label is distinct from an author declaration."
+      },
+      "current_snapshot_stratum": "≥10万",
+      "final_visual_research_role": "主要视觉研究样本",
+      "sampled_primary_quality_accepted": true,
+      "full_video_quality_certified": false
+    }
+  ],
+  "current_updated_date": "2026-10-20",
+  "current_evidence_counts": {
+    "candidate_count": 50,
+    "visual_samples_reviewed": 50,
+    "local_media_acquired": 50,
+    "continuous_av_watched": 0,
+    "quality_accepted": 0,
+    "first_party_page_snapshots": 50,
+    "first_party_high_play_snapshots": 28,
+    "first_party_low_play_snapshots": 22
+  },
+  "initial_counts_before_user_reference_inclusion": {
+    "candidates": 50,
+    "high_play_snapshot": 27,
+    "low_play_snapshot": 23,
+    "quality_reviewed": 0,
+    "watched_by_this_agent": 0
+  },
+  "candidate_replacement_audit": "sample-replacements.json",
+  "final_selection": "formal_samples.json",
+  "final_selection_scope": "对已实际查看的全片间隔概览及选定局部连续帧作画面研究选样；不认证100条连续全片观看、全片精品、原创性或全流程制作方式。音画对拍未核验。"
+}

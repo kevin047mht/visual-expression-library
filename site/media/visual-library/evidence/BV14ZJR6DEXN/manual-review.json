@@ -1,0 +1,18 @@
+{
+  "bvid": "BV14ZJR6DEXN",
+  "group": "ai_candidate",
+  "title": "猜猜这是哪个AI做的，Opus 5.5还是Deepseek 1017？",
+  "reviewed": true,
+  "continuous_av_watched": false,
+  "coverage": "39 overview frames every 4s on 720p review proxy; 0–2s and 5–7s at 15fps; 12–16s and 82–86s at 10fps. Actually inspected. Original 4K retained, audio not reviewed.",
+  "review_note": "REVIEW.md",
+  "effects": [
+    {"time": [0, 2], "name": "打字机／输入光标", "direct_export": "容易"},
+    {"time": [12, 16], "name": "径向线束／线框图形空间变换", "direct_export": "基础版容易，连续空间需调试"},
+    {"time": [16, 20], "name": "棱镜分光／光束辉光", "direct_export": "基础视觉版容易；物理光学未核验"},
+    {"time": [24, 40], "name": "关键词发光／线框装置／文字轨道", "direct_export": "字效容易，装置需设计"},
+    {"time": [82, 86], "name": "环形多屏／空间运镜／HUD字幕", "direct_export": "中等，需相机和空间布局调试"}
+  ],
+  "rapid_switching": {"window": [82, 86], "minimum_major_composition_changes": null, "caution": "Mainly camera movement, local charts and light updates; no hard-cut count. A scene threshold yielding zero is not proof of zero transitions."},
+  "attribution_caution": "AI label and account self-description support AI participation; exact model not revealed in inspected page. Cover typography not assumed to be in-video animation."
+}

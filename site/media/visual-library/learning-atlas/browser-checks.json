@@ -1,0 +1,29 @@
+{
+  "checked_at_utc": "2026-10-21T05:48:02.869389+00:00",
+  "browser": "Codex in-app browser",
+  "keyword_search_H02_count": 1,
+  "graphic_and_human_filter_count": 15,
+  "reset_count": 100,
+  "custom_compare": [
+    "AI28",
+    "H41"
+  ],
+  "note_persisted_across_reload": true,
+  "test_note_cleared": true,
+  "mobile_requested_viewport": [
+    390,
+    844
+  ],
+  "mobile_client_and_scroll_width": [
+    375,
+    375
+  ],
+  "default_viewport_restored": true,
+  "site_console_errors_seen": [],
+  "screenshots": [
+    "preview-home.png",
+    "preview-case.png",
+    "preview-mobile.png"
+  ],
+  "notes_export_manual_download_tested": false
+}

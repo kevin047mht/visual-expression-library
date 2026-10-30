@@ -1,0 +1,89 @@
+{
+  "bvid": "BV1Jwhy6BEMJ",
+  "title": "GPT6-Astra眼中的world.execute(me)",
+  "uploader": "野生大K",
+  "duration": 211.937,
+  "url": "https://www.bilibili.com/video/BV1Jwhy6BEMJ/",
+  "offline_view_count": 337389,
+  "metadata_mtime": 1791446907.6531918,
+  "source_sha256": "1d1a952961853513bd297e1318d22aa53ad26520e99fd907c1c19e7122f649b1",
+  "sample_fps": 12,
+  "luma_difference_mean": 0.009648842153348793,
+  "luma_difference_p90": 0.022821078431372554,
+  "pairs_over_0_20": 0,
+  "pairs_total": 2542,
+  "top_windows": [
+    {
+      "start": 155,
+      "end": 160,
+      "mean_luma_difference": 0.038500853304284675,
+      "samples_over_0_20": 0,
+      "sample_pairs": 60
+    },
+    {
+      "start": 150,
+      "end": 155,
+      "mean_luma_difference": 0.03236107480029048,
+      "samples_over_0_20": 0,
+      "sample_pairs": 60
+    },
+    {
+      "start": 15,
+      "end": 20,
+      "mean_luma_difference": 0.02647041575889615,
+      "samples_over_0_20": 0,
+      "sample_pairs": 60
+    },
+    {
+      "start": 185,
+      "end": 190,
+      "mean_luma_difference": 0.021644022331154686,
+      "samples_over_0_20": 0,
+      "sample_pairs": 60
+    },
+    {
+      "start": 145,
+      "end": 150,
+      "mean_luma_difference": 0.02084162581699346,
+      "samples_over_0_20": 0,
+      "sample_pairs": 60
+    },
+    {
+      "start": 160,
+      "end": 165,
+      "mean_luma_difference": 0.02001230482933914,
+      "samples_over_0_20": 0,
+      "sample_pairs": 60
+    },
+    {
+      "start": 165,
+      "end": 170,
+      "mean_luma_difference": 0.01976053013798112,
+      "samples_over_0_20": 0,
+      "sample_pairs": 60
+    },
+    {
+      "start": 180,
+      "end": 185,
+      "mean_luma_difference": 0.01969499364560639,
+      "samples_over_0_20": 0,
+      "sample_pairs": 60
+    }
+  ],
+  "dense": [
+    {
+      "start": 155,
+      "end": 160,
+      "contact_sheet": "evidence/BV1Jwhy6BEMJ/dense-1.jpg",
+      "clip": "evidence/BV1Jwhy6BEMJ/excerpt-1.mp4"
+    },
+    {
+      "start": 150,
+      "end": 155,
+      "contact_sheet": "evidence/BV1Jwhy6BEMJ/dense-2.jpg",
+      "clip": "evidence/BV1Jwhy6BEMJ/excerpt-2.mp4"
+    }
+  ],
+  "coverage": "Systematic still sampling and two dense excerpts; not continuous audiovisual viewing.",
+  "method_limit": "Luminance differences measure visual activity, not edits; flashes, camera motion and animation can trigger them."
+}

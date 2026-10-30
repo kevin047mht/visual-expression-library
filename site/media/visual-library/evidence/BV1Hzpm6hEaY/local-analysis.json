@@ -1,0 +1,89 @@
+{
+  "bvid": "BV1Hzpm6hEaY",
+  "title": "",
+  "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\测试\\bilibili-editing-study\\.local-media\\BV1Hzpm6hEaY.mp4",
+  "source_sha256": "c993e6f515269101ebc64b57f58cece1877c3479f8aefc755608add1cce47ffc",
+  "duration": 166.250667,
+  "original_fps": 30.0,
+  "width": 1920,
+  "height": 1080,
+  "has_audio": true,
+  "overview_step": 4.0,
+  "overview_frames": 42,
+  "scene_threshold": 0.24,
+  "scene_candidates": [
+    8.966688,
+    9.0,
+    22.066688,
+    26.266687,
+    30.933312,
+    30.966687,
+    47.533313,
+    50.7,
+    59.466687,
+    61.3,
+    64.3,
+    67.533313,
+    71.166687,
+    74.1,
+    78.4,
+    80.066688,
+    83.0,
+    83.033313,
+    99.333313,
+    112.5,
+    112.533313,
+    125.766688,
+    125.8,
+    129.0,
+    130.6,
+    132.333313,
+    139.266687,
+    152.3,
+    152.333313,
+    165.433312
+  ],
+  "review_windows": [
+    {
+      "start": 80.0,
+      "end": 84.0,
+      "scene_candidate_count": 3,
+      "scene_candidates": [
+        80.066688,
+        83.0,
+        83.033313
+      ],
+      "dense_start": 81.09999999999994,
+      "dense_fps": 15,
+      "dense_seconds": 2.0,
+      "clip": "evidence/BV1Hzpm6hEaY/excerpt-1.mp4",
+      "contact_sheets": [
+        "evidence/BV1Hzpm6hEaY/dense-1-1.jpg",
+        "evidence/BV1Hzpm6hEaY/dense-1-2.jpg"
+      ]
+    },
+    {
+      "start": 129.0,
+      "end": 133.0,
+      "scene_candidate_count": 3,
+      "scene_candidates": [
+        129.0,
+        130.6,
+        132.333313
+      ],
+      "dense_start": 129.0,
+      "dense_fps": 15,
+      "dense_seconds": 2.0,
+      "clip": "evidence/BV1Hzpm6hEaY/excerpt-2.mp4",
+      "contact_sheets": [
+        "evidence/BV1Hzpm6hEaY/dense-2-1.jpg",
+        "evidence/BV1Hzpm6hEaY/dense-2-2.jpg"
+      ]
+    }
+  ],
+  "limits": [
+    "Scene detector candidates are not manually verified edit boundaries.",
+    "Labels use selected source-frame timestamps; sampling has finite temporal resolution.",
+    "Audio is included in clips; inclusion does not prove auditory review."
+  ]
+}

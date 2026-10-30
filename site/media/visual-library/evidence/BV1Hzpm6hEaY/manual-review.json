@@ -1,0 +1,18 @@
+{
+  "bvid": "BV1Hzpm6hEaY",
+  "title": "Claude热唱：《您的账号已被封禁》",
+  "review_status": "source_frames_manually_reviewed_not_full_av_playback",
+  "coverage": {"overview": "0–164秒，每4秒一张，共42张；三张完整概览均已看图", "dense": ["81.100–83.033秒，15fps采样", "129.000–130.933秒，15fps采样"], "audio_reviewed": false},
+  "effects": [
+    {"range": "0–8秒（概览）", "type": "字效", "description": "橘黑插画底图变暗，右侧白色粗体标题配黑描边与细横线，英文装在白条内；人员表逐步出现", "how_to_describe": "海报式标题揭示、描边字幕、标签式排版", "implementation": "现成插画+暗色透明罩+字体描边+位置/透明度关键帧", "ease": "易，素材齐全后可代码直出"},
+    {"range": "12–56秒与84–136秒（概览）", "type": "画面特效", "description": "统一橘底人物立绘上不断叠加网页/邮件/聊天卡片，卡片有投影、轻微旋转和前后遮挡；部分盖红色封字印章", "how_to_describe": "截图卡片拼贴、证据墙、印章砸落", "implementation": "截图裁切、2D旋转缩放/平移、drop shadow；盖章加快速缩小与轻微回弹", "ease": "易到中，需要先整理截图并遮去不应公开内容"},
+    {"range": "59–61秒、81.100–83.033秒", "type": "转场", "description": "约60秒变为黑底英文大字。81.1–82.967秒主体基本稳定，83.033秒出现偏白的新构图，属于白色亮闪辅助换场，而非连续高速换镜", "implementation": "白色遮罩alpha脉冲+底图切换，按帧调持续时间", "ease": "易"},
+    {"range": "129.000–130.933秒", "type": "局部替换", "description": "橘底与指向左侧的人物保持；129秒卡片缩入，130.600秒卡片消失，130.667秒换成GPT路牌，130.867秒另一个半透明帖子卡片渐入。整段主要是前景层替换和淡入，不是真正换了拍摄镜头", "implementation": "独立图片层按时间开关，位移缩放、alpha过渡", "ease": "易"},
+    {"range": "140–164秒（概览）", "type": "字效与数据动画", "description": "人物背对黑板，中文逐字出现配英文；随后绿点阵陆续变红，已封禁计数增长", "implementation": "逐字substring/遮罩揭示，规则圆点网格按时间改色、计数插值", "ease": "易，规则动画很适合代码"}
+  ],
+  "cutting_assessment": "两密集窗口都以卡片、透明度和构图状态变化为主；129–130.933秒没有确认新的主体场景镜头。81–83秒末端有一次闪白辅助主构图替换。不能把FFmpeg列出的29个scene候选当29次剪辑，也不能把图层出现频率当真实切镜速度。4秒概览无法证明帧级切镜频率。",
+  "beat_alignment": "未听审音轨，不能评价是否踩鼓点；只能确认字幕和视觉层有按段落重复。",
+  "quality_assessment": "风格与人物素材统一、卡片叙事信息明确；作为AI辅助静态拼贴歌词MV样本有效，不能证明生成了连贯人物动作。",
+  "evidence": ["overview-1.jpg", "overview-2.jpg", "overview-3.jpg", "dense-1-1.jpg", "dense-1-2.jpg", "dense-2-1.jpg", "dense-2-2.jpg"],
+  "source_claim": "作者简介明确词与PV Opus5.5、曲SunoV6、图GPT；这是制作分工声明，不等于没有人工选择和调试。"
+}

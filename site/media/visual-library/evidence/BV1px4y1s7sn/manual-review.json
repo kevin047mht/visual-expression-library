@@ -1,0 +1,19 @@
+{
+  "bvid": "BV1px4y1s7sn",
+  "group": "human_led_candidate",
+  "title": "夏",
+  "reviewed": true,
+  "continuous_av_watched": false,
+  "coverage": "Full timeline overview every 3s; two 2s windows at 15fps; 2–4s at 30fps; 13.3–14.05s at 60fps.",
+  "review_note": "REVIEW.md",
+  "effects": [
+    {"time": [2.5, 2.77], "name": "孟菲斯几何拼贴／人物遮罩／弧形框", "direct_export": "图形容易；人物需干净图层"},
+    {"time": [3.2, 3.6], "name": "几何遮挡揭示转场", "direct_export": "机制容易，美术需设计"},
+    {"time": [4.4, 5.4], "name": "双色描边标题／手写名与涂鸦", "direct_export": "容易；所用片头素材归属未核"},
+    {"time": [14.0, 14.7], "name": "竖条遮罩揭示", "direct_export": "容易"},
+    {"time": [18.0, 18.0], "name": "中央画中画", "direct_export": "容易；仅概览时间点"}
+  ],
+  "rapid_switching": {"window": [12.8, 14.8], "minimum_major_composition_changes": 4, "approximate_times": [12.817, 13.533, 14.0, 14.7], "lower_bound_per_second": 2.0, "caution": "Not whole-video average; same-shot action/zoom and mask steps not counted individually; original anime cuts may be inherited."},
+  "excluded": ["WIN8 browser danmaku", "53s platform end recommendation cards"],
+  "attribution_caution": "Human-led editing candidate; no proof of zero AI use. Anime animation and opening typography may be source material."
+}

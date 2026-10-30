@@ -1,0 +1,104 @@
+{
+  "bvid": "BV1Rtut6cEBR",
+  "group": "ai_production_candidate",
+  "title": "巨构：缘起性空【AI全民制作人】",
+  "source_claim": "巨构AI，第一方110.1万、2026-08-07；含AI生成内容、AI合成标记，片头角标称updream制作。品牌标记不证明具体模型版本、自动分镜或剪辑程度。",
+  "coverage": "实际查看31张约2.02秒概览0–60.7（2表），4.011–5.962与15.03–16.982共56密集帧（4表，实际约13.84/s）；51.017–54.919另37帧（3表，实际约9.22/s，标头请求12/s）。源61.765079秒3840×2148，ffprobe r_frame_rate=83/3，采样依据实际PTS。三段4秒摘录。未听审，未连续完整音画观看。",
+  "audio_reviewed": false,
+  "effects": [
+    {
+      "time": [
+        0,
+        10.55
+      ],
+      "name": "圆门／月亮／巨墙瀑布",
+      "observation": "红色圆门对圆月和小白衣人物，接俯瞰长墙瀑布，再接崖间塔楼与桥。",
+      "implementation": "门框借景、红白对比、微小人物尺度参照；瀑布需要源视频/3D，可简化为流动噪声遮罩。",
+      "direct_export": "门光/调色和简化水纹容易；完整巨墙与瀑布融合较难"
+    },
+    {
+      "time": [
+        10.55,
+        25.906
+      ],
+      "name": "浮空门楼／侧向桥梁／树影投射",
+      "observation": "巨大门楼在云上，桥绕山崖，22秒长白墙与树影、红色柱列。",
+      "implementation": "前景暗/主体亮分层，树影用透明纹理/投影遮罩，云层分速度移动。",
+      "direct_export": "树影/云雾和慢推容易；复杂建筑结构需要美术素材"
+    },
+    {
+      "time": [
+        25.906,
+        41.262
+      ],
+      "name": "斜构图／洞口落水／巨门仰拍",
+      "observation": "倾斜宫阙与圆洞水幕，随后高位长墙，36–40秒暖光巨门仰拍和落水。",
+      "implementation": "相机旋转裁切建立斜线，垂直水纹分层；门内外光照和透视需要源图/生成。",
+      "direct_export": "旋转/调色/简化水幕中等；可信立体建筑与水流难"
+    },
+    {
+      "time": [
+        41.262,
+        51.667
+      ],
+      "name": "中心天光／瀑布轴线／镜面倒影",
+      "observation": "云中中心光束落入宫阙，46秒白墙与红柱在前方水面倒映。",
+      "implementation": "径向光束、镜像图层配波纹位移、薄雾叠加；真实反射视角需3D/源画面。",
+      "direct_export": "简化光束和倒影容易；几何正确的反射较难"
+    },
+    {
+      "time": [
+        51.667,
+        61.765079
+      ],
+      "name": "圆环框景／云海寺院／红柱片尾",
+      "observation": "巨大圆环围住远处寺院，小人物立于台上；最后低视点屋檐和红柱沉入雾。",
+      "implementation": "圆环前景遮罩、云海底层与寺院远层，微移/缩放形成视差；柱间阴影统一。",
+      "direct_export": "有分层素材后框景/雾层容易；建筑美术和补洞需处理"
+    }
+  ],
+  "rapid_switching": {
+    "windows": [
+      {
+        "range": [
+          4,
+          6
+        ],
+        "confirmed_major_composition_changes_minimum": 1,
+        "boundaries_approx": [
+          5.384
+        ],
+        "assessment": "月亮圆门→俯瞰长墙一次，落水/云动不计。"
+      },
+      {
+        "range": [
+          15,
+          17
+        ],
+        "confirmed_major_composition_changes_minimum": 1,
+        "boundary_bracket": [
+          15.681,
+          15.753
+        ],
+        "assessment": "正面门楼→斜向崖桥一次，源PTS可见区间而非臆造整帧精度。"
+      },
+      {
+        "range": [
+          51,
+          55
+        ],
+        "confirmed_major_composition_changes_minimum": 1,
+        "boundary_bracket": [
+          51.559,
+          51.667
+        ],
+        "assessment": "倒影白墙→圆环寺院一次，圆环内云层和小人物变化不另计。"
+      }
+    ],
+    "whole_video_average_known": false
+  },
+  "attribution_caution": "同作者巨构系列集中，不能把多部同风格作品当多个独立模型实验。未见复杂动力字或多样转场，不能为填表虚构。容器帧率不等于生成原帧率；未听审不评音乐卡点。",
+  "reviewed": true,
+  "continuous_av_watched": false,
+  "review_note": "REVIEW.md"
+}

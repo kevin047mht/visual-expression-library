@@ -1,0 +1,111 @@
+{
+  "bvid": "BV1wyuG6PEXH",
+  "group": "ai_production_candidate",
+  "title": "巨构：心行处灭【AI全民制作人】",
+  "source_claim": "巨构AI，第一方45.4万，2026-08-08；含AI生成内容/AI合成，角标称由updream生成。不能据此确定逐镜模型或自动剪辑。",
+  "coverage": "实际查看31张约2秒概览0–60.5242；2.017–3.995与10.007–11.9844共52密集帧，实际约12.64/s；42.005–45.920另34帧，约8.43/s。源61.789563秒3840×2148，nominal fps 25.25，时间依实际PTS。三段4秒摘录。未听审，未连续完整音画观看。",
+  "audio_reviewed": false,
+  "effects": [
+    {
+      "time": [
+        0,
+        6
+      ],
+      "name": "云上红塔／长殿／尺度人物",
+      "observation": "森林孤岛上的红塔转云上长殿，细小人物形成尺度对比。",
+      "implementation": "深度雾、前中后层、缓慢相机运动与暖冷光。",
+      "direct_export": "有素材后雾与慢推容易；建筑美术需生成或3D"
+    },
+    {
+      "time": [
+        6,
+        16
+      ],
+      "name": "暗框亮门／竹影暖墙／圆孔取景",
+      "observation": "深色装饰边框围住巨大红白门与竖向亮光；转竹影金墙、圆孔内远门。",
+      "implementation": "前景框遮罩、软发光、阴影纹理及圆形遮罩分层。",
+      "direct_export": "简化框景/发光/竹影容易；原建筑和光照关系需素材"
+    },
+    {
+      "time": [
+        16,
+        32
+      ],
+      "name": "悬空长廊／云海／红色圆门",
+      "observation": "长廊横跨云崖，金墙树影接厚墙中的红色圆门与岩石。",
+      "implementation": "透视构图先由源图确定，云雾噪声位移，远近层有不同运动速度。",
+      "direct_export": "简化云雾和视差容易；长廊连续几何较难"
+    },
+    {
+      "time": [
+        32,
+        42
+      ],
+      "name": "柱列消失点／云瀑与岩树",
+      "observation": "白红长柱廊延伸至远处，接山石树木和殿下云水流。",
+      "implementation": "柱列透视、层级遮挡、流动纹理和细小人物作为空间标尺。",
+      "direct_export": "流动纹理/调色容易；精准建筑与水流需生成或3D"
+    },
+    {
+      "time": [
+        42,
+        50
+      ],
+      "name": "阳台人物／长白飘带／建筑视差",
+      "observation": "三人在阳台前，长飘带与云持续运动，柱与屋顶框住远方宫城；后为白衣人物行于石道。",
+      "implementation": "前景建筑、中景人物、远城分层，飘带需源视频或布料模拟。",
+      "direct_export": "微视差容易；人物衣发和飘带连续动作较难"
+    },
+    {
+      "time": [
+        50,
+        61.789563
+      ],
+      "name": "金环框景／极简白墙／标志淡入",
+      "observation": "金环框住云中宫殿，收束至白墙盆景与巨构AI标志。",
+      "implementation": "环形前景遮罩、云雾、简洁字标透明度动画。",
+      "direct_export": "简化金环/雾/字标淡入容易"
+    }
+  ],
+  "rapid_switching": {
+    "windows": [
+      {
+        "range": [
+          2,
+          4
+        ],
+        "confirmed_major_composition_changes_minimum": 1,
+        "boundary_bracket": [
+          2.571,
+          2.65
+        ],
+        "assessment": "红塔森林→长殿一次。"
+      },
+      {
+        "range": [
+          10,
+          12
+        ],
+        "confirmed_major_composition_changes_minimum": 1,
+        "boundary_bracket": [
+          10.402,
+          10.481
+        ],
+        "assessment": "暗框巨门→竹影暖墙一次。"
+      },
+      {
+        "range": [
+          42,
+          46
+        ],
+        "confirmed_major_composition_changes_minimum": 0,
+        "assessment": "同一阳台构图，人物小动作、飘带与云移动不另算切镜。"
+      }
+    ],
+    "whole_video_average_known": false
+  },
+  "attribution_caution": "同UP巨构系列集中，不能视作多种制作流程的独立代表。画面生成不等于后期滤镜；nominal fps不等于模型生成帧率。未听审不评价音乐卡点。",
+  "reviewed": true,
+  "continuous_av_watched": false,
+  "review_note": "REVIEW.md"
+}

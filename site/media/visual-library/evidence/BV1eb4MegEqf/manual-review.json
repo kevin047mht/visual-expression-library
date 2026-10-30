@@ -1,0 +1,18 @@
+{
+  "bvid": "BV1eb4MegEqf",
+  "group": "human_led_candidate",
+  "title": "败犬温水的七次败北之旅！",
+  "reviewed": true,
+  "continuous_av_watched": false,
+  "coverage": "41 overview frames at approximately 5s spacing; 84–86s and 155.4–157.4s dense source frames; 108–112s portrait composition at 12 requested samples/s.",
+  "review_note": "REVIEW.md",
+  "effects": [
+    {"time": [15, 15], "name": "手机备忘录UI／屏幕替换", "direct_export": "平面容易；透视和遮罩需处理"},
+    {"time": [40, 40], "name": "人物竖条多分屏", "direct_export": "容易，需素材"},
+    {"time": [108.19, 109.53], "name": "环绕头像／错峰入场", "direct_export": "容易，需人物图层"},
+    {"time": [111.36, 111.7], "name": "模糊白闪转场", "direct_export": "容易"},
+    {"time": [140, 140], "name": "聊天气泡UI", "direct_export": "容易；未确认打字动画"}
+  ],
+  "rapid_switching": {"window": [108, 112], "minimum_major_composition_changes": null, "caution": "Portrait additions are layer updates within one composition, not separate shots. Other dense windows mainly inherited anime movement/cuts; no numerical edit rate issued."},
+  "attribution_caution": "Human-led editing candidate; no proof of zero AI use; anime motion/DoF/cuts may be inherited."
+}

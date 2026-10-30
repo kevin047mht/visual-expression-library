@@ -1,0 +1,62 @@
+{
+  "bvid": "BV1s5YA6KEiF",
+  "title": "",
+  "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\测试\\bilibili-editing-study\\.local-media\\BV1s5YA6KEiF.mp4",
+  "source_sha256": "d90dc1db783a3146d92d8896c7073ca80d669a2fac3c094dc3880dc904606075",
+  "duration": 330.069333,
+  "original_fps": 24.0,
+  "width": 1280,
+  "height": 720,
+  "has_audio": true,
+  "overview_step": 6.0,
+  "overview_frames": 54,
+  "scene_threshold": 0.24,
+  "scene_candidates": [
+    78.541687,
+    114.666688,
+    197.166687
+  ],
+  "review_windows": [
+    {
+      "start": 75.0,
+      "end": 79.0,
+      "scene_candidate_count": 1,
+      "scene_candidates": [
+        78.541687
+      ],
+      "dense_start": 76.59999999999991,
+      "dense_fps": 15,
+      "requested_samples_per_second": 15,
+      "actual_mean_samples_per_second": 11.999866436269272,
+      "dense_seconds": 2.0,
+      "clip": "evidence/BV1s5YA6KEiF/excerpt-1.mp4",
+      "contact_sheets": [
+        "evidence/BV1s5YA6KEiF/dense-1-1.jpg",
+        "evidence/BV1s5YA6KEiF/dense-1-2.jpg"
+      ]
+    },
+    {
+      "start": 111.0,
+      "end": 115.0,
+      "scene_candidate_count": 1,
+      "scene_candidates": [
+        114.666688
+      ],
+      "dense_start": 112.6999999999999,
+      "dense_fps": 15,
+      "requested_samples_per_second": 15,
+      "actual_mean_samples_per_second": 11.999869566635178,
+      "dense_seconds": 2.0,
+      "clip": "evidence/BV1s5YA6KEiF/excerpt-2.mp4",
+      "contact_sheets": [
+        "evidence/BV1s5YA6KEiF/dense-2-1.jpg",
+        "evidence/BV1s5YA6KEiF/dense-2-2.jpg"
+      ]
+    }
+  ],
+  "limits": [
+    "Scene detector candidates are not manually verified edit boundaries.",
+    "Labels use selected source-frame timestamps; sampling has finite temporal resolution.",
+    "Audio is included in clips; inclusion does not prove auditory review."
+  ]
+}

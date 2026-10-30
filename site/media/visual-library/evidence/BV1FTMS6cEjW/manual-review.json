@@ -1,0 +1,103 @@
+{
+  "bvid": "BV1FTMS6cEjW",
+  "group": "ai_production_candidate",
+  "title": "巨构：玄同无待【AI全民制作人】",
+  "source_claim": "巨构AI，第一方229.4万、2026-08-05；含AI生成内容标签、AI活动与作者身份。片内角标写updream制作，但未公开逐镜流程，不能从成片确定模型版本或全自动剪辑。",
+  "coverage": "实际查看31张2秒概览0–60（2表），2–3.933与10–11.933共60密集帧（4表，15/s）；40.5–44.4另40帧（3表，实际10/s，标头为请求12/s）。源61.767秒1920×1074/30fps，三段4秒摘录。未听审、未连续完整音画观看。",
+  "audio_reviewed": false,
+  "effects": [
+    {
+      "time": [
+        0,
+        5.4
+      ],
+      "name": "巨型圆门／尺度参照／雾与水流",
+      "observation": "极小人物面对巨大圆门和长柱列，暖色门缘对冷灰环境；2.867转白色瀑布墙，人物仍作为比例参照。",
+      "implementation": "先有巨构场景图/生成视频；人物尺度、消失点和冷暖光统一；雾、水波可简化叠层，但真实水与建筑关系需素材。",
+      "direct_export": "雾/调色/硬切容易，完整建筑美术与水流空间关系需生成或3D"
+    },
+    {
+      "time": [
+        5.4,
+        15.733
+      ],
+      "name": "门框借景／洞口构图／悬浮宫阙",
+      "observation": "6–10秒从暗门框看云上红白宫门，12秒石洞围出中央楼阁，14秒长墙高角度。",
+      "implementation": "构图以暗前景框出亮主体，层次由前景/主体/云海形成；透明前景加慢推可做简化2.5D。",
+      "direct_export": "有分层图后慢推容易；生成完整云上建筑不属于单纯转场"
+    },
+    {
+      "time": [
+        16,
+        31
+      ],
+      "name": "水面倒影／月亮／云墙／俯瞰",
+      "observation": "16–20秒楼阁/长墙倒影和圆月，22–24秒水墙与树，26–30秒高视点柱列云海。",
+      "implementation": "镜像裁切与波纹可模拟倒影，云用分层噪声位移；真实透视、建筑和反射一致性需源图/3D。",
+      "direct_export": "简化倒影/云雾中等，长建筑连续细节难"
+    },
+    {
+      "time": [
+        32,
+        46.567
+      ],
+      "name": "门缝光／雾层平移／圆形框景",
+      "observation": "32–36秒宫殿窄橙光门，38–40秒斜长墙，41.4秒硬切圆门内窄光缝；41.4后云雾缓动、人物衣摆变化，未见多次快速切镜。",
+      "implementation": "门缝以细条光渐变+辉光，雾层不同速度位移；角色衣摆依赖生成/源动画。",
+      "direct_export": "门光和雾容易，角色一致性/建筑空间需素材"
+    },
+    {
+      "time": [
+        48,
+        61.767
+      ],
+      "name": "树影／桥轴线／片尾标志",
+      "observation": "48秒平墙树影和小人物，52–56秒长桥中轴通向圆门，58秒柱体上小屋，60秒白色标志覆盖。",
+      "implementation": "树影可纹理投影/透明遮罩，桥轴线需要透视源图，标志透明度进入。",
+      "direct_export": "标志和树影容易，精致透视桥与建筑需美术素材"
+    }
+  ],
+  "rapid_switching": {
+    "windows": [
+      {
+        "range": [
+          2,
+          4
+        ],
+        "confirmed_major_composition_changes_minimum": 1,
+        "boundaries_approx": [
+          2.8667
+        ],
+        "assessment": "圆门水边→瀑布长墙一次硬切，水流和云移动不另加刀。"
+      },
+      {
+        "range": [
+          10,
+          12
+        ],
+        "confirmed_major_composition_changes_minimum": 1,
+        "boundaries_approx": [
+          10.5
+        ],
+        "assessment": "门框云宫→岩洞楼阁一次硬切。"
+      },
+      {
+        "range": [
+          40.5,
+          44.5
+        ],
+        "confirmed_major_composition_changes_minimum": 1,
+        "boundaries_approx": [
+          41.4
+        ],
+        "assessment": "斜长墙→正圆门一次；门内光雾和小人物缓动不另计。"
+      }
+    ],
+    "whole_video_average_known": false,
+    "caution": "14个自动scene候选未全人工逐帧定位，概览显示多段约2.5–5秒停留，不能据此给模型快速剪辑排名。"
+  },
+  "attribution_caution": "同UP巨构系列在候选中较多，应在最终样本质量/多样性审核时控制重复。AI标签不是模型独立完成分镜、生成和剪辑的证明。",
+  "reviewed": true,
+  "continuous_av_watched": false,
+  "review_note": "REVIEW.md"
+}

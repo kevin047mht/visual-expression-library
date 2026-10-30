@@ -1,0 +1,14 @@
+{
+  "bvid": "BV1mo4y1t7A7", "group": "human_led_candidate", "title": "让驱魔师免于堕落",
+  "reviewed": true, "continuous_av_watched": false,
+  "coverage": "31 overview frames every 4s; 85–87s and 91–93s dense actual-source samples (~0.083s spacing on 24fps source). Actually inspected. Audio not reviewed.",
+  "review_note": "REVIEW.md",
+  "effects": [
+    {"time": [12, 28], "name": "漫画抠图拼贴／局部着色", "direct_export": "已有图层后容易；抠图补画需准备"},
+    {"time": [80, 84], "name": "漫画立绘空间化／透视地板", "direct_export": "中等至较难，需深度排序与相机调试"},
+    {"time": [85, 87], "name": "能量折线／菱形阵列／加法辉光", "direct_export": "基础机制容易，空间合成需调试"},
+    {"time": [91, 93], "name": "甩镜模糊／粒子消散／反打", "direct_export": "基础滤镜容易；人物动作和图层连接需逐镜处理"}
+  ],
+  "rapid_switching": {"window": [91, 93], "minimum_major_composition_changes": null, "caution": "Framing replacements are visible, but camera continuity versus hard edits needs full continuous playback. Light flashes and geometry-array updates not counted as cuts."},
+  "attribution_caution": "Human-led editing candidate; manga drawings are source material, not assumed drawn by uploader; no proof of zero AI use."
+}

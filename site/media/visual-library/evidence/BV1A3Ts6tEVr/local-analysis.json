@@ -1,0 +1,87 @@
+{
+  "bvid": "BV1A3Ts6tEVr",
+  "title": "",
+  "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\测试\\bilibili-editing-study\\.local-media\\BV1A3Ts6tEVr.mp4",
+  "source_sha256": "0b4f1c351102002c392f8ca8dc87e6a60a1d8588caba5a029fdb491f8f27b514",
+  "duration": 79.551723,
+  "original_fps": 30.0,
+  "width": 1920,
+  "height": 1080,
+  "has_audio": true,
+  "overview_step": 4.0,
+  "overview_frames": 20,
+  "scene_threshold": 0.24,
+  "scene_candidates": [
+    0.9,
+    1.166688,
+    1.466687,
+    1.8,
+    1.933312,
+    2.133313,
+    6.566688,
+    9.366687,
+    10.433312,
+    12.466688,
+    14.0,
+    21.8,
+    24.366688,
+    35.333312,
+    37.833312,
+    41.166688,
+    49.033313,
+    53.566688,
+    53.933312,
+    54.533313,
+    58.666688,
+    59.866688,
+    61.2,
+    64.133313,
+    67.8
+  ],
+  "review_windows": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "scene_candidate_count": 6,
+      "scene_candidates": [
+        0.9,
+        1.166688,
+        1.466687,
+        1.8,
+        1.933312,
+        2.133313
+      ],
+      "dense_start": 0.2,
+      "dense_fps": 15,
+      "dense_seconds": 2.0,
+      "clip": "evidence/BV1A3Ts6tEVr/excerpt-1.mp4",
+      "contact_sheets": [
+        "evidence/BV1A3Ts6tEVr/dense-1-1.jpg",
+        "evidence/BV1A3Ts6tEVr/dense-1-2.jpg"
+      ]
+    },
+    {
+      "start": 9.0,
+      "end": 13.0,
+      "scene_candidate_count": 3,
+      "scene_candidates": [
+        9.366687,
+        10.433312,
+        12.466688
+      ],
+      "dense_start": 9.0,
+      "dense_fps": 15,
+      "dense_seconds": 2.0,
+      "clip": "evidence/BV1A3Ts6tEVr/excerpt-2.mp4",
+      "contact_sheets": [
+        "evidence/BV1A3Ts6tEVr/dense-2-1.jpg",
+        "evidence/BV1A3Ts6tEVr/dense-2-2.jpg"
+      ]
+    }
+  ],
+  "limits": [
+    "Scene detector candidates are not manually verified edit boundaries.",
+    "Labels use selected source-frame timestamps; sampling has finite temporal resolution.",
+    "Audio is included in clips; inclusion does not prove auditory review."
+  ]
+}

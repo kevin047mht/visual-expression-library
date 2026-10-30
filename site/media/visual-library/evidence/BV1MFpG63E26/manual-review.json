@@ -1,0 +1,18 @@
+{
+  "bvid": "BV1MFpG63E26",
+  "group": "ai_candidate",
+  "title": "带我出逃吧，我的罗密欧——Astra制作",
+  "reviewed": true,
+  "continuous_av_watched": false,
+  "coverage": "47 overview frames every 6s; 18–20s and 97.5–99.5s at 15fps, actually inspected.",
+  "review_note": "REVIEW.md",
+  "effects": [
+    {"time": [18, 19.4], "name": "斜切条带遮罩／局部特写揭示", "direct_export": "容易，需素材"},
+    {"time": [36, 42], "name": "歌词大字排版／字号对比", "direct_export": "容易；概览观察"},
+    {"time": [48, 66], "name": "纸张质感／复古印刷拼贴", "direct_export": "纹理合成容易，美术需设计"},
+    {"time": [72, 96], "name": "巴洛克装饰框／人物文字交叠", "direct_export": "合成可行，精细美术不属于简单直出"},
+    {"time": [97.5, 99.5], "name": "胶片齿孔／条带遮挡快切／模糊", "direct_export": "机制容易，需逐镜调试"}
+  ],
+  "rapid_switching": {"window": [97.5, 99.5], "minimum_major_composition_changes": 5, "approximate_times": [97.9, 98.43, 98.57, 99.1, 99.3], "lower_bound_per_second": 2.5, "caution": "Selected high-change window only; strip-mask intermediate steps excluded; not whole-video average or a model capability benchmark."},
+  "attribution_caution": "AI label and author workflow self-report; tool usage and cost not independently audited."
+}

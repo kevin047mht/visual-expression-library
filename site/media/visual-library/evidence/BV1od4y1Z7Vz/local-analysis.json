@@ -1,0 +1,100 @@
+{
+  "bvid": "BV1od4y1Z7Vz",
+  "title": "",
+  "source": "C:\\Users\\Admin1\\Documents\\ChatGPT\\测试\\bilibili-editing-study\\.local-media\\BV1od4y1Z7Vz.mp4",
+  "source_sha256": "90e30a895c709362ca929cfb172e2cb578a059eb7e69f80718f6b25c580b6cfe",
+  "duration": 140.970333,
+  "original_fps": 25.0,
+  "width": 1280,
+  "height": 720,
+  "has_audio": true,
+  "overview_step": 3.0,
+  "overview_frames": 47,
+  "scene_threshold": 0.24,
+  "scene_candidates": [
+    14.8,
+    14.84,
+    15.24,
+    15.28,
+    18.28,
+    25.04,
+    25.16,
+    29.84,
+    34.56,
+    42.12,
+    42.2,
+    43.44,
+    49.48,
+    55.56,
+    60.52,
+    64.84,
+    66.28,
+    68.32,
+    69.76,
+    84.04,
+    84.08,
+    85.72,
+    87.24,
+    90.96,
+    91.0,
+    98.6,
+    98.68,
+    100.24,
+    100.36,
+    106.88,
+    115.2,
+    119.32,
+    119.44,
+    120.0,
+    123.04
+  ],
+  "review_windows": [
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "scene_candidate_count": 4,
+      "scene_candidates": [
+        14.8,
+        14.84,
+        15.24,
+        15.28
+      ],
+      "dense_start": 13.299999999999995,
+      "dense_fps": 15,
+      "requested_samples_per_second": 15,
+      "actual_mean_samples_per_second": 12.5,
+      "dense_seconds": 2.0,
+      "clip": "evidence/BV1od4y1Z7Vz/excerpt-1.mp4",
+      "contact_sheets": [
+        "evidence/BV1od4y1Z7Vz/dense-1-1.jpg",
+        "evidence/BV1od4y1Z7Vz/dense-1-2.jpg"
+      ]
+    },
+    {
+      "start": 84.0,
+      "end": 88.0,
+      "scene_candidate_count": 4,
+      "scene_candidates": [
+        84.04,
+        84.08,
+        85.72,
+        87.24
+      ],
+      "dense_start": 84.0,
+      "dense_fps": 15,
+      "requested_samples_per_second": 15,
+      "actual_mean_samples_per_second": 12.49999999999999,
+      "dense_seconds": 2.0,
+      "clip": "evidence/BV1od4y1Z7Vz/excerpt-2.mp4",
+      "contact_sheets": [
+        "evidence/BV1od4y1Z7Vz/dense-2-1.jpg",
+        "evidence/BV1od4y1Z7Vz/dense-2-2.jpg"
+      ]
+    }
+  ],
+  "limits": [
+    "Scene detector candidates are not manually verified edit boundaries.",
+    "Labels use selected source-frame timestamps; sampling has finite temporal resolution.",
+    "Audio is included in clips; inclusion does not prove auditory review."
+  ]
+}

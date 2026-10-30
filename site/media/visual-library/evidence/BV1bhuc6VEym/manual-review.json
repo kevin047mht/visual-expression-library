@@ -1,0 +1,103 @@
+{
+  "bvid": "BV1bhuc6VEym",
+  "group": "ai_production_candidate",
+  "title": "巨构：行深般若【天阙纪元】",
+  "source_claim": "巨构AI，第一方172.5万、2026-08-04；全站排行榜最高第52名为页面可见历史标记。含AI生成内容/AI合成，片头角标称updream制作；不能据此确定逐镜模型或自动剪辑。",
+  "coverage": "实际查看31张约2秒概览0–60.103（2表），2.003–3.935与10.017–11.949共56密集帧（4表，实际约13.98/s）；51.016–54.987另38帧（3表，实际约9.32/s，标头请求12/s）。源61.765079秒3840×2160，ffprobe nominal fps约27.9167；依据实际PTS标注。三段4秒摘录。未听审，未连续完整音画观看。",
+  "audio_reviewed": false,
+  "effects": [
+    {
+      "time": [
+        0,
+        5.331
+      ],
+      "name": "前景松枝／云上红宫／崖台人物",
+      "observation": "红宫与秋树在云海，深色前景松枝框出远景；2.862转岩壁平台上的小红衣人物。",
+      "implementation": "前景枝/主体/云海分层，冷暖光与尺度统一，人物作为空间参照。",
+      "direct_export": "有分层素材后云雾/视差容易；建筑和岩壁美术需生成或3D"
+    },
+    {
+      "time": [
+        5.331,
+        15.706
+      ],
+      "name": "巨门云浪／崖中宫／室内天光",
+      "observation": "巨大红门两侧云浪，接暖红悬宫与坐姿人物，再接殿内垂直白光束。",
+      "implementation": "云浪用噪声位移加分层遮挡；殿内光束用体积感渐变、细尘粒和发光。",
+      "direct_export": "简化云雾/光束容易；正确建筑空间与动态云浪较难"
+    },
+    {
+      "time": [
+        15.706,
+        36.205
+      ],
+      "name": "长廊柱列／消失点／雾中人物",
+      "observation": "极长红柱廊跨云海，双列宫阙形成中轴，阶梯转弯和人物缓行。",
+      "implementation": "透视源图或3D长廊，遮罩分层慢推，深度雾和统一阴影；人物动作由源视频提供。",
+      "direct_export": "慢推/雾层容易；长建筑连续细节和角色动作难"
+    },
+    {
+      "time": [
+        36.205,
+        51.732
+      ],
+      "name": "崖宫瀑布／云中楼阁／斜阶与天桥",
+      "observation": "崖边宫殿与水幕，白云包围独立楼阁，红墙上长斜阶，最后中轴长桥通宫。",
+      "implementation": "水幕简化为流动纹理，建筑与光影先由素材确定；斜线/中轴构图交替组织场景。",
+      "direct_export": "调色/水纹和剪辑容易；建筑透视/落水物理关系较难"
+    },
+    {
+      "time": [
+        51.732,
+        61.765079
+      ],
+      "name": "镜面倒影／斜光／圆门月轮",
+      "observation": "长廊前水面映宫阙、斜光扫过，雾缓动；后为圆形红门框住月亮和山体。",
+      "implementation": "镜像图层+细波纹模拟水面，雾层和斜光遮罩；圆门前景/远山/月亮分层。",
+      "direct_export": "简化倒影/光束/雾容易；准确反射和原建筑美术需素材"
+    }
+  ],
+  "rapid_switching": {
+    "windows": [
+      {
+        "range": [
+          2,
+          4
+        ],
+        "confirmed_major_composition_changes_minimum": 1,
+        "boundaries_approx": [
+          2.862
+        ],
+        "assessment": "云海红宫→崖台人物一次，云动不计。"
+      },
+      {
+        "range": [
+          10,
+          12
+        ],
+        "confirmed_major_composition_changes_minimum": 1,
+        "boundaries_approx": [
+          10.375
+        ],
+        "assessment": "巨红门→暖红崖中宫一次，人物衣摆/雾不计。"
+      },
+      {
+        "range": [
+          51,
+          55
+        ],
+        "confirmed_major_composition_changes_minimum": 1,
+        "boundary_bracket": [
+          51.66,
+          51.767
+        ],
+        "assessment": "长桥宫阙→倒影水面宫阙一次；水波、斜光与人物移动不是新切镜。"
+      }
+    ],
+    "whole_video_average_known": false
+  },
+  "attribution_caution": "榜单只作热度/策展辅助，不能替代画面质量或制作方式审计。同UP巨构系列多，应报告样本集中；宫阙美术生成不等于后期滤镜。未听审不评音乐卡点。",
+  "reviewed": true,
+  "continuous_av_watched": false,
+  "review_note": "REVIEW.md"
+}

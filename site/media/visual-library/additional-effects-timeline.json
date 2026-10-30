@@ -1,0 +1,38 @@
+{
+  "original": true,
+  "audio": false,
+  "resolution": [
+    960,
+    540
+  ],
+  "fps": 24,
+  "duration": 20,
+  "scenes": [
+    {
+      "start": 0,
+      "end": 4,
+      "mechanism": "窗口入场与进度条"
+    },
+    {
+      "start": 4,
+      "end": 8,
+      "mechanism": "有限层递归"
+    },
+    {
+      "start": 8,
+      "end": 12,
+      "mechanism": "散字景深"
+    },
+    {
+      "start": 12,
+      "end": 16,
+      "mechanism": "粒子聚字"
+    },
+    {
+      "start": 16,
+      "end": 20,
+      "mechanism": "画幅压线展开"
+    }
+  ],
+  "limit": "Mechanism proof only, no Bilibili artwork, author parameters, audio synchronization or content-aware segmentation."
+}

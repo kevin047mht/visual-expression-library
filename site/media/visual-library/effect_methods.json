@@ -1,0 +1,481 @@
+{
+  "schema_version": "1.0",
+  "researched_on": "2026-10-19",
+  "language": "zh-CN",
+  "purpose": "可复现效果方法与条件化直出评估",
+  "evidence_scope": "第一方技术文档；未将方法论当作B站视频实测",
+  "parameters_origin": "全部为研究者工程起步建议，非视频样本实测、非官方推荐",
+  "reference_resolution": [
+    1920,
+    1080
+  ],
+  "grades": {
+    "A": "素材、布局、时间表明确后适合程序直出，仍需导出验收",
+    "B": "需逐镜审美判断、素材准备或内容感知调试",
+    "A/B": "依规则版或内容感知版前提分别判断"
+  },
+  "execution_test_status": "未逐项进行本机渲染验收",
+  "sources": {
+    "ffmpeg": {
+      "title": "FFmpeg Filters 官方文档",
+      "url": "https://ffmpeg.org/ffmpeg-filters.html",
+      "access": "已读取官方全文及相应章节"
+    },
+    "shader": {
+      "title": "Three.js ShaderMaterial",
+      "url": "https://threejs.org/docs/pages/ShaderMaterial.html",
+      "access": "已读取"
+    },
+    "bloom": {
+      "title": "Three.js UnrealBloomPass",
+      "url": "https://threejs.org/docs/pages/UnrealBloomPass.html",
+      "access": "已读取"
+    },
+    "film": {
+      "title": "Three.js FilmPass",
+      "url": "https://threejs.org/docs/pages/FilmPass.html",
+      "access": "已读取"
+    },
+    "points": {
+      "title": "Three.js Points",
+      "url": "https://threejs.org/docs/pages/Points.html",
+      "access": "已读取"
+    },
+    "wireframe": {
+      "title": "Three.js MeshBasicMaterial",
+      "url": "https://threejs.org/docs/pages/MeshBasicMaterial.html#wireframe",
+      "access": "已读取"
+    },
+    "plane": {
+      "title": "Three.js PlaneGeometry",
+      "url": "https://threejs.org/docs/pages/PlaneGeometry.html",
+      "access": "已读取"
+    },
+    "blender_glare": {
+      "title": "Blender 4.4 Glare Node 官方手册",
+      "url": "https://docs.blender.org/manual/en/4.4/compositing/types/filter/glare.html",
+      "access": "已读取官方搜索索引正文；直接打开返回获取失败"
+    },
+    "blender_render": {
+      "title": "Blender Rendering From The Command Line 官方手册",
+      "url": "https://docs.blender.org/manual/en/latest/advanced/command_line/render.html",
+      "access": "已读取官方搜索索引正文"
+    },
+    "animation": {
+      "title": "Three.js AnimationMixer",
+      "url": "https://threejs.org/docs/pages/AnimationMixer.html",
+      "access": "已读取"
+    }
+  },
+  "effects": [
+    {
+      "id": "typewriter",
+      "name": "打字机／逐字出现",
+      "category": "字效",
+      "description": "文字按字符顺序出现，像终端输入。",
+      "approach": "脚本按时间生成前缀文本事件，交给 drawtext 或逐帧字层；中文按字素切分，保留标点。",
+      "suggested_parameters": [
+        "字间延迟 40–120 ms",
+        "句末停留 0.5–1.5 s",
+        "光标闪烁周期 0.5–0.9 s"
+      ],
+      "export_grade": "A",
+      "prerequisites": "文案、可用字体、排版宽度、时间表已确定。",
+      "manual_adjustment": "长句换行、标点节奏、字距需检查；没有假定原视频的参数。",
+      "source_keys": [
+        "ffmpeg"
+      ]
+    },
+    {
+      "id": "glyph_bounce",
+      "name": "逐字弹跳／弹性入场",
+      "category": "字效",
+      "description": "每个字先上冲或放大，再回落到基线。",
+      "approach": "把字符做成独立透明字层，按错开的时间设置位移与缩放曲线；曲线为自行设计。",
+      "suggested_parameters": [
+        "逐字错开 30–80 ms",
+        "单字入场 180–400 ms",
+        "上冲 12–50 px",
+        "缩放峰值 1.05–1.25 倍"
+      ],
+      "export_grade": "A",
+      "prerequisites": "字体、字形宽度与目标布局确定。",
+      "manual_adjustment": "复杂字距、斜排、沿路径排列需逐镜调整。",
+      "source_keys": [
+        "shader",
+        "animation"
+      ]
+    },
+    {
+      "id": "text_reveal",
+      "name": "文字遮罩揭示／扫光显字",
+      "category": "字效",
+      "description": "字已经排好，移动遮罩让它逐步露出。",
+      "approach": "将完整文字层与随时间移动的矩形或渐变 alpha 相乘，再合成。",
+      "suggested_parameters": [
+        "揭示 0.2–0.6 s",
+        "羽化 0–24 px",
+        "斜切角 0–25°"
+      ],
+      "export_grade": "A",
+      "prerequisites": "文字透明图层、揭示方向和位置已定。",
+      "manual_adjustment": "跨多行的阅读顺序、遮罩边缘及画面焦点要检查。",
+      "source_keys": [
+        "shader",
+        "ffmpeg"
+      ]
+    },
+    {
+      "id": "stroke_shadow",
+      "name": "描边／硬投影",
+      "category": "字效",
+      "description": "字边形成色框，后方有偏移暗影。",
+      "approach": "drawtext 的 borderw、bordercolor、shadowx、shadowy；软投影可另做模糊字层。",
+      "suggested_parameters": [
+        "1080p 描边 2–8 px",
+        "投影偏移 2–12 px",
+        "投影不透明度 0.3–0.8"
+      ],
+      "export_grade": "A",
+      "prerequisites": "字体文件、配色、字号已定。",
+      "manual_adjustment": "花体镂空与细笔画应调整描边宽度，防止糊成团。",
+      "source_keys": [
+        "ffmpeg"
+      ]
+    },
+    {
+      "id": "glow",
+      "name": "发光／辉光／霓虹",
+      "category": "画面",
+      "description": "亮边或亮字外扩出柔光。",
+      "approach": "Three.js UnrealBloomPass，或 Blender Glare；对字效可把模糊副本加回原字。",
+      "suggested_parameters": [
+        "Three.js strength 0.3–1.5",
+        "radius 0.1–0.6",
+        "threshold 0.7–1.0"
+      ],
+      "export_grade": "A",
+      "prerequisites": "画面亮度范围、色彩管理、目标发光区域已定。",
+      "manual_adjustment": "高光溢出、文字可读性和肤色污染要逐镜看；Blender 不同版本节点接口不同。",
+      "source_keys": [
+        "bloom",
+        "blender_glare"
+      ]
+    },
+    {
+      "id": "rgb_split",
+      "name": "RGB 分离／色差边",
+      "category": "画面",
+      "description": "红蓝轮廓错开，形成电子失真感。",
+      "approach": "FFmpeg rgbashift；或片元着色器按不同 UV 偏移采样 R、G、B。",
+      "suggested_parameters": [
+        "通道偏移 1–8 px",
+        "重拍强调 2–6 帧",
+        "日常画面建议偏移 1–3 px"
+      ],
+      "export_grade": "A",
+      "prerequisites": "输出分辨率和作用区间已定。",
+      "manual_adjustment": "人脸和细字易重影，需要限制强度；这不等同于实际镜头的物理色散。",
+      "source_keys": [
+        "ffmpeg",
+        "shader"
+      ]
+    },
+    {
+      "id": "scanlines",
+      "name": "扫描线／CRT 横纹",
+      "category": "画面",
+      "description": "明暗细横纹覆盖画面。",
+      "approach": "片元着色器以像素行号调制亮度，叠加少量纵向漂移；自行实现图案。",
+      "suggested_parameters": [
+        "线间距 3–6 px",
+        "暗线覆盖率 8%–20%",
+        "漂移 0–20 px/s"
+      ],
+      "export_grade": "A",
+      "prerequisites": "目标分辨率与线间距已定。",
+      "manual_adjustment": "缩放和平台压缩易产生摩尔纹，需看实际导出。",
+      "source_keys": [
+        "shader"
+      ]
+    },
+    {
+      "id": "grain",
+      "name": "颗粒／噪声",
+      "category": "画面",
+      "description": "细小随机亮暗颗粒造成胶片或电子质感。",
+      "approach": "Three.js FilmPass；或 FFmpeg noise。",
+      "suggested_parameters": [
+        "FilmPass intensity 0.03–0.15",
+        "FFmpeg alls 2–8 作为另一套参数，二者不能直接换算",
+        "需要故障爆发时短暂增大"
+      ],
+      "export_grade": "A",
+      "prerequisites": "噪声风格与作用区间已定。",
+      "manual_adjustment": "暗部脏污和压缩后块状纹理需检查；固定随机种子便于复现。",
+      "source_keys": [
+        "film",
+        "ffmpeg"
+      ]
+    },
+    {
+      "id": "pixelate",
+      "name": "像素化／马赛克",
+      "category": "画面",
+      "description": "整幅图被压成清楚的方格色块。",
+      "approach": "降采样再以最近邻放大，或在着色器把 UV 量化到格点。",
+      "suggested_parameters": [
+        "1080p 单格 6–24 px",
+        "像素化入出 4–12 帧"
+      ],
+      "export_grade": "A",
+      "prerequisites": "确定作用区域与网格尺度。",
+      "manual_adjustment": "细字、眼睛容易消失；遮挡隐私所需强度不能由此审美建议代替。",
+      "source_keys": [
+        "shader",
+        "ffmpeg"
+      ]
+    },
+    {
+      "id": "glitch",
+      "name": "故障切片／条带位移",
+      "category": "画面",
+      "description": "若干横条错位，夹杂 RGB 分离和噪声。",
+      "approach": "ShaderMaterial 对若干行段偏移 UV，再叠色差与颗粒；位移选择及时间随机逻辑自行编码。",
+      "suggested_parameters": [
+        "条带高 8–80 px",
+        "横移 5–80 px",
+        "爆发 2–8 帧",
+        "同一爆发内 1–4 条带"
+      ],
+      "export_grade": "A",
+      "prerequisites": "希望的故障方向、种子和触发时刻已给定。",
+      "manual_adjustment": "需检查内容辨识；复杂的真人面部溶解或变形不属于这个简单效果。",
+      "source_keys": [
+        "shader"
+      ]
+    },
+    {
+      "id": "digital_zoom",
+      "name": "数字推拉／照片运镜",
+      "category": "画面",
+      "description": "整张图缓慢靠近、远离或平移。",
+      "approach": "FFmpeg zoompan，或贴图平面相对镜头移动。",
+      "suggested_parameters": [
+        "镜头持续 1–4 s",
+        "常规缩放 1.02–1.20 倍",
+        "重拍短推 1.10–1.35 倍／4–10 帧"
+      ],
+      "export_grade": "A",
+      "prerequisites": "焦点坐标与素材清晰度足够。",
+      "manual_adjustment": "人物眼睛、文字出框与画质放大损失需逐镜检查。",
+      "source_keys": [
+        "ffmpeg",
+        "plane"
+      ]
+    },
+    {
+      "id": "shake",
+      "name": "镜头抖动／撞击震动",
+      "category": "画面",
+      "description": "画面在重拍处短暂摆动后回稳。",
+      "approach": "预先放大保留边缘余量，再对图层或镜头施加衰减位移、旋转。",
+      "suggested_parameters": [
+        "位移幅度 2–16 px",
+        "旋转 0.1–0.6°",
+        "时长 3–10 帧",
+        "预放大约 1.03–1.08 倍"
+      ],
+      "export_grade": "A",
+      "prerequisites": "触发时刻、边缘处理方式已定。",
+      "manual_adjustment": "需要看出框与累积眩晕；有镜头运动的原片可能需要更小幅度。",
+      "source_keys": [
+        "shader",
+        "animation"
+      ]
+    },
+    {
+      "id": "hard_cut",
+      "name": "硬切／跳切",
+      "category": "转场",
+      "description": "前一镜头在某帧结束，下一镜头直接接上。",
+      "approach": "按帧切片并顺序拼接；对齐时间戳及音画时长。",
+      "suggested_parameters": [
+        "转场重叠 0 帧",
+        "高速段可试镜头长 0.125–0.5 s",
+        "叙事段可试 1–4 s"
+      ],
+      "export_grade": "A",
+      "prerequisites": "镜头边界和排序已给定。",
+      "manual_adjustment": "选哪里切与视觉连续性属于剪辑判断；程序能精确执行，不能仅凭播放量决定切点。",
+      "source_keys": [
+        "ffmpeg"
+      ]
+    },
+    {
+      "id": "dissolve",
+      "name": "叠化／交叉淡化",
+      "category": "转场",
+      "description": "两镜头短时间叠在一起，前淡出后淡入。",
+      "approach": "FFmpeg xfade 的 fade 或 dissolve。",
+      "suggested_parameters": [
+        "常规重叠 0.15–0.5 s",
+        "慢情绪段 0.5–1.0 s"
+      ],
+      "export_grade": "A",
+      "prerequisites": "输入帧率、尺寸、像素格式、timebase 已统一。",
+      "manual_adjustment": "人脸重叠、运动方向冲突和灰雾感需检查。",
+      "source_keys": [
+        "ffmpeg"
+      ]
+    },
+    {
+      "id": "wipe",
+      "name": "方向擦除／推屏",
+      "category": "转场",
+      "description": "新画面从一个方向推进，替换旧画面。",
+      "approach": "FFmpeg xfade 的 wipeleft 等；推屏用 slideleft 等，二者空间运动不同。",
+      "suggested_parameters": [
+        "时长 0.12–0.35 s",
+        "方向随前一镜头运动方向选择"
+      ],
+      "export_grade": "A",
+      "prerequisites": "两镜头方向及顺序已定，输入规格统一。",
+      "manual_adjustment": "人物被截断与方向逆势需逐镜检查。",
+      "source_keys": [
+        "ffmpeg"
+      ]
+    },
+    {
+      "id": "zoom_transition",
+      "name": "冲镜／缩放转场",
+      "category": "转场",
+      "description": "前镜快速放大，借模糊或相似中心点切入后镜。",
+      "approach": "基础版可用 xfade=zoomin；更接近成片需自己编排前后缩放、中心点及模糊。",
+      "suggested_parameters": [
+        "重叠 0.10–0.25 s",
+        "总峰值缩放 1.15–1.60 倍",
+        "中心点前后误差建议先控制在画幅宽的 5% 以内"
+      ],
+      "export_grade": "B",
+      "prerequisites": "两镜头主体位置与可裁切余量足够。",
+      "manual_adjustment": "中心点、运动速度、模糊强度通常要逐镜调；现成 zoomin 不保证复刻任意冲镜。",
+      "source_keys": [
+        "ffmpeg",
+        "shader"
+      ]
+    },
+    {
+      "id": "shape_mask",
+      "name": "圆形／矩形／自定义形状遮罩转场",
+      "category": "转场",
+      "description": "圆、菱形或人物轮廓变成镜头开口。",
+      "approach": "规则形状可用 xfade circleopen、rectcrop；自定义 alpha 用着色器或遮罩合成。",
+      "suggested_parameters": [
+        "时长 0.15–0.45 s",
+        "边缘羽化 0–20 px",
+        "形状中心随主体定位"
+      ],
+      "export_grade": "A/B",
+      "prerequisites": "规则图形为 A；人物轮廓版须预先有稳定遮罩。",
+      "manual_adjustment": "自动抠像的发丝、运动模糊和遮挡常需逐帧修正。",
+      "source_keys": [
+        "ffmpeg",
+        "shader"
+      ]
+    },
+    {
+      "id": "parallax",
+      "name": "多层视差／2.5D 运镜",
+      "category": "画面",
+      "description": "前景走得快、远景走得慢，使平面有纵深。",
+      "approach": "把分好层的透明图片放在不同深度的 PlaneGeometry，统一镜头移动。",
+      "suggested_parameters": [
+        "3–6 层",
+        "2–5 s 内总横移为画宽 1%–6%",
+        "近层与远层位移比先试 2:1–5:1"
+      ],
+      "export_grade": "B",
+      "prerequisites": "已有干净前景、背景、遮挡补画和正确图层关系时可程序直出。",
+      "manual_adjustment": "单张图自动分层、补全人物身后背景及穿帮检查常是主要工作量。",
+      "source_keys": [
+        "plane",
+        "animation"
+      ]
+    },
+    {
+      "id": "particles",
+      "name": "漂浮粒子／星尘／碎光",
+      "category": "画面",
+      "description": "小光点在空间中漂移、闪烁或爆开。",
+      "approach": "Three.js Points 配合材质与固定时间更新；粒子位置、速度和寿命逻辑自行编排。",
+      "suggested_parameters": [
+        "500–5000 个点起步",
+        "1080p 点径 1–5 px",
+        "寿命 0.6–3 s",
+        "主体附近透明度 0.1–0.5"
+      ],
+      "export_grade": "A",
+      "prerequisites": "粒子层在镜头前后的位置与基本风格已定。",
+      "manual_adjustment": "有真实碰撞、遮挡、贴地烟雾时升级为 B，须逐镜调试和性能验收。",
+      "source_keys": [
+        "points"
+      ]
+    },
+    {
+      "id": "wireframe",
+      "name": "几何线框／网格隧道／数字空间",
+      "category": "画面",
+      "description": "规则轮廓线与透视网格组成科技空间。",
+      "approach": "Three.js 几何体加 MeshBasicMaterial.wireframe；需要明确线宽时另用线几何或屏幕空间画线。",
+      "suggested_parameters": [
+        "旋转 3–20°/s",
+        "画面内 10–40 条主网格线",
+        "视觉线宽目标约 1–2 px"
+      ],
+      "export_grade": "A",
+      "prerequisites": "几何形状、镜头路径和布局已定。",
+      "manual_adjustment": "wireframeLinewidth 在 WebGL 里不能当成可靠的任意线宽控制；复杂字阵需要重新设计布局。",
+      "source_keys": [
+        "wireframe"
+      ]
+    },
+    {
+      "id": "beat_sync",
+      "name": "音频对拍／卡点／鼓点触发",
+      "category": "节奏",
+      "description": "切镜、字效或闪光落在节拍或重音上。",
+      "approach": "先得到可信的 beat/onset 时间表，再量化到帧并调度效果；RMS/峰值曲线仅作候选检测。",
+      "suggested_parameters": [
+        "若 BPM 已知，拍间距 = 60/BPM s",
+        "120 BPM 时四分拍间隔 0.5 s，八分拍 0.25 s",
+        "30 fps 对拍误差建议检查在 ±1 帧内"
+      ],
+      "export_grade": "B",
+      "prerequisites": "音乐文件、速度变化信息及审核过的拍点时间表。",
+      "manual_adjustment": "强度峰值不等于音乐重拍；切分音、弱起、变速、歌词落点通常需听辨修正。",
+      "source_keys": [
+        "ffmpeg"
+      ]
+    },
+    {
+      "id": "fast_montage",
+      "name": "短时间多镜切换／节奏蒙太奇",
+      "category": "节奏",
+      "description": "连续短镜把形状、动作或颜色组织成节奏。",
+      "approach": "按 EDL 或时间表拼接镜头并用固定时钟逐帧渲染；切换密度是内容设计，非单个滤镜。",
+      "suggested_parameters": [
+        "分析窗可设 1 s、5 s、10 s",
+        "记录每窗切点数、镜头时长中位数/P10/P90",
+        "0.10 s 镜头在 30 fps 仅 3 帧；30/60 fps 应分别评价"
+      ],
+      "export_grade": "B",
+      "prerequisites": "镜头池、焦点位置、时间表与输出帧率确定。",
+      "manual_adjustment": "同一主体连续、构图匹配、可读性和情绪节奏需要逐镜判断；密度高不能直接判定能力强。",
+      "source_keys": [
+        "ffmpeg",
+        "animation"
+      ]
+    }
+  ]
+}
