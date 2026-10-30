@@ -8,15 +8,37 @@
 - 保留案例来源、取样时间、图像和短片。84 条主要样本与 16 条机制或局限参考分开标注。
 - 分析基于间隔概览与局部连续帧，**不代表连续观看全部作品**；音画对拍未核验。教学分析与原作者意图区分呈现。
 
-## 快速开始
+## 快速下载与使用
 
-无需安装依赖，在项目根目录运行：
+### 直接下载（推荐）
+
+**[⬇ 下载完整资料馆 ZIP](https://github.com/kevin047mht/visual-expression-library/archive/refs/heads/main.zip)**
+
+1. 点击上方链接，下载完成后解压 ZIP。
+2. 进入解压后的文件夹，双击 `site/index.html`，即可在浏览器中打开资料馆。
+3. 请保留整个文件夹及其原有结构，以便页面找到案例图片和视频。
+
+这是静态网页，无需安装软件或登录。已读记录和笔记保存在当前浏览器；浏览器的本地文件策略可能限制保存，重要笔记请使用页面中的导出功能备份。
+
+### 使用 Git 下载
+
+已安装 Git 的用户也可以运行：
+
+```bash
+git clone https://github.com/kevin047mht/visual-expression-library.git
+```
+
+然后打开下载目录中的 `site/index.html`。
+
+### 可选：使用本地服务器
+
+如需通过本地服务器浏览，请先安装 Python，在项目根目录运行：
 
 ```bash
 python -m http.server 8000 --directory site
 ```
 
-浏览器打开 <http://localhost:8000/>；也可直接打开 `site/index.html`。学习地图是主要入口；浏览器存储用于已读与笔记，重要内容请使用页面导出功能备份。
+然后访问 <http://localhost:8000/>。
 
 ## 目录
 
